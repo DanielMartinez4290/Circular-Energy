@@ -1,0 +1,2 @@
+[11-Feb-2015 13:31:11] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '../wp-content/themes/circular/mpdf/mpdf.php' for inclusion (include_path='.:/usr/lib64/php:/usr/share/pear') in /home1/circula6/public_html/wp-content/themes/circular/mpdf/examples/example02_CSS_styles.php on line 22
+[11-Feb-2015 13:31:11] PHP Fatal error:  Class 'mPDF' not found in /home1/circula6/public_html/wp-content/themes/circular/mpdf/examples/example02_CSS_styles.php on line 24

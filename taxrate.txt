@@ -1,0 +1,3088 @@
+Abbott, 	8.250
+Abernathy, 	8.250
+Abilene, 	8.250
+Abram, 	6.250
+Abram-Perezville, 	6.250
+Ace, 	6.750
+Ackerly, 	7.750
+Acme, 	6.750
+Acton, 	7.250
+Acuff, 	6.750
+Adamsville, 	6.750
+Addison, 	8.250
+Adkins, 	6.750
+Adrian, 	7.750
+Afton, 	6.750
+Agnes, 	6.750
+Agua Dulce, 	7.750
+Agua Nueva, 	8.250
+Aguilares, 	6.750
+Aiken, 	6.250
+Airport Road Addition, 	6.250
+Alamo, 	8.250
+Alamo Beach, 	6.750
+Alamo Heights, 	8.000
+Alanreed, 	6.250
+Alba, 	8.250
+Albany, 	8.250
+Albert, 	6.750
+Albion, 	6.750
+Aldine, 	6.250
+Aledo, 	8.250
+Alexander, 	6.750
+Alfred, 	6.750
+Alfred-South La Paloma, 	6.750
+Algerita, 	6.750
+Alice, 	8.250
+Alice Acres, 	6.750
+Alief, 	7.250
+Allen, 	8.250
+Allenfarm, 	6.750
+Allentown, 	6.750
+Alleyton, 	6.750
+Allison, 	6.250
+Alma, 	7.500
+Alpine, 	8.250
+Altair, 	7.250
+Alto, 	8.250
+Alto Bonito Colonia, 	6.250
+Alto Springs, 	6.750
+Alton, 	8.250
+Alton North, 	6.250
+Alum Creek, 	6.750
+Alvarado, 	8.250
+Alvin, 	8.250
+Alvord, 	8.250
+Amargosa Colonia, 	6.750
+Amarillo, 	8.250
+Amaya Colonia, 	6.250
+Ames, 	7.750
+Amherst, 	7.500
+Amistad Acres, 	6.750
+Ammansville, 	6.750
+Amsterdam, 	6.750
+Anahuac, 	8.250
+Anchor, 	6.750
+Anderson, 	8.000
+Anderson County, 	6.750
+Anderson Mill, 	6.250
+Andrews, 	8.250
+Andrews County, 	6.250
+Angelina County, 	6.750
+Angleton, 	8.250
+Angus, 	8.250
+Anna, 	8.250
+Annarose, 	6.750
+Annetta, 	8.250
+Annetta North, 	8.000
+Annetta South, 	7.750
+Annona, 	7.750
+Anson, 	8.250
+Anthony, 	8.250
+Anton, 	7.250
+Apple Springs, 	6.250
+Appleby, 	8.250
+Aquilla, 	7.750
+Aransas County, 	6.750
+Aransas Pass, 	8.250
+Archer City, 	8.250
+Archer County, 	6.750
+Arcola, 	8.250
+Argenta, 	6.750
+Argyle, 	8.250
+Arlington, 	8.000
+Armstrong, 	6.250
+Armstrong County, 	6.250
+Arnett, 	6.750
+Arney, 	6.750
+Arp, 	7.750
+Arroyo Alto, 	6.250
+Arroyo Colorado Estates Colonia, 	6.250
+Arroyo Gardens-La Tina Ranch, 	6.250
+Art, 	7.250
+Artesia Wells, 	6.250
+Arthur City, 	6.750
+Asa, 	6.750
+Asherton, 	7.750
+Ashland, 	6.750
+Asia, 	6.750
+Aspermont, 	8.250
+Atascocita, 	7.250
+Atascosa, 	6.750
+Atascosa County, 	6.750
+Ater, 	6.750
+Athens, 	8.250
+Atlanta, 	8.250
+Aubrey, 	8.250
+Augusta, 	6.750
+Aurora, 	7.750
+Austin, 	8.250
+Austin County, 	6.750
+Austonio, 	6.750
+Austwell, 	7.250
+Avalon, 	6.250
+Avery, 	7.750
+Avinger, 	7.750
+Avoca, 	6.250
+Axtell, 	6.750
+Azle, 	8.250
+B and E Colonia, 	6.250
+Bacliff, 	6.250
+Bagwell, 	6.750
+Bailey, 	7.750
+Bailey County, 	6.750
+Bailey's Prairie, 	7.750
+Baileyville, 	6.750
+Baird, 	8.250
+Balch Springs, 	8.250
+Balcones Heights, 	8.250
+Ballinger, 	8.250
+Balmorhea, 	8.250
+Balsora, 	6.750
+Bammel, 	7.250
+Bandera, 	8.250
+Bandera County, 	6.750
+Bangs, 	8.250
+Banquete, 	6.750
+Barbarosa, 	6.750
+Barclay, 	6.750
+Bardwell, 	7.250
+Barker, 	6.250
+Barkman, 	6.750
+Barksdale, 	6.250
+Barnes, 	6.750
+Barnhart, 	6.250
+Barnum, 	6.750
+Barrett, 	6.250
+Barry, 	6.750
+Barstow, 	6.250
+Bartlett, 	8.250
+Bartley Woods, 	6.750
+Barton Creek, 	6.250
+Bartonville, 	8.250
+Bassett, 	6.750
+Bastrop, 	8.250
+Bastrop County, 	6.750
+Bateman, 	6.750
+Batesville, 	6.250
+Batson, 	6.250
+Battle, 	6.750
+Bay City, 	8.250
+Baylor County, 	6.250
+Bayou Vista, 	8.000
+Bayside, 	7.250
+Baytown, 	8.250
+Bayview, 	7.250
+Bazette, 	6.750
+Beach City, 	6.750
+Bear Creek, 	7.000
+Beasley, 	8.250
+Beaumont, 	8.250
+Beauxart Gardens, 	6.750
+Bebe, 	6.750
+Beckville, 	7.250
+Bedford, 	8.250
+Bedias, 	8.000
+Bee Cave, 	8.250
+Bee County, 	6.750
+Bee House, 	6.750
+Beeville, 	8.250
+Belfalls, 	6.750
+Bell County, 	6.750
+Bellaire, 	8.250
+Bellevue, 	7.250
+Bellmead, 	8.250
+Bells, 	8.250
+Bellville, 	8.250
+Belmont, 	6.750
+Belott, 	6.750
+Belton, 	8.250
+Ben Arnold, 	6.750
+Ben Bolt, 	6.750
+Ben Franklin, 	7.250
+Ben Wheeler, 	6.250
+Benavides, 	7.250
+Benbrook, 	8.250
+Bend, 	6.750
+Benjamin, 	7.750
+Bennett, 	6.750
+Berclair, 	6.250
+Berea, 	6.750
+Bergheim, 	6.750
+Bernardo, 	6.750
+Berryville, 	7.250
+Bertram, 	8.250
+Best, 	6.750
+Bethel, 	6.750
+Bettie, 	6.750
+Beverly, 	6.750
+Beverly Hills, 	8.250
+Bevil Oaks, 	7.750
+Bexar County, 	6.250
+Biardstown, 	6.750
+Big Bend National Park, 	7.750
+Big Lake, 	8.250
+Big Sandy, 	8.250
+Big Spring, 	8.250
+Big Wells, 	7.750
+Bigfoot, 	6.750
+Birch, 	6.750
+Birome, 	6.750
+Birthright, 	6.750
+Biry, 	6.750
+Bishop, 	8.250
+Bishop Hills, 	6.250
+Bivins, 	6.250
+Bixby, 	6.250
+Black Hill, 	6.750
+Blackfoot, 	6.750
+Blackland, 	6.750
+Blackwell, 	7.250
+Blanchard, 	6.750
+Blanco, 	8.250
+Blanco County, 	6.750
+Bland Lake, 	6.750
+Blanket, 	7.500
+Blanton, 	6.750
+Bledsoe, 	6.250
+Bleiblerville, 	6.750
+Blessing, 	6.250
+Blevins, 	6.750
+Bloomburg, 	7.250
+Blooming Grove, 	7.750
+Bloomington, 	6.750
+Blossom, 	8.000
+Blue, 	6.750
+Blue Berry Hill, 	6.750
+Blue Mound, 	8.250
+Blue Ridge, 	8.250
+Bluegrove, 	6.250
+Bluetown, 	6.250
+Bluetown Colonia, 	6.250
+Bluetown-Iglesia Antigua, 	6.250
+Bluff Dale, 	6.750
+Bluffton, 	6.250
+Blum, 	7.750
+Blumenthal, 	6.750
+Bluntzer, 	6.750
+Boerne, 	8.250
+Bogata, 	8.250
+Boling, 	6.750
+Boling-Iago, 	6.750
+Bolivar Peninsula, 	6.250
+Bon Wier, 	6.250
+Bonham, 	8.250
+Bonney, 	6.750
+Bonus, 	6.750
+Booker, 	7.750
+Boonsville, 	6.750
+Boquillas, 	6.750
+Borden, 	6.750
+Borden County, 	6.250
+Borderland, 	7.250
+Borger, 	8.250
+Bosque County, 	6.750
+Bosqueville, 	6.750
+Boston, 	6.750
+Botines, 	6.750
+Bovina, 	8.250
+Bowie, 	8.250
+Bowie County, 	6.750
+Bowser, 	6.750
+Box Canyon-Amistad, 	6.750
+Boxelder, 	6.750
+Boyd, 	8.250
+Boys Ranch, 	6.750
+Bracken, 	7.250
+Brackettville, 	8.250
+Brad, 	6.750
+Bradford, 	6.750
+Brady, 	8.250
+Branchville, 	6.750
+Brandon, 	6.750
+Brashear, 	6.750
+Brazoria, 	8.250
+Brazoria County, 	6.750
+Brazos, 	6.750
+Brazos Bend, 	6.750
+Brazos Country, 	7.750
+Brazos County, 	6.750
+Brazos Point, 	6.750
+Breckenridge, 	8.250
+Bremond, 	8.250
+Brenham, 	8.250
+Brewster County, 	6.750
+Briar, 	6.750
+Briarcliff, 	8.250
+Briaroaks, 	7.250
+Briary, 	6.750
+Bridge City, 	8.250
+Bridgeport, 	8.250
+Briggs, 	6.250
+Briscoe, 	6.250
+Briscoe County, 	6.250
+Bristol, 	6.250
+Broaddus, 	7.750
+Brock, 	6.750
+Bronson, 	6.750
+Bronte, 	8.250
+Brookeland, 	6.750
+Brookesmith, 	6.250
+Brooks County, 	6.250
+Brookshire, 	8.250
+Brookside Village, 	7.750
+Brookston, 	6.750
+Brown County, 	6.250
+Browndell, 	7.250
+Brownfield, 	8.250
+Brownsboro, 	8.250
+Brownsville, 	8.250
+Brownwood, 	8.250
+Bruceville, 	6.750
+Bruceville-Eddy, 	7.750
+Brumley, 	6.750
+Brundage, 	6.750
+Bruni, 	6.750
+Brushy Creek, 	6.250
+Brushy Prairie, 	6.750
+Bryan, 	8.250
+Bryson, 	7.750
+Buchanan Dam, 	6.250
+Buchanan Lake Village, 	6.250
+Buckholts, 	7.750
+Buckhorn, 	6.750
+Buckingham, 	6.250
+Buda, 	8.250
+Buena Vista, 	6.750
+Buena Vista Colonia, 	6.250
+Buffalo, 	8.250
+Buffalo Gap, 	8.250
+Buffalo Springs, 	7.750
+Bug Tussle, 	6.750
+Bula, 	6.750
+Bullard, 	8.250
+Bulverde, 	8.250
+Buna, 	6.250
+Bunker Hill Village, 	8.250
+Burkburnett, 	8.250
+Burke, 	7.750
+Burkett, 	6.250
+Burkeville, 	6.250
+Burleigh, 	6.750
+Burleson, 	8.250
+Burleson County, 	6.750
+Burlington, 	6.750
+Burnet, 	8.250
+Burnet County, 	6.250
+Burns, 	6.750
+Burr, 	6.750
+Burton, 	7.750
+Bushland, 	6.250
+Butler, 	6.750
+Butterfield, 	6.750
+Byers, 	7.250
+Bynum, 	7.750
+Cactus, 	7.250
+Caddo, 	6.250
+Caddo Mills, 	8.250
+Caldwell, 	8.250
+Caldwell County, 	6.750
+Calhoun County, 	6.750
+Call, 	6.250
+Callahan County, 	6.250
+Calliham, 	6.250
+Callisburg, 	6.750
+Calvert, 	8.250
+Camden, 	6.750
+Cameron, 	8.250
+Cameron County, 	6.250
+Cameron Park, 	6.250
+Cameron Park Colonia, 	6.250
+Camilla, 	7.250
+Camp Air, 	7.250
+Camp County, 	6.750
+Camp Swift, 	6.750
+Camp Verde, 	6.750
+Camp Wood, 	7.750
+Campbell, 	8.000
+Campbellton, 	6.750
+Canadian, 	8.250
+Caney, 	6.750
+Caney City, 	8.250
+Canton, 	8.250
+Cantu Addition, 	6.250
+Canutillo, 	7.250
+Canyon, 	8.250
+Canyon City, 	8.250
+Canyon Lake, 	8.250
+Carbon, 	7.250
+Carbondale, 	6.750
+Carey, 	6.750
+Carl, 	6.750
+Carlos, 	6.750
+Carls Corner, 	8.250
+Carlsbad, 	6.750
+Carlton, 	6.750
+Carmine, 	8.250
+Carmona, 	6.750
+Carrizo Hill, 	6.750
+Carrizo Springs, 	8.250
+Carrollton, 	8.250
+Carson County, 	6.250
+Carthage, 	8.250
+Cash, 	6.750
+Cashion Community, 	6.250
+Cason, 	6.750
+Cass County, 	6.250
+Castell, 	6.250
+Castle Hills, 	8.250
+Castro County, 	6.750
+Castroville, 	8.250
+Cat Spring, 	6.750
+Catarina, 	6.750
+Cavitt, 	6.750
+Cayote, 	6.750
+Cayuga, 	6.750
+Cedar Creek, 	6.750
+Cedar Hill, 	8.250
+Cedar Lane, 	6.250
+Cedar Park, 	8.250
+Cedar Point, 	6.750
+Cedar Springs, 	6.750
+Cee Vee, 	6.250
+Cego, 	6.750
+Celeste, 	8.000
+Celina, 	8.250
+Center, 	8.250
+Center Plains, 	6.750
+Center Point, 	6.750
+Centerview, 	6.750
+Centerville, 	8.250
+Central, 	6.750
+Central Gardens, 	6.750
+Central Heights, 	7.250
+Centralia, 	6.250
+Cesar Chavez, 	6.250
+Cestohowa, 	6.750
+Chalk, 	6.250
+Chalk Bluff, 	6.750
+Chalk Mountain, 	6.750
+Chambers County, 	6.250
+Chandler, 	8.250
+Channelview, 	6.250
+Channing, 	7.250
+Chapman Ranch, 	6.750
+Chappell Hill, 	6.750
+Charleston, 	7.250
+Charlotte, 	7.750
+Chat, 	6.750
+Chatfield, 	6.750
+Cheapside, 	6.750
+Cheek, 	6.750
+Cherokee, 	6.750
+Cherokee County, 	6.750
+Cherry Spring, 	6.750
+Chester, 	7.750
+Chesterville, 	6.750
+Chico, 	8.250
+Chicota, 	6.750
+Childress, 	8.250
+Childress County, 	6.750
+Chillicothe, 	8.000
+Chilton, 	6.750
+China, 	8.250
+China Grove, 	7.750
+China Spring, 	6.750
+Chireno, 	8.250
+Chocolate Bayou, 	6.750
+Chriesman, 	6.750
+Christine, 	6.750
+Christoval, 	6.750
+Chula Vista 1-5 Colonia, 	6.750
+Chula Vista-Orason, 	6.250
+Chula Vista-River Spur, 	6.250
+Churchill, 	6.750
+Cibolo, 	8.250
+Cienegas Terrace, 	6.750
+Cinco Ranch, 	6.250
+Circle D-KC Estates, 	6.750
+Cisco, 	8.250
+Cistern, 	6.750
+Citrus City, 	6.250
+City-by-the Sea, 	7.250
+Clairette, 	6.750
+Clardy, 	6.750
+Clarendon, 	8.250
+Clark, 	6.750
+Clarks, 	6.750
+Clarksville, 	8.250
+Clarksville City, 	7.750
+Claude, 	7.750
+Clawson, 	6.750
+Clay, 	6.750
+Clay County, 	6.250
+Clayton, 	6.250
+Claytonville, 	6.750
+Clear Lake Shores, 	8.250
+Clear Springs, 	6.750
+Cleburne, 	7.750
+Cleo, 	6.750
+Cleveland, 	8.250
+Clifton, 	8.250
+Clint, 	8.250
+Clinton, 	6.750
+Cloverleaf, 	6.250
+Clute, 	8.250
+Clyde, 	8.250
+Coahoma, 	7.750
+Cochran, 	6.750
+Cochran County, 	6.250
+Cockrell Hill, 	8.250
+Coffee City, 	7.750
+Coke, 	6.750
+Coke County, 	6.250
+Coldspring, 	8.250
+Coleman, 	8.250
+Coleman County, 	6.250
+College Hill, 	6.750
+College Station, 	8.250
+Collegeport, 	6.250
+Colleyville, 	8.250
+Collin County, 	6.250
+Collingsworth County, 	6.250
+Collinsville, 	8.250
+Colmesneil, 	7.750
+Colonia Iglesia Antigua, 	6.250
+Colony, 	6.750
+Colorado City, 	8.250
+Colorado County, 	6.750
+Columbus, 	8.250
+Comal, 	6.750
+Comal County, 	6.750
+Comanche, 	8.250
+Comanche County, 	6.750
+Combes, 	7.500
+Combine, 	7.750
+Comfort, 	6.750
+Commerce, 	8.250
+Como, 	7.750
+Comstock, 	6.750
+Comyn, 	6.750
+Concan, 	7.250
+Concepcion, 	6.250
+Concho County, 	6.750
+Concord, 	6.750
+Cone, 	6.750
+Connor, 	6.750
+Conroe, 	8.250
+Content, 	6.750
+Converse, 	8.250
+Cooke County, 	6.750
+Cooks Point, 	6.750
+Cookville, 	6.750
+Cool, 	7.750
+Coolidge, 	7.250
+Cooper, 	8.250
+Copano Village, 	7.250
+Copeville, 	6.250
+Coppell, 	8.250
+Copper Canyon, 	7.250
+Copperas Cove, 	8.250
+Corbet, 	6.750
+Cordele, 	6.750
+Corinth, 	8.250
+Corley, 	6.750
+Corpus Christi, 	8.250
+Corral City, 	8.250
+Corrigan, 	8.250
+Corsicana, 	8.250
+Coryell City, 	6.750
+Coryell County, 	6.750
+Cost, 	6.750
+Cottle County, 	6.250
+Cotton Center, 	6.750
+Cottondale, 	6.750
+Cottonwood, 	6.750
+Cottonwood Shores, 	8.250
+Cotulla, 	8.250
+Coughran, 	6.750
+County Line, 	6.750
+Coupland, 	7.500
+Courtney, 	6.750
+Cove, 	7.750
+Cove Springs, 	6.750
+Covington, 	7.750
+Cox, 	6.750
+Coy City, 	6.750
+Coyanosa, 	6.250
+Coyote Acres, 	6.750
+Coyote Acres Colonia, 	6.750
+Crabbs Prairie, 	6.750
+Craft, 	6.750
+Crafton, 	6.750
+Crandall, 	8.250
+Crane, 	7.750
+Crane County, 	6.250
+Cranfills Gap, 	7.750
+Crawford, 	8.250
+Creedmoor, 	8.250
+Crescent, 	6.750
+Crescent Valley, 	6.750
+Cresson, 	8.000
+Crews, 	6.750
+Crockett, 	8.250
+Crockett County, 	6.250
+Crosby, 	8.250
+Crosby County, 	6.750
+Crosbyton, 	8.250
+Cross, 	6.750
+Cross Mountain, 	6.250
+Cross Plains, 	8.250
+Cross Roads, 	8.250
+Cross Timber, 	6.250
+Crowell, 	8.000
+Crowley, 	8.250
+Crystal City, 	8.250
+Cuero, 	8.250
+Cuevitas, 	6.750
+Culberson County, 	6.250
+Cumby, 	8.250
+Cumings, 	6.250
+Cuney, 	8.250
+Cunningham, 	6.750
+Currie, 	6.750
+Cushing, 	8.250
+Cut, 	6.750
+Cut and Shoot, 	8.250
+Cuthand, 	6.750
+Cyclone, 	6.750
+Cypress, 	8.250
+Cypress Mill, 	7.250
+César Chávez, 	6.250
+D'Hanis, 	6.750
+Dacosta, 	6.750
+Daingerfield, 	8.250
+Daisetta, 	7.750
+Dalby Springs, 	6.750
+Dale, 	6.750
+Dalhart, 	8.250
+Dallam County, 	6.250
+Dallardsville, 	6.750
+Dallas, 	8.250
+Dallas County, 	6.250
+Dalworthington Gardens, 	8.250
+Damon, 	6.750
+Danbury, 	7.750
+Danciger, 	6.750
+Danevang, 	6.750
+Darrouzett, 	7.250
+Davilla, 	6.750
+Davisville, 	6.750
+Dawn, 	6.750
+Dawson, 	8.000
+Dawson County, 	6.750
+Dayton, 	8.250
+Dayton Lakes, 	6.750
+De Kalb, 	8.250
+De Leon, 	8.250
+DeBerry, 	6.250
+DeCordova, 	6.750
+DeSoto, 	8.250
+DeWitt County, 	6.250
+Deaf Smith County, 	6.750
+Dean, 	7.250
+Deanville, 	6.750
+Decatur, 	8.250
+Deer Park, 	7.750
+Defense City, 	6.750
+Del Mar Heights, 	6.250
+Del Rio, 	8.250
+Del Sol Colonia, 	6.250
+Del Sol-Loma Linda, 	6.250
+Del Valle, 	6.250
+Delhi, 	6.750
+Dell City, 	7.250
+Delmita, 	6.250
+Delrose, 	6.750
+Delta County, 	6.750
+Denison, 	8.250
+Denning, 	6.750
+Dennis, 	6.750
+Denny, 	6.750
+Denson Spring, 	6.750
+Denton, 	8.250
+Denton County, 	6.250
+Denver City, 	7.750
+Deport, 	7.750
+Derby, 	6.750
+Dermott, 	6.750
+Desdemona, 	6.250
+Detmold, 	6.750
+Detroit, 	7.750
+Devers, 	7.750
+Devine, 	8.250
+Deweyville, 	6.250
+Dialville, 	6.750
+Diana, 	6.750
+Diboll, 	8.250
+Dickens, 	8.250
+Dickens County, 	6.750
+Dickinson, 	8.250
+Dies, 	6.750
+Dike, 	6.750
+Dilley, 	8.250
+Dilworth, 	6.750
+Dime Box, 	6.750
+Dimmit County, 	6.750
+Dimmitt, 	8.250
+Dinero, 	6.750
+Ding Dong, 	6.750
+Dinsmore, 	6.750
+Direct, 	6.750
+Divot, 	6.750
+Dobbin, 	6.250
+Dodd City, 	7.750
+Dodge, 	6.750
+Dodson, 	6.250
+Doffing, 	6.250
+Dogwood City, 	6.750
+Dolen, 	6.750
+Domino, 	8.250
+Donie, 	6.250
+Donley County, 	6.250
+Donna, 	8.250
+Doole, 	7.000
+Doolittle, 	6.250
+Dorchester, 	7.250
+Doss, 	6.750
+Dot, 	6.750
+Double Bayou, 	6.750
+Double Oak, 	7.250
+Doucette, 	6.750
+Dougherty, 	6.250
+Douglass, 	7.250
+Douglassville, 	6.500
+Downing, 	6.750
+Downsville, 	6.750
+Doyle, 	6.250
+Drasco, 	6.750
+Dreyer, 	6.750
+Driftwood, 	6.750
+Dripping Springs, 	8.250
+Driscoll, 	8.250
+Dryden, 	7.750
+Dubina, 	6.750
+Dublin, 	8.250
+Duffau, 	6.750
+Dumas, 	8.250
+Dumont, 	6.250
+Duncanville, 	8.250
+Dundee, 	6.750
+Dunlay, 	6.750
+Dunn, 	6.750
+Duplex, 	6.750
+Durango, 	6.750
+Duval County, 	6.250
+Dyess Afb, 	6.250
+Eagle Lake, 	8.250
+Eagle Mountain, 	6.250
+Eagle Pass, 	8.250
+Early, 	8.250
+Earth, 	7.750
+East Bernard, 	8.000
+East Columbia, 	6.750
+East Mountain, 	7.750
+East Tawakoni, 	8.250
+Easter, 	6.750
+Eastgate, 	6.750
+Eastland, 	8.250
+Eastland County, 	6.250
+Easton, 	7.750
+Ebenezer, 	6.750
+Eckert, 	6.750
+Ecleto, 	6.750
+Ector, 	7.750
+Ector County, 	6.250
+Edcouch, 	8.250
+Eddy, 	6.750
+Eden, 	8.250
+Edge, 	6.750
+Edgecliff Village, 	7.250
+Edgewater-Paisano, 	6.250
+Edgewood, 	8.250
+Edgeworth, 	6.750
+Edhube, 	6.750
+Edinburg, 	8.250
+Edmonson, 	7.750
+Edna, 	8.250
+Edna Hill, 	6.750
+Edom, 	7.250
+Edroy, 	6.250
+Edwards County, 	6.250
+Egypt, 	6.750
+Eidson Road, 	6.750
+El Camino Angosto, 	6.250
+El Campo, 	8.250
+El Cenizo, 	7.750
+El Cenizo Colonia, 	6.250
+El Dorado, 	8.250
+El Indio, 	7.250
+El Lago, 	8.250
+El Paso, 	8.250
+El Paso County, 	6.750
+El Refugio, 	6.250
+El Refugio Colonia, 	6.250
+Elbert, 	6.250
+Electra, 	8.250
+Elevation, 	6.750
+Elgin, 	8.250
+Eliasville, 	6.750
+Elk, 	6.750
+Elkhart, 	8.000
+Ellinger, 	6.750
+Elliot, 	6.750
+Ellis County, 	6.250
+Elm Creek, 	6.750
+Elm Mott, 	6.750
+Elmaton, 	6.250
+Elmendorf, 	7.750
+Elmgrove, 	6.750
+Elmo, 	6.250
+Elmwood, 	6.750
+Eloise, 	6.750
+Elsa, 	8.250
+Elwood, 	6.750
+Elysian Fields, 	6.250
+Emberson, 	6.750
+Emhouse, 	7.750
+Emille, 	6.750
+Emmett, 	6.750
+Emory, 	8.250
+Encantada-Ranchito-El Calaboz, 	6.250
+Enchanted Oaks, 	6.250
+Encinal, 	8.250
+Encino, 	6.750
+Energy, 	6.750
+Engle, 	6.750
+English, 	6.750
+Enloe, 	7.250
+Ennis, 	7.750
+Enoch, 	6.750
+Enochs, 	6.750
+Enterprise, 	6.750
+Eola, 	6.750
+Era, 	6.750
+Erath County, 	6.750
+Escobares, 	8.250
+Estelline, 	7.500
+Estes, 	7.250
+Etoile, 	7.250
+Euless, 	8.250
+Eulogy, 	6.750
+Eureka, 	7.750
+Eustace, 	7.250
+Evadale, 	6.250
+Evant, 	8.250
+Evergreen, 	7.250
+Evergreen Colonia, 	6.250
+Everman, 	8.250
+Ewell, 	6.750
+Eylau, 	6.750
+Fabens, 	7.250
+Fair Oaks Ranch, 	8.250
+Fairchilds, 	6.250
+Fairdale, 	6.750
+Fairfield, 	8.250
+Fairlie, 	6.750
+Fairview, 	8.250
+Fairy, 	6.750
+Faker, 	6.750
+Falcon Heights, 	6.250
+Falcon Lake Estates, 	6.250
+Falcon Mesa, 	6.250
+Falcon Village, 	6.250
+Falfurrias, 	8.250
+Falls City, 	7.750
+Falls County, 	6.750
+Falman-County Acres, 	6.250
+Fannett, 	6.750
+Fannin, 	6.250
+Fannin County, 	6.750
+Farmers Branch, 	8.250
+Farmersville, 	8.250
+Farnsworth, 	6.250
+Farwell, 	7.750
+Fashing, 	6.750
+Fate, 	8.250
+Faught, 	6.750
+Fayette County, 	6.750
+Fayetteville, 	8.250
+Faysville, 	6.250
+Fedor, 	6.750
+Fentress, 	6.750
+Ferris, 	8.250
+Fieldton, 	6.250
+Fife, 	7.000
+Fifth Street, 	6.250
+Figridge, 	6.750
+Fischer, 	8.250
+Fisher County, 	6.250
+Fitze, 	7.250
+Flagg, 	6.750
+Flat, 	6.750
+Flatonia, 	8.250
+Flats, 	6.750
+Flatwood, 	6.750
+Flint, 	6.750
+Flo, 	6.750
+Flomot, 	6.250
+Flora, 	6.750
+Florence, 	8.250
+Floresville, 	8.250
+Flowella, 	6.750
+Flower Mound, 	8.250
+Floy, 	6.750
+Floyd, 	6.750
+Floyd County, 	6.250
+Floydada, 	8.000
+Fluvanna, 	6.750
+Flynn, 	6.750
+Foard County, 	6.250
+Follett, 	7.250
+Fords Corner, 	6.750
+Fordtran, 	6.750
+Forest, 	6.750
+Forest Hill, 	6.750
+Forestburg, 	6.250
+Forney, 	8.250
+Forreston, 	6.250
+Forsan, 	7.250
+Fort Bend County, 	6.250
+Fort Bliss, 	6.750
+Fort Clark Springs, 	6.750
+Fort Davis, 	8.250
+Fort Gates, 	6.750
+Fort Hancock, 	6.250
+Fort Hood, 	6.750
+Fort McKavett, 	6.750
+Fort Stockton, 	8.250
+Fort Worth, 	8.250
+Four Corners, 	8.250
+Four Points Colonia, 	6.750
+Fowlerton, 	6.250
+Francitas, 	6.750
+Franklin, 	8.250
+Franklin County, 	6.750
+Frankston, 	8.250
+Frankston Lake, 	6.750
+Fred, 	6.750
+Fredericksburg, 	8.250
+Fredonia, 	7.250
+Freeport, 	8.250
+Freer, 	8.250
+Freestone County, 	6.250
+Frelsburg, 	6.750
+Fresno, 	6.250
+Freyburg, 	6.750
+Friendship Village, 	6.750
+Friendswood, 	7.750
+Frio County, 	6.750
+Frio Town, 	6.750
+Friona, 	8.250
+Frisco, 	8.250
+Fritch, 	8.250
+Fronton, 	6.250
+Frost, 	7.750
+Fruitvale, 	6.250
+Frydek, 	6.750
+Fulbright, 	6.750
+Fulshear, 	8.250
+Fulton, 	8.250
+Gail, 	6.250
+Gaines County, 	6.250
+Gainesville, 	8.250
+Galena Park, 	7.250
+Gallatin, 	6.750
+Galveston, 	8.250
+Galveston County, 	6.250
+Ganado, 	8.250
+Garceno, 	6.250
+Garciasville, 	6.250
+Garden City, 	6.250
+Garden Ridge, 	8.250
+Gardendale, 	7.000
+Garfield, 	7.750
+Garland, 	8.250
+Garner, 	6.750
+Garrett, 	7.500
+Garrison, 	8.250
+Garwood, 	7.250
+Gary City, 	6.250
+Garza County, 	6.250
+Gatesville, 	8.250
+Gause, 	6.750
+Gay Hill, 	6.750
+Geneva, 	6.750
+George, 	6.750
+George West, 	8.250
+Georgetown, 	8.250
+Gerald, 	6.750
+Geronimo, 	6.750
+Gholson, 	8.250
+Giddings, 	8.250
+Gilchrist, 	6.250
+Gillespie County, 	6.750
+Gillett, 	6.750
+Gilmer, 	8.250
+Girard, 	6.250
+Girvin, 	6.250
+Gladewater, 	8.250
+Glasscock County, 	6.250
+Glaze City, 	6.750
+Glen Flora, 	6.750
+Glen Rose, 	8.250
+Glenn Heights, 	8.250
+Glenrio, 	6.750
+Glenwood, 	6.750
+Glidden, 	6.750
+Gober, 	6.750
+Godley, 	8.250
+Gold, 	6.750
+Golden, 	6.750
+Goldsboro, 	6.250
+Goldsmith, 	8.000
+Goldthwaite, 	8.250
+Goliad, 	8.250
+Goliad County, 	6.250
+Golinda, 	8.250
+Gonzales, 	8.250
+Gonzales County, 	6.750
+Goodfellow Afb, 	6.750
+Goodland, 	6.750
+Goodlett, 	6.750
+Goodlow, 	7.750
+Goodlow Park, 	6.750
+Goodrich, 	7.750
+Goodville, 	6.750
+Gordon, 	8.250
+Gordonville, 	6.250
+Goree, 	8.250
+Gorman, 	8.250
+Gouldbusk, 	6.250
+Graceton, 	6.750
+Graford, 	8.250
+Graham, 	8.250
+Granbury, 	8.250
+Grand Acres, 	6.250
+Grand Prairie, 	8.250
+Grand Saline, 	8.250
+Grandfalls, 	7.750
+Grandview, 	8.250
+Granger, 	7.250
+Grangerland, 	8.250
+Granite Shoals, 	7.500
+Granjeno, 	7.250
+Grape Creek, 	6.750
+Grapeland, 	8.250
+Grapetown, 	6.750
+Grapevine, 	8.250
+Gray, 	6.750
+Gray County, 	6.250
+Grayburg, 	6.250
+Grays Prairie, 	7.250
+Grayson County, 	6.250
+Greatwood, 	6.250
+Green Lake, 	6.750
+Green Valley Farms, 	6.250
+Greenville, 	8.250
+Greenwood, 	6.750
+Gregg County, 	6.750
+Gregory, 	8.250
+Gresham, 	6.750
+Grey Forest, 	7.500
+Grice, 	6.750
+Griffin, 	6.750
+Griffing Park, 	6.750
+Grimes County, 	6.750
+Groesbeck, 	8.250
+Groom, 	8.250
+Groves, 	8.250
+Groveton, 	8.250
+Grulla, 	7.250
+Gruver, 	8.250
+Guadalupe, 	6.750
+Guadalupe County, 	6.750
+Guerra, 	8.250
+Gun Barrel City, 	8.250
+Gunter, 	8.250
+Gustine, 	8.250
+Guthrie, 	6.250
+Guy, 	6.250
+Guys Store, 	6.750
+Hackberry, 	7.250
+Hagansport, 	6.750
+Haid, 	6.750
+Hainesville, 	6.750
+Hale Center, 	8.250
+Hale County, 	6.750
+Halfway, 	6.750
+Hall, 	6.750
+Hall County, 	6.250
+Hallettsville, 	8.250
+Hallsburg, 	7.750
+Hallsville, 	7.250
+Halsted, 	6.750
+Haltom City, 	8.250
+Hamilton, 	8.250
+Hamilton County, 	6.750
+Hamlin, 	8.250
+Hamon, 	6.750
+Hamshire, 	6.750
+Hankamer, 	6.750
+Hansford County, 	6.250
+Happy, 	7.750
+Hardeman County, 	6.750
+Hardin, 	7.750
+Hardin County, 	6.250
+Hargill, 	6.250
+Harker Heights, 	8.250
+Harkeyville, 	6.750
+Harleton, 	6.250
+Harlingen, 	8.250
+Harmony, 	6.750
+Harper, 	6.750
+Harriet, 	6.750
+Harris County, 	6.250
+Harrison, 	6.750
+Harrison County, 	6.250
+Harrold, 	6.750
+Hart, 	8.250
+Hartley, 	6.250
+Hartley County, 	6.250
+Harvard, 	6.750
+Harwood, 	6.750
+Haskell, 	8.250
+Haskell County, 	6.250
+Haslet, 	8.250
+Hasse, 	6.750
+Hastings, 	6.750
+Hatchel, 	6.750
+Havana, 	6.250
+Hawk Cove, 	8.250
+Hawkins, 	8.250
+Hawley, 	8.000
+Hays, 	8.250
+Hays County, 	6.750
+Hearne, 	8.250
+Heath, 	8.250
+Hebbronville, 	8.250
+Hebron, 	6.750
+Heckville, 	6.750
+Hedley, 	7.250
+Hedwig Village, 	8.250
+Heidelberg, 	6.250
+Heidenheimer, 	6.750
+Helena, 	6.750
+Helotes, 	7.750
+Hemphill, 	8.250
+Hemphill County, 	6.250
+Hempstead, 	8.250
+Henderson, 	8.250
+Henderson County, 	6.250
+Henly, 	6.750
+Henning, 	7.250
+Henrietta, 	8.250
+Henrys Chapel, 	6.750
+Hereford, 	8.250
+Hermleigh, 	6.750
+Hewitt, 	8.250
+Hext, 	6.750
+Hickory Creek, 	8.250
+Hico, 	8.250
+Hidalgo, 	8.250
+Hidalgo County, 	6.250
+Hideaway, 	6.750
+Higgins, 	8.250
+High Hill, 	6.750
+High Island, 	6.250
+Highland, 	6.750
+Highland Haven, 	6.250
+Highland Park, 	8.250
+Highland Village, 	8.250
+Highlands, 	6.250
+Hill Country Village, 	8.250
+Hill County, 	6.750
+Hillcrest, 	6.750
+Hillebrandt, 	6.750
+Hillister, 	6.750
+Hillje, 	6.750
+Hills, 	6.750
+Hillsboro, 	8.250
+Hilltop, 	6.750
+Hilltop Colonia, 	6.250
+Hilltop Lakes, 	6.750
+Hilshire Village, 	8.250
+Hitchcock, 	8.250
+Hoard, 	6.750
+Hobson, 	6.750
+Hochheim, 	6.250
+Hockley, 	7.250
+Hockley County, 	6.250
+Hockley Mine, 	7.250
+Hodgson, 	6.750
+Holiday Beach, 	6.750
+Holiday Lakes, 	7.750
+Holland, 	8.000
+Holliday, 	7.750
+Hollywood Park, 	8.250
+Holman, 	6.750
+Homer, 	6.750
+Homestead Meadows North, 	6.750
+Homestead Meadows South, 	6.750
+Hondo, 	8.250
+Honea, 	8.250
+Honey Grove, 	8.250
+Hood County, 	6.750
+Hooks, 	8.250
+Hopewell, 	6.750
+Hopkins County, 	6.750
+Horizon City, 	8.250
+Hornsby Bend, 	6.250
+Horseshoe Bay, 	8.000
+Houston, 	8.250
+Houston County, 	6.750
+Howard County, 	6.250
+Howardwick, 	7.500
+Howe, 	8.250
+Howellville, 	7.250
+Howland, 	6.750
+Hoyte, 	6.750
+Hubbard, 	8.250
+Hudson, 	8.250
+Hudson Bend, 	6.250
+Hudson Oaks, 	8.250
+Hudspeth County, 	6.250
+Huffman, 	6.250
+Hufsmith, 	7.250
+Hughes Springs, 	7.750
+Hull, 	6.750
+Humble, 	8.250
+Hungerford, 	6.750
+Hunt, 	6.750
+Hunt County, 	6.750
+Hunter, 	6.750
+Hunters Creek Village, 	8.250
+Huntington, 	8.250
+Huntsville, 	8.250
+Hurlwood, 	6.750
+Hurst, 	8.250
+Hurst Springs, 	6.750
+Hutchins, 	8.250
+Hutchinson County, 	6.250
+Hutto, 	8.250
+Huxley, 	7.250
+Hye, 	7.250
+Iago, 	6.750
+Idalou, 	8.250
+Impact, 	7.250
+Imperial, 	6.250
+Inadale, 	6.750
+Independence, 	6.750
+Indian Gap, 	6.750
+Indian Hills, 	6.250
+Indian Lake, 	6.250
+Indian Rock, 	6.750
+Indian Springs, 	6.750
+Indianola, 	6.750
+Industry, 	8.250
+Inez, 	6.750
+Ingleside, 	8.250
+Ingleside On-the-Bay, 	7.250
+Ingram, 	8.250
+Iola, 	8.000
+Iowa Colony, 	7.750
+Iowa Park, 	8.250
+Ira, 	6.750
+Iraan, 	8.250
+Iredell, 	7.750
+Ireland, 	6.750
+Irene, 	6.750
+Irion County, 	6.250
+Ironton, 	6.750
+Irving, 	8.250
+Italy, 	8.250
+Itasca, 	8.250
+Ivanhoe, 	6.750
+Iverson, 	6.750
+Izoro, 	6.750
+Jacinto City, 	7.250
+Jack County, 	6.250
+Jacksboro, 	8.250
+Jackson County, 	6.750
+Jacksonville, 	8.250
+Jamaica Beach, 	7.250
+Jarrell, 	8.250
+Jarvis College, 	6.750
+Jasper, 	8.250
+Jasper County, 	6.250
+Jayton, 	7.250
+Jean, 	6.750
+Jeddo, 	6.750
+Jeff Davis County, 	6.750
+Jefferson, 	8.250
+Jefferson County, 	6.750
+Jenkins, 	6.750
+Jermyn, 	6.250
+Jersey Village, 	8.250
+Jester, 	6.750
+Jewett, 	8.250
+Jim Hogg County, 	6.750
+Jim Wells County, 	6.750
+Joaquin, 	8.250
+Johnson City, 	8.250
+Johnson County, 	6.250
+Johntown, 	6.750
+Joinerville, 	6.250
+Joliet, 	6.750
+Jolly, 	7.250
+Jollyville, 	7.250
+Jones County, 	6.250
+Jones Creek, 	6.750
+Jones Prairie, 	6.750
+Jonesboro, 	6.750
+Jonestown, 	8.250
+Jonesville, 	6.250
+Josephine, 	7.750
+Joshua, 	8.250
+Jourdanton, 	8.250
+Judd, 	6.750
+Judson, 	6.750
+Junction, 	8.250
+Juno, 	6.750
+Justiceburg, 	6.250
+Justin, 	8.250
+K-Bar Ranch, 	6.750
+Kamay, 	6.250
+Kamey, 	6.750
+Karnack, 	6.250
+Karnes City, 	8.250
+Karnes County, 	6.750
+Katemcy, 	7.250
+Katy, 	8.250
+Kaufman, 	8.250
+Kaufman County, 	6.250
+Keechi, 	6.750
+Keene, 	8.250
+Keeter, 	6.750
+Keller, 	8.250
+Kelsay, 	8.250
+Kelsey, 	6.750
+Kemah, 	8.250
+Kemp, 	8.250
+Kempner, 	8.000
+Kendalia, 	6.750
+Kendall County, 	6.750
+Kendleton, 	7.250
+Kenedy, 	8.250
+Kenedy County, 	6.250
+Kenefick, 	8.250
+Kennard, 	7.750
+Kennedale, 	8.250
+Kenney, 	6.750
+Kent County, 	6.250
+Kenwood Place, 	7.250
+Kerens, 	8.250
+Kermit, 	8.250
+Kerr County, 	6.750
+Kerrick, 	6.250
+Kerrville, 	8.250
+Kickapoo, 	6.750
+Kildare, 	6.250
+Kilgore, 	8.250
+Killeen, 	8.250
+Kimball, 	6.750
+Kimble County, 	6.250
+King County, 	6.250
+Kingsbury, 	6.750
+Kingsland, 	6.250
+Kingston, 	6.750
+Kingsville, 	8.250
+Kingtown, 	7.250
+Kinney County, 	6.750
+Kiomatia, 	6.750
+Kirby, 	8.000
+Kirbyville, 	7.500
+Kirkland, 	6.750
+Kirtley, 	6.750
+Kirvin, 	6.250
+Kitalou, 	6.750
+Kittrell, 	6.750
+Kleberg County, 	6.750
+Klein, 	7.250
+Klondike, 	7.250
+Knickerbocker, 	6.750
+Knippa, 	7.250
+Knollwood, 	8.250
+Knott, 	6.250
+Knox City, 	8.250
+Knox County, 	6.250
+Kohrville, 	7.250
+Kopperl, 	6.750
+Kosse, 	8.000
+Kountze, 	8.250
+Kovar, 	6.750
+Kress, 	7.750
+Krugerville, 	8.250
+Krum, 	8.250
+Kurten, 	7.750
+Kyle, 	8.250
+Kyote, 	6.750
+La Belle, 	6.750
+La Blanca, 	6.250
+La Casita, 	6.250
+La Casita-Garciasville, 	6.250
+La Coste, 	8.250
+La Feria, 	8.250
+La Feria North, 	6.250
+La Grange, 	8.250
+La Grulla, 	6.250
+La Homa, 	6.250
+La Joya, 	8.250
+La Junta, 	6.750
+La Marque, 	8.250
+La Paloma, 	6.250
+La Paloma Addition Colonia, 	6.250
+La Paloma-Lost Creek, 	6.250
+La Porte, 	8.250
+La Presa, 	6.750
+La Pryor, 	6.250
+La Puerta, 	6.250
+La Rosita, 	6.250
+La Salle County, 	6.250
+La Tina Ranch, 	6.250
+La Vernia, 	8.250
+La Victoria, 	6.250
+La Villa, 	7.250
+La Ward, 	7.750
+LaFayette, 	6.750
+LaRue, 	6.250
+LaSalle, 	6.750
+Lackland Air Force Base, 	6.250
+Lacy-Lakeview, 	8.250
+Ladonia, 	7.750
+Lagarto, 	6.750
+Lago, 	6.250
+Lago Vista, 	8.250
+Lago Vista Colonia, 	6.750
+Laguna Heights, 	6.250
+Laguna Park, 	6.750
+Laguna Seca, 	6.250
+Laguna Vista, 	7.750
+Laird Hill, 	6.250
+Lajitas, 	7.750
+Lake Bridgeport, 	8.250
+Lake Brownwood, 	6.250
+Lake City, 	6.250
+Lake Creek, 	7.250
+Lake Dallas, 	8.250
+Lake Dunlap, 	6.750
+Lake Jackson, 	8.250
+Lake Kiowa, 	6.750
+Lake Tanglewood, 	6.250
+Lake Worth, 	8.250
+Lakehills, 	6.750
+Lakeport, 	8.250
+Lakeshore Gardens-Hidden Acres, 	6.250
+Lakeside, 	8.250
+Lakeside City, 	7.750
+Lakeside Village, 	6.750
+Lakeview, 	7.250
+Lakeway, 	8.250
+Lakewood Harbor, 	6.750
+Lakewood Heights, 	6.250
+Lakewood Village, 	8.250
+Lamar, 	7.250
+Lamar County, 	6.750
+Lamasco, 	6.750
+Lamb County, 	6.250
+Lamesa, 	8.250
+Lamkin, 	6.750
+Lampasas, 	8.250
+Lampasas County, 	6.750
+Lancaster, 	8.250
+Lane City, 	6.750
+Laneville, 	6.250
+Langtry, 	6.750
+Lanham, 	6.750
+Lannius, 	6.750
+Laredo, 	8.250
+Laredo Ranchettes, 	6.750
+Larga Vista, 	6.750
+Las Colonias, 	6.250
+Las Lomas, 	6.250
+Las Lomitas, 	6.750
+Las Palmas, 	6.250
+Las Palmas-Juarez, 	6.250
+Las Quintas Fronterizas, 	6.750
+Las Quintas Fronterizas Colonia, 	6.750
+Lasana, 	6.250
+Lasara, 	6.250
+Lassater, 	6.750
+Latch, 	6.750
+Latexo, 	7.750
+Laughlin Air Force Base, 	6.750
+Laureles, 	6.250
+Lavaca County, 	6.250
+Lavon, 	8.000
+Law, 	6.750
+Lawn, 	7.250
+Lawrence, 	6.250
+Lazbuddie, 	6.250
+League City, 	8.000
+Leakey, 	8.250
+Leander, 	8.250
+Leary, 	7.750
+Ledbetter, 	6.750
+Lee County, 	6.750
+Leedale, 	6.750
+Leesburg, 	6.750
+Leesville, 	6.750
+Lefors, 	7.250
+Leggett, 	6.750
+Lelia Lake, 	6.250
+Leming, 	6.750
+Lenorah, 	6.250
+Leo, 	6.750
+Leon County, 	6.750
+Leon Junction, 	6.750
+Leon Springs, 	6.750
+Leon Valley, 	8.250
+Leona, 	7.750
+Leonard, 	8.250
+Leroy, 	7.750
+Levelland, 	8.250
+Levi, 	6.750
+Levita, 	6.750
+Lewisville, 	8.250
+Lexington, 	8.250
+Liberty, 	8.250
+Liberty City, 	6.750
+Liberty County, 	6.750
+Liberty Hill, 	8.250
+Lilac, 	6.750
+Lillian, 	6.250
+Lily Island, 	6.750
+Limestone County, 	6.250
+Lincoln, 	6.750
+Lincoln Park, 	8.250
+Lindale, 	8.250
+Linden, 	8.250
+Lindsay, 	8.250
+Lingleville, 	6.750
+Linn, 	6.250
+Linwood, 	6.750
+Lipan, 	7.750
+Lipscomb, 	6.250
+Lipscomb County, 	6.250
+Lissie, 	6.750
+Little Cypress, 	6.750
+Little Elm, 	8.250
+Little Hope, 	6.750
+Little River, 	6.750
+Little River-Academy, 	7.750
+Littlefield, 	8.250
+Live Oak, 	8.250
+Live Oak County, 	6.750
+Liverpool, 	7.750
+Livingston, 	8.250
+Llano, 	8.250
+Llano County, 	6.250
+Llano Grande, 	6.250
+Lochridge, 	6.750
+Locker, 	6.750
+Lockett, 	6.750
+Lockhart, 	8.250
+Lockney, 	7.750
+Lodi, 	6.750
+Loebau, 	6.750
+Log Cabin, 	7.250
+Lohn, 	7.000
+Lolita, 	6.750
+Loma Grande Colonia, 	6.250
+Loma Linda Colonia, 	6.250
+Loma Linda East Colonia, 	6.250
+Loma Vista Colonia, 	6.250
+Lometa, 	8.250
+London, 	6.750
+Lone Mountain, 	6.750
+Lone Oak, 	8.000
+Lone Star, 	8.250
+Long Branch, 	6.250
+Long Mott, 	6.750
+Longpoint, 	6.750
+Longview, 	8.250
+Loop, 	6.250
+Lopezville, 	6.250
+Lopeño, 	6.250
+Loraine, 	8.250
+Lorena, 	8.250
+Lorenzo, 	7.750
+Los Altos Colonia, 	6.750
+Los Alvarez, 	6.250
+Los Angeles, 	6.250
+Los Angeles Subdivision, 	6.250
+Los Barreras, 	6.250
+Los Ebanos, 	6.250
+Los Ebanos Colonia, 	6.250
+Los Fresnos, 	8.250
+Los Indios, 	8.000
+Los Villareales, 	6.250
+Los Ybanez, 	7.750
+Losoya, 	6.750
+Lost Creek, 	6.250
+Lott, 	8.250
+Louise, 	6.750
+Lovelace, 	6.750
+Lovelady, 	8.000
+Loving, 	6.750
+Loving County, 	6.250
+Lowake, 	6.750
+Lowry Crossing, 	8.000
+Loyola Beach, 	6.750
+Lozano, 	6.250
+Lubbock, 	8.250
+Lubbock County, 	6.750
+Lucas, 	8.250
+Luckenbach, 	6.750
+Lueders, 	7.250
+Luella, 	6.250
+Lufkin, 	8.250
+Luling, 	8.250
+Lumberton, 	8.250
+Lyford, 	8.250
+Lynn County, 	6.750
+Lyons, 	6.750
+Lytle, 	8.250
+Lytton Springs, 	6.750
+Mabank, 	8.250
+Macdona, 	6.750
+Mackay, 	6.750
+Macune, 	6.750
+Madison County, 	6.750
+Madisonville, 	8.250
+Magnet, 	6.750
+Magnolia, 	8.250
+Magnolia Beach, 	6.750
+Magnolia Springs, 	6.250
+Mahl, 	7.250
+Malakoff, 	8.250
+Malone, 	8.250
+Malta, 	6.750
+Manchaca, 	6.250
+Manchester, 	6.750
+Manheim, 	6.750
+Mankins, 	6.750
+Manor, 	8.250
+Mansfield, 	8.250
+Manvel, 	8.250
+Maple, 	6.750
+Mapleton, 	6.750
+Marathon, 	6.750
+Marble Falls, 	8.250
+Marfa, 	8.000
+Marietta, 	6.250
+Marion, 	8.250
+Marion County, 	6.750
+Markham, 	6.250
+Markley, 	6.750
+Marlin, 	8.250
+Marquez, 	8.250
+Marshall, 	8.250
+Marshall Creek, 	8.250
+Mart, 	8.000
+Martin County, 	6.250
+Martin Springs, 	6.750
+Martindale, 	8.000
+Martinsville, 	7.250
+Maryneal, 	6.250
+Mason, 	8.250
+Mason County, 	6.250
+Massey Lake, 	6.750
+Masterson, 	6.250
+Matador, 	8.250
+Matagorda, 	6.250
+Matagorda County, 	6.250
+Mathis, 	8.250
+Matinburg, 	6.750
+Matthews, 	7.250
+Maud, 	8.250
+Mauriceville, 	6.750
+Maurin, 	6.750
+Maverick County, 	6.750
+Maxdale, 	6.750
+Maxey, 	6.750
+Maxwell, 	6.750
+May, 	6.250
+Maydelle, 	6.750
+Mayfield, 	6.750
+Maypearl, 	8.000
+Maysfield, 	6.750
+McAdoo, 	6.750
+McAllen, 	8.250
+McBeth, 	6.750
+McCamey, 	7.750
+McCaulley, 	6.250
+McClanahan, 	6.750
+McCoy, 	6.750
+McCulloch County, 	6.750
+McDade, 	6.750
+McFaddin, 	6.750
+McGregor, 	8.250
+McKinney, 	8.250
+McKinney Acres, 	6.250
+McLean, 	7.750
+McLendon-Chisholm, 	8.250
+McLennan County, 	6.750
+McLeod, 	6.250
+McMahan, 	6.750
+McMullen County, 	6.250
+McNeil, 	7.250
+McQueeney, 	6.750
+Meador Grove, 	6.750
+Meadow, 	7.750
+Meadowlakes, 	6.250
+Meadows Place, 	8.250
+Medicine Mound, 	6.750
+Medina, 	6.750
+Medina County, 	6.750
+Meeker, 	6.750
+Meeks, 	6.750
+Megargel, 	7.750
+Melissa, 	8.250
+Melrose, 	7.250
+Melvin, 	8.000
+Memphis, 	8.250
+Menard, 	8.250
+Menard County, 	6.750
+Mendoza, 	6.750
+Menlow, 	6.750
+Mentone, 	6.250
+Mentz, 	6.750
+Mercedes, 	8.250
+Mercury, 	7.000
+Mereta, 	6.750
+Meridian, 	8.250
+Merit, 	6.750
+Merkel, 	8.250
+Mertens, 	7.750
+Mertzon, 	7.250
+Mesquite, 	8.250
+Mexia, 	8.250
+Meyersville, 	6.250
+Miami, 	8.250
+Mico, 	6.750
+Middleton, 	6.750
+Midfield, 	6.250
+Midkiff, 	6.250
+Midland, 	8.250
+Midland County, 	6.750
+Midlothian, 	8.250
+Midway, 	8.250
+Midway North, 	6.250
+Midway South, 	6.250
+Mila Doce, 	6.250
+Milam, 	6.750
+Milam County, 	6.750
+Milano, 	8.250
+Mildred, 	7.750
+Miles, 	8.250
+Milford, 	7.250
+Milheim, 	6.750
+Miller Grove, 	6.750
+Millers Cove, 	7.750
+Millersview, 	6.750
+Millican, 	6.750
+Mills County, 	6.250
+Millsap, 	7.750
+Mims, 	6.750
+Minden, 	6.250
+Mineola, 	8.250
+Mineral, 	6.750
+Mineral Wells, 	8.250
+Minerva, 	6.750
+Mings Chapel, 	6.750
+Mingus, 	7.750
+Minter, 	6.750
+Mirando City, 	6.750
+Mission, 	8.250
+Mission Bend, 	6.250
+Mission Valley, 	6.750
+Missouri City, 	8.250
+Mitchell County, 	6.750
+Mixon, 	6.750
+Mobeetie, 	7.250
+Mobile City, 	7.750
+Moffat, 	6.750
+Monahans, 	8.250
+Monkstown, 	6.750
+Monroe City, 	6.750
+Mont Belvieu, 	8.250
+Montague, 	6.250
+Montague County, 	6.250
+Montalba, 	6.750
+Monte Alto, 	6.250
+Montell, 	7.250
+Montgomery, 	8.250
+Montgomery County, 	6.250
+Monthalia, 	6.750
+Moody, 	8.250
+Moore, 	6.750
+Moore County, 	6.250
+Moore Station, 	6.250
+Mooreville, 	6.750
+Morales, 	6.750
+Morales-Sanchez, 	6.250
+Moran, 	7.250
+Morgan, 	7.750
+Morgan Farm Area, 	6.250
+Morgan Mill, 	6.750
+Morgans Point, 	8.250
+Morgans Point Resort, 	8.250
+Morning Glory, 	6.750
+Morris County, 	6.750
+Morris Ranch, 	6.750
+Morse, 	6.250
+Morton, 	7.750
+Moscow, 	6.750
+Mosheim, 	6.750
+Moss Bluff, 	6.750
+Moss Hill, 	6.750
+Motley County, 	6.250
+Moulton, 	8.000
+Mound, 	6.750
+Mound City, 	6.750
+Mount Calm, 	7.750
+Mount Enterprise, 	7.750
+Mount Lucas, 	6.750
+Mount Pleasant, 	8.250
+Mount Selman, 	6.750
+Mount Vernon, 	8.250
+Mountain City, 	8.250
+Mountain Home, 	6.750
+Mountain Springs, 	6.750
+Muenster, 	8.250
+Muldoon, 	6.750
+Muleshoe, 	8.250
+Mullin, 	7.250
+Mullins Prairie, 	6.750
+Mumford, 	6.250
+Munday, 	8.250
+Muniz, 	6.250
+Munson, 	6.750
+Murchison, 	7.750
+Murphy, 	8.250
+Murray, 	6.750
+Mustang, 	8.250
+Mustang Ridge, 	8.250
+Myra, 	6.750
+Myrtle Springs, 	6.250
+Nacogdoches, 	8.250
+Nacogdoches County, 	6.250
+Nada, 	7.250
+Nancy, 	6.750
+Naples, 	8.250
+Nash, 	8.250
+Nassau Bay, 	8.250
+Natalia, 	8.250
+Naval Air Station/ Jrb, 	6.250
+Navarro, 	7.750
+Navarro County, 	6.750
+Navarro Mills, 	6.750
+Navasota, 	8.250
+Nazareth, 	8.250
+Nechanitz, 	6.750
+Neches, 	6.750
+Nederland, 	8.250
+Needmore, 	6.750
+Needville, 	8.250
+Nell, 	6.750
+Nelsonville, 	6.750
+Nelta, 	6.750
+Nemo, 	6.250
+Nesbitt, 	6.250
+Nevada, 	7.750
+New Baden, 	6.250
+New Berlin, 	8.000
+New Boston, 	8.250
+New Braunfels, 	8.250
+New Caney, 	8.250
+New Chapel Hill, 	7.750
+New Clarkson, 	6.750
+New Deal, 	8.250
+New Fairview, 	8.250
+New Falcon, 	6.250
+New Home, 	6.750
+New Hope, 	7.250
+New Hope (historical), 	6.250
+New London, 	6.250
+New Mine, 	6.750
+New Mountain, 	6.750
+New Salem, 	6.750
+New Summerfield, 	7.750
+New Taiton, 	6.750
+New Territory, 	6.250
+New Ulm, 	6.750
+New Waverly, 	8.250
+New Wehdem, 	6.750
+New Willard, 	6.750
+Newark, 	8.250
+Newby, 	6.750
+Newcastle, 	7.750
+Newgulf, 	6.750
+Newsome, 	6.750
+Newton, 	8.250
+Newton County, 	6.250
+Neylandville, 	7.750
+Nickel, 	6.750
+Niederwald, 	8.250
+Nile, 	6.750
+Nimrod, 	6.750
+Nix, 	6.750
+Nixon, 	8.250
+Nocona, 	8.250
+Nolan, 	6.250
+Nolan County, 	6.250
+Nolanville, 	8.250
+Nome, 	7.750
+Noonday, 	7.750
+Nordheim, 	7.250
+Normangee, 	8.000
+Normanna, 	6.750
+Norse, 	6.750
+North Alamo, 	6.250
+North Cleveland, 	7.750
+North Escobares, 	6.250
+North Houston, 	6.250
+North Pearsall, 	6.750
+North Prairie, 	6.750
+North Richland Hills, 	8.250
+North San Pedro, 	6.250
+North Zulch, 	6.750
+Northcliff, 	6.750
+Northcrest, 	6.750
+Northlake, 	8.250
+Northrup, 	6.750
+Norton, 	6.750
+Norwood, 	6.750
+Notrees, 	7.000
+Novice, 	6.750
+Noxville, 	6.750
+Nueces County, 	6.250
+Nurillo, 	6.250
+Nursery, 	6.750
+O'Brien, 	7.250
+O'Donnell, 	7.750
+O'Quinn, 	6.750
+Oak Cliff Place, 	6.250
+Oak Forest, 	6.750
+Oak Grove, 	6.750
+Oak Island, 	6.750
+Oak Leaf, 	8.000
+Oak Point, 	8.250
+Oak Ridge, 	8.250
+Oak Ridge North, 	8.250
+Oak Trail Shores, 	6.750
+Oak Valley, 	7.750
+Oakhurst, 	7.250
+Oakland, 	6.750
+Oakville, 	6.750
+Oakwood, 	7.750
+Ocee, 	6.750
+Ochiltree County, 	6.250
+Odell, 	6.750
+Odem, 	8.000
+Odessa, 	8.250
+Oenaville, 	6.750
+Ogden, 	6.750
+Oglesby, 	7.750
+Oilton, 	6.750
+Oklaunion, 	6.750
+Old Boston, 	6.750
+Old Brazoria, 	6.750
+Old Dime Box, 	6.750
+Old Glory, 	6.250
+Old Larissa, 	6.750
+Old Ocean, 	6.750
+Old River-Winfree, 	8.250
+Olden, 	6.250
+Oldenburg, 	6.750
+Oldham County, 	6.750
+Olivarez, 	6.250
+Olivia, 	6.750
+Olmito, 	6.250
+Olmos, 	6.750
+Olmos Park, 	8.250
+Olney, 	8.250
+Olton, 	8.250
+Omaha, 	8.250
+Onalaska, 	8.250
+Onion Creek, 	6.250
+Opdyke West, 	7.250
+Oran, 	6.750
+Orange, 	8.250
+Orange County, 	6.750
+Orange Grove, 	8.250
+Orangefield, 	6.750
+Orason Acres Colonia, 	6.250
+Orchard, 	8.250
+Ore City, 	8.250
+Orient, 	6.750
+Orla, 	6.750
+Osage, 	6.750
+Oscar, 	6.750
+Osceola, 	6.750
+Otey, 	6.750
+Ottine, 	6.750
+Otto, 	6.750
+Ovalo, 	6.250
+Overton, 	8.250
+Ovilla, 	8.250
+Owentown, 	6.750
+Owl Ranch-Amargosa, 	6.750
+Oyster Creek, 	8.250
+Ozona, 	6.250
+Paducah, 	8.250
+Paige, 	6.750
+Paint Rock, 	7.750
+Paisano Park Colonia, 	6.250
+Palacios, 	8.250
+Palestine, 	8.250
+Palisades, 	6.250
+Palito Blanco, 	6.750
+Palm Valley, 	7.250
+Palmer, 	8.250
+Palmhurst, 	8.250
+Palmview, 	8.250
+Palmview South, 	6.250
+Palo Alto, 	6.750
+Palo Pinto, 	6.750
+Palo Pinto County, 	6.750
+Paluxy, 	6.750
+Pampa, 	8.250
+Pancake, 	6.750
+Pandale, 	6.750
+Pandora, 	6.250
+Panhandle, 	8.000
+Panna Maria, 	6.750
+Panola, 	6.250
+Panola County, 	6.250
+Panorama Village, 	7.500
+Pantego, 	8.250
+Papalote, 	6.750
+Paradise, 	8.250
+Paris, 	8.250
+Park Springs, 	6.750
+Parker, 	7.250
+Parker County, 	6.750
+Parmer County, 	6.250
+Pasadena, 	8.250
+Patillo, 	6.750
+Patricia, 	6.750
+Pattison, 	7.250
+Patton Village, 	8.250
+Pattonville, 	6.750
+Pawelekville, 	6.750
+Pawnee, 	6.750
+Payne Springs, 	8.000
+Peacock, 	6.250
+Pear Valley, 	7.000
+Pearl, 	6.750
+Pearland, 	8.250
+Pearsall, 	8.250
+Pearson, 	6.750
+Peaster, 	6.750
+Pecan Acres, 	6.250
+Pecan Gap, 	8.250
+Pecan Grove, 	6.750
+Pecan Hill, 	7.250
+Pecan Plantation, 	6.750
+Pecos, 	8.250
+Pecos County, 	6.250
+Peggy, 	6.750
+Pelham, 	6.750
+Pelican Bay, 	7.250
+Pendleton, 	6.750
+Penelope, 	7.750
+Penitas, 	8.250
+Pennington, 	6.250
+Penwell, 	7.000
+Peoria, 	6.750
+Pep, 	6.250
+Percilla, 	6.750
+Perezville, 	6.250
+Pernitas Point, 	6.750
+Perrin, 	6.250
+Perry, 	6.750
+Perryton, 	8.250
+Perryville, 	6.750
+Peters, 	6.750
+Petersburg, 	8.250
+Petrolia, 	7.250
+Petronila, 	7.250
+Pettibone, 	6.750
+Pettit, 	6.750
+Pettus, 	6.750
+Petty, 	6.750
+Pflugerville, 	8.250
+Pharr, 	8.250
+Phelps, 	6.750
+Pickton, 	6.750
+Pidcoke, 	6.750
+Pierce, 	6.750
+Pierces Chapel, 	6.750
+Pilot Point, 	8.250
+Pine, 	6.750
+Pine Forest, 	6.750
+Pine Island, 	6.250
+Pine Mills, 	6.750
+Pine Prairie, 	6.750
+Pine Valley, 	6.750
+Pinehill, 	6.750
+Pinehurst, 	8.250
+Pineland, 	7.750
+Pinewood Estates, 	6.250
+Piney Point Village, 	8.250
+Pipe Creek, 	6.750
+Pisek, 	6.750
+Pittsburg, 	8.250
+Placedo, 	6.750
+Placid, 	7.000
+Plains, 	7.750
+Plainview, 	8.250
+Plano, 	8.250
+Plantersville, 	6.750
+Pleak, 	8.000
+Pleasant Grove, 	6.750
+Pleasant Hill, 	6.750
+Pleasant Valley, 	7.250
+Pleasanton, 	8.250
+Pledger, 	6.250
+Pluck, 	6.750
+Plum, 	6.750
+Plum Grove, 	7.750
+Poesville, 	6.750
+Point, 	8.250
+Point Comfort, 	8.250
+Point Venture, 	8.250
+Pointblank, 	8.250
+Polk County, 	6.750
+Pollok, 	6.750
+Ponder, 	8.000
+Ponta, 	6.750
+Pontotoc, 	7.250
+Pony, 	6.750
+Poolville, 	6.750
+Port Alto, 	6.750
+Port Aransas, 	8.250
+Port Arthur, 	8.250
+Port Bolivar, 	6.250
+Port Isabel, 	8.250
+Port Lavaca, 	8.250
+Port Mansfield, 	6.250
+Port Neches, 	8.250
+Port O'Connor, 	8.250
+Porter, 	8.250
+Porter Heights, 	6.250
+Porter Springs, 	6.750
+Portland, 	8.250
+Posey, 	6.750
+Possum Kingdom Lake, 	6.750
+Post, 	8.250
+Post Oak Bend, 	7.750
+Post Oak Bend City, 	6.250
+Postoak, 	6.750
+Poteet, 	8.250
+Poth, 	8.000
+Potosi, 	6.250
+Potter County, 	6.250
+Pottsboro, 	8.250
+Pottsville, 	6.750
+Powderly, 	6.750
+Powell, 	6.750
+Poynor, 	7.250
+Prado Verde, 	6.750
+Praesel, 	6.750
+Praha, 	6.750
+Prairie Dell, 	6.750
+Prairie Hill, 	6.750
+Prairie Lea, 	6.750
+Prairie Point, 	6.750
+Prairie View, 	8.250
+Premont, 	8.250
+Presidio, 	8.250
+Presidio County, 	6.250
+Preston, 	6.250
+Price, 	6.250
+Priddy, 	6.250
+Primera, 	8.250
+Primrose, 	6.750
+Princeton, 	8.250
+Pritchett, 	6.750
+Proctor, 	6.750
+Progreso, 	8.000
+Progreso Lakes, 	7.750
+Progress, 	6.750
+Prosper, 	8.250
+Providence, 	6.750
+Providence Village, 	7.750
+Provident City, 	6.750
+Pueblo Nuevo Colonia, 	6.750
+Pumphrey, 	6.750
+Punkin Center, 	6.750
+Purdon, 	6.750
+Purmela, 	6.750
+Pursley, 	6.750
+Putnam, 	7.250
+Pyote, 	7.250
+Pyron, 	6.750
+Quail, 	6.250
+Quanah, 	8.250
+Queen City, 	8.000
+Quemado, 	7.250
+Quihi, 	6.750
+Quinlan, 	8.250
+Quintana, 	7.750
+Quitaque, 	8.250
+Quitman, 	8.250
+Rabb, 	6.750
+Rabbs Prairie, 	6.750
+Raccoon Bend, 	6.750
+Rachal, 	6.750
+Radar Base, 	6.750
+Rainbow, 	6.250
+Rains County, 	6.750
+Raisin, 	6.750
+Raleigh, 	6.750
+Ralls, 	8.250
+Ramireno, 	6.250
+Ranchette Estates, 	6.250
+Ranchitos Las Lomas, 	6.750
+Rancho Alegre, 	6.750
+Rancho Banquete, 	6.250
+Rancho Chico, 	6.250
+Rancho Viejo, 	7.250
+Ranchos Penitas West Colonia, 	6.750
+Randado, 	8.250
+Randall County, 	6.250
+Randolph, 	6.750
+Ranger, 	8.250
+Rangerville, 	6.250
+Rankin, 	7.750
+Ransom Canyon, 	7.250
+Ratamosa, 	6.250
+Ratcliff, 	6.750
+Ratibor, 	6.750
+Ravenna, 	7.750
+Ray Point, 	6.750
+Rayburn, 	6.750
+Raymondville, 	8.250
+Raywood, 	6.750
+Reagan, 	6.750
+Reagan County, 	6.750
+Real County, 	6.750
+Realitos, 	6.250
+Red Lick, 	6.750
+Red Oak, 	8.250
+Red Ranger, 	6.750
+Red River County, 	6.750
+Red Rock, 	6.750
+Red Springs, 	7.250
+Redbank, 	6.750
+Redfield, 	6.250
+Redford, 	6.250
+Redland, 	6.750
+Redlawn, 	6.750
+Redwater, 	8.250
+Redwood, 	6.750
+Reedville, 	6.750
+Reese, 	6.750
+Reese Air Force Base, 	6.750
+Reese Center, 	6.750
+Reese Village, 	6.750
+Reeves County, 	6.250
+Refuge, 	6.750
+Refugio, 	8.250
+Refugio County, 	6.250
+Reid Hope King Colonia, 	6.250
+Rek Hill, 	6.750
+Reklaw, 	7.750
+Relampago, 	6.250
+Reliance, 	6.750
+Rendon, 	6.250
+Reno, 	7.750
+Retreat, 	6.750
+Reynard, 	6.750
+Rhome, 	8.250
+Rhonesboro, 	6.750
+Ricardo, 	6.750
+Rice, 	8.000
+Richards, 	6.750
+Richardson, 	8.250
+Richland, 	7.750
+Richland Hills, 	8.250
+Richland Springs, 	8.000
+Richmond, 	8.250
+Richwood, 	8.250
+Ridgeway, 	6.750
+Riesel, 	8.000
+Ringgold, 	6.250
+Rio Bravo, 	7.750
+Rio Frio, 	6.750
+Rio Grande City, 	8.250
+Rio Hondo, 	8.250
+Rio Vista, 	7.750
+Riomedina, 	6.750
+Rising Star, 	8.250
+River Oaks, 	8.250
+Riverside, 	8.250
+Riviera, 	6.750
+Riviera Beach, 	6.750
+Roane, 	6.750
+Roanoke, 	8.250
+Roans Prairie, 	6.750
+Roaring Springs, 	8.250
+Robbins, 	6.750
+Robert Lee, 	8.250
+Roberts County, 	6.250
+Robertson, 	6.750
+Robertson County, 	6.250
+Robinson, 	8.250
+Robstown, 	8.250
+Roby, 	7.250
+Rochelle, 	7.000
+Rochester, 	7.250
+Rock Creek, 	6.750
+Rock Island, 	6.750
+Rockdale, 	8.250
+Rockhill, 	6.750
+Rockland, 	6.750
+Rockne, 	6.750
+Rockport, 	8.250
+Rocksprings, 	8.000
+Rockwall, 	8.250
+Rockwall County, 	6.250
+Rockwood, 	6.250
+Rocky Branch, 	6.750
+Rocky Hill, 	6.750
+Rocky Mound, 	7.750
+Rogers, 	8.250
+Rogers Hill, 	6.750
+Rolling Meadows, 	6.750
+Rollingwood, 	8.250
+Roma, 	8.250
+Roma Creek, 	6.250
+Roma-Los Saenz, 	6.250
+Roman Forest, 	8.250
+Romayor, 	6.750
+Roosevelt, 	6.750
+Ropesville, 	8.000
+Rosanky, 	6.750
+Roscoe, 	8.250
+Rose City, 	8.250
+Rose Hill, 	8.250
+Rose Hill Acres, 	6.250
+Rosebud, 	8.250
+Rosenberg, 	8.250
+Rosevine, 	6.750
+Rosewood, 	6.750
+Rosharon, 	6.750
+Rosita North, 	6.750
+Rosita South, 	6.750
+Ross, 	7.750
+Rosser, 	7.250
+Rosston, 	6.750
+Rossville, 	6.750
+Roswell, 	6.750
+Rotan, 	8.250
+Round Mountain, 	8.250
+Round Prairie, 	6.750
+Round Rock, 	8.250
+Round Top, 	8.250
+Rowena, 	6.750
+Rowlett, 	8.250
+Roxton, 	7.750
+Royalty, 	6.250
+Royse City, 	8.250
+Rucker, 	6.750
+Rule, 	7.250
+Rumley, 	6.750
+Runaway Bay, 	8.250
+Runge, 	8.250
+Runnels County, 	6.750
+Rush Prairie, 	6.750
+Rusk, 	8.250
+Rusk County, 	6.250
+Rutersville, 	6.750
+Rye, 	6.750
+Sabinal, 	8.250
+Sabine County, 	6.750
+Sabine Pass, 	6.750
+Sachse, 	8.000
+Sacul, 	7.250
+Sadler, 	7.250
+Saginaw, 	8.250
+Saint Hedwig, 	7.750
+Saint Jo, 	8.250
+Saint Paul, 	7.250
+Salado, 	8.250
+Salesville, 	6.750
+Salineño, 	6.250
+Salmon, 	6.750
+Salt Flat, 	6.250
+Saltillo, 	6.750
+Salty, 	6.750
+Sam Rayburn, 	6.250
+Samnorwood, 	6.250
+San Angelo, 	8.250
+San Antonio, 	8.250
+San Augustine, 	8.250
+San Augustine County, 	6.750
+San Benito, 	8.250
+San Carlos, 	6.250
+San Carlos Number 2 Colonia, 	6.750
+San Diego, 	8.250
+San Elizario, 	7.250
+San Felipe, 	8.250
+San Gabriel, 	6.750
+San Isidro, 	6.250
+San Jacinto County, 	6.750
+San Juan, 	8.250
+San Juan Colonia, 	6.250
+San Leanna, 	8.250
+San Leon, 	6.250
+San Manuel, 	6.250
+San Marcos, 	8.250
+San Patricio, 	6.750
+San Patricio County, 	6.250
+San Pedro, 	6.750
+San Perlita, 	6.250
+San Saba, 	8.250
+San Saba County, 	6.750
+San Ygnacio, 	6.250
+Sanctuary, 	8.000
+Sand Springs, 	6.250
+Sanderson, 	7.750
+Sandhill, 	6.750
+Sandia, 	6.750
+Sandy, 	7.250
+Sandy Corner, 	6.750
+Sandy Creek, 	6.750
+Sandy Fork, 	6.750
+Sandy Hollow-Escondidas, 	6.250
+Sandy Point, 	6.750
+Sanford, 	7.250
+Sanger, 	8.250
+Sansom Park, 	8.250
+Santa Anna, 	8.250
+Santa Clara, 	7.750
+Santa Cruz, 	6.250
+Santa Elena, 	6.250
+Santa Fe, 	8.250
+Santa Maria, 	6.250
+Santa Monica, 	6.250
+Santa Rosa, 	7.250
+Santa Rosa Colonia, 	6.250
+Santo, 	6.750
+Saragosa, 	6.750
+Saratoga, 	6.250
+Sarita, 	6.250
+Sash, 	6.750
+Satin, 	6.750
+Satsuma, 	7.250
+Sattler, 	8.250
+Saturn, 	6.750
+Savoy, 	8.250
+Sayers, 	6.750
+Scenic Oaks, 	6.250
+Schertz, 	8.250
+Schleicher County, 	6.750
+Schulenburg, 	8.250
+Schumannsville, 	6.750
+Schwab City, 	6.750
+Schwertner, 	6.250
+Scissors, 	6.250
+Scotland, 	8.250
+Scottsville, 	7.250
+Scroggins, 	6.750
+Scurry, 	7.250
+Scurry County, 	6.750
+Seabrook, 	8.250
+Seadrift, 	8.250
+Seagoville, 	8.250
+Seagraves, 	8.250
+Sealy, 	8.250
+Seaton, 	6.750
+Sebastian, 	6.250
+Seco Mines, 	7.250
+Segno, 	6.750
+Segovia, 	6.750
+Seguin, 	8.250
+Selden, 	6.750
+Selma, 	8.250
+Selman City, 	6.250
+Seminole, 	7.750
+Serbin, 	6.750
+Serenada, 	6.250
+Seth Ward, 	6.750
+Seven Oaks, 	7.750
+Seven Pines, 	6.750
+Seven Points, 	8.250
+Sexton, 	6.750
+Seymore, 	6.750
+Seymour, 	8.250
+Shackelford County, 	6.250
+Shady Grove, 	6.750
+Shady Hollow, 	6.250
+Shady Shores, 	7.250
+Shafter, 	6.250
+Shallowater, 	7.750
+Shamrock, 	8.000
+Sharp, 	6.750
+Shavano Park, 	8.250
+Sheffield, 	6.250
+Shelby, 	6.750
+Shelby County, 	6.250
+Shelbyville, 	6.250
+Sheldon, 	6.250
+Shenandoah, 	8.250
+Shepherd, 	8.250
+Sheppard Afb, 	6.250
+Sheridan, 	7.250
+Sherman, 	8.250
+Sherman County, 	6.250
+Sherwood Shores, 	6.250
+Shiner, 	7.250
+Shirley, 	6.750
+Shiro, 	6.750
+Shive, 	6.750
+Shoreacres, 	7.500
+Sidney, 	6.750
+Sienna Plantation, 	6.250
+Sierra Blanca, 	6.250
+Siesta Shores, 	6.250
+Siloam, 	6.750
+Silsbee, 	8.250
+Silver, 	6.250
+Silver City, 	6.750
+Silverton, 	8.000
+Simms, 	6.750
+Simonton, 	8.250
+Singleton, 	6.750
+Sinton, 	8.250
+Sipe Springs, 	6.750
+Sisterdale, 	6.750
+Skellytown, 	7.500
+Skidmore, 	6.750
+Slaton, 	8.250
+Slide, 	6.750
+Slidell, 	6.750
+Slocum, 	6.750
+Smetana, 	6.750
+Smiley, 	7.750
+Smith County, 	6.750
+Smith Hill, 	6.750
+Smith Point, 	6.750
+Smithland, 	6.750
+Smiths Bend, 	6.750
+Smithson Valley, 	6.750
+Smithville, 	8.250
+Smyer, 	6.250
+Snook, 	8.250
+Snow Hill, 	6.750
+Snyder, 	8.250
+Socorro, 	8.250
+Socorro Mission Number 1 Colonia, 	6.750
+Soda, 	6.750
+Solis, 	6.750
+Solms, 	6.750
+Somerset, 	8.250
+Somervell County, 	6.250
+Somerville, 	8.250
+Sonora, 	8.000
+Soules Chapel, 	6.750
+Sour Lake, 	8.250
+South Alamo, 	6.250
+South Bend, 	6.750
+South Elm, 	6.750
+South Fork Estates, 	6.750
+South Houston, 	8.250
+South Mountain, 	6.750
+South Padre Island, 	8.250
+South Plains, 	6.250
+South Point, 	6.250
+South Purmela, 	6.750
+South San Pedro, 	6.750
+South Sulphur, 	6.750
+South Texarkana, 	6.750
+South Toledo Bend, 	6.250
+Southlake, 	8.250
+Southmayd, 	8.250
+Southside Place, 	8.250
+Spade, 	6.250
+Spanish Camp, 	6.750
+Sparenberg, 	6.750
+Sparks, 	6.750
+Speaks, 	6.250
+Spearman, 	8.250
+Speegleville, 	6.750
+Spicewood, 	6.250
+Splendora, 	8.250
+Spofford, 	7.250
+Spring, 	6.250
+Spring Branch, 	7.250
+Spring Creek, 	6.750
+Spring Garden-Terra Verde, 	6.250
+Spring Hill, 	6.750
+Spring Valley, 	6.750
+Springfield, 	6.750
+Springlake, 	6.250
+Springtown, 	8.250
+Spur, 	8.250
+Spurger, 	6.750
+Stafford, 	8.250
+Stagecoach, 	8.250
+Stairtown, 	6.750
+Stamford, 	8.250
+Stampede, 	6.750
+Stamps, 	6.750
+Stanton, 	8.000
+Staples, 	8.250
+Star, 	6.250
+Star Harbor, 	6.250
+Starr County, 	6.250
+Startzville, 	8.250
+Steep Hollow, 	6.750
+Stellar, 	6.750
+Stephen Creek, 	7.250
+Stephens County, 	6.250
+Stephenville, 	8.250
+Sterling City, 	7.750
+Sterling County, 	6.250
+Stinnett, 	8.250
+Stockdale, 	8.000
+Stoneham, 	6.750
+Stonewall, 	6.750
+Stonewall County, 	6.250
+Stormville, 	6.750
+Stowell, 	8.125
+Stratford, 	8.000
+Strawn, 	8.250
+Streeter, 	7.250
+Streetman, 	7.750
+Strickland, 	6.750
+String Prairie, 	6.750
+Study Butte, 	7.750
+Study Butte-Terlingua, 	6.750
+Sublime, 	6.250
+Sudan, 	7.750
+Suffolk, 	6.750
+Sugar Land, 	8.250
+Sullivan City, 	8.250
+Sulphur Bluff, 	6.750
+Sulphur Springs, 	8.250
+Summerfield, 	6.750
+Summerville, 	6.750
+Sumner, 	6.750
+Sun Valley, 	7.750
+Sundown, 	8.250
+Sunnyside, 	6.750
+Sunnyvale, 	8.250
+Sunray, 	7.250
+Sunrise, 	6.750
+Sunrise Beach, 	7.250
+Sunrise Beach Village, 	6.250
+Sunset, 	6.250
+Sunset Acres Colonia, 	6.750
+Sunset Colonia, 	6.250
+Sunset Valley, 	8.125
+Surfside Beach, 	7.750
+Sutherland Springs, 	6.250
+Sutton County, 	6.250
+Swan, 	6.750
+Sweeny, 	8.250
+Sweeny Switch, 	6.750
+Sweet Home, 	6.250
+Sweetwater, 	8.250
+Swisher County, 	6.750
+Swiss Alp, 	6.750
+Sylvan, 	6.750
+Sylvester, 	6.250
+Tabor, 	6.750
+Taft, 	8.000
+Tahoka, 	8.250
+Taiton, 	6.750
+Talco, 	7.750
+Talpa, 	6.250
+Talty, 	7.750
+Tanglewood, 	6.750
+Tankersley, 	6.750
+Tarkington Prairie, 	6.750
+Tarpley, 	6.750
+Tarrant County, 	6.250
+Tarzan, 	6.250
+Tatum, 	7.750
+Taylor, 	8.250
+Taylor County, 	6.250
+Taylor Lake Village, 	8.250
+Taylor Landing, 	6.750
+Taylorsville, 	6.750
+Taylortown, 	6.750
+Teague, 	8.250
+Teaselville, 	6.750
+Tecula, 	6.750
+Tehuacana, 	6.250
+Telegraph, 	6.750
+Telephone, 	6.750
+Telferner, 	6.750
+Tell, 	6.750
+Temple, 	8.250
+Tenaha, 	7.250
+Tennessee Colony, 	6.750
+Tennyson, 	6.250
+Terlingua, 	7.750
+Terrell, 	8.250
+Terrell County, 	7.750
+Terrell Hills, 	8.000
+Terry Chapel, 	6.750
+Terry County, 	6.750
+Texarkana, 	8.250
+Texas City, 	8.250
+Texhoma, 	6.250
+Texline, 	7.250
+The Colony, 	8.250
+The Hills, 	6.250
+The Woodlands, 	6.250
+Thicket, 	6.250
+Thomas, 	6.750
+Thomaston, 	6.250
+Thompson, 	7.250
+Thompsons, 	7.250
+Thompsonville, 	6.750
+Thorndale, 	8.250
+Thornton, 	7.250
+Thorntonville, 	7.250
+Thorp Spring, 	6.750
+Thrall, 	7.500
+Three Rivers, 	8.000
+Throckmorton, 	8.250
+Throckmorton County, 	6.250
+Thurber, 	6.750
+Tierra Bonita, 	6.250
+Tierra Bonita Colonia, 	6.250
+Tierra Grande, 	6.250
+Tiki Island, 	7.250
+Tilden, 	6.250
+Tilmon, 	6.750
+Timbercreek Canyon, 	6.250
+Timberwood Park, 	6.250
+Timpson, 	8.250
+Tioga, 	8.250
+Tira, 	6.750
+Titus County, 	6.750
+Tivoli, 	6.250
+Tivydale, 	6.750
+Toco, 	7.750
+Todd Mission, 	8.250
+Tokio, 	6.750
+Tolar, 	8.250
+Tom Bean, 	8.250
+Tom Green County, 	6.750
+Tomball, 	8.250
+Tool, 	7.250
+Topsey, 	6.750
+Tornillo, 	7.250
+Tours, 	6.750
+Tow, 	6.250
+Towns Bluff, 	6.750
+Toyah, 	8.250
+Toyahvale, 	6.750
+Tradewinds, 	6.250
+Travis, 	6.750
+Travis County, 	6.250
+Travis Peak, 	7.250
+Trawick, 	7.250
+Trent, 	7.250
+Trenton, 	8.250
+Trinidad, 	7.750
+Trinity, 	8.250
+Trinity County, 	6.250
+Trophy Club, 	8.250
+Troup, 	8.250
+Troy, 	8.250
+Tucker, 	6.750
+Tuleta, 	6.750
+Tulia, 	8.250
+Tulsita, 	6.750
+Tunis, 	6.750
+Tupelo, 	6.750
+Turkey, 	8.250
+Turnersville, 	6.750
+Turney, 	6.750
+Tuscola, 	8.250
+Tye, 	8.250
+Tyler, 	8.250
+Tyler County, 	6.750
+Tynan, 	6.750
+Uhland, 	8.250
+Umbarger, 	6.250
+Uncertain, 	7.250
+Union, 	6.750
+Union Grove, 	7.750
+Union Hill, 	6.750
+Union Valley, 	7.750
+Universal City, 	8.250
+University Park, 	8.250
+Upshur County, 	6.750
+Upton, 	6.750
+Upton County, 	6.250
+Urbana, 	7.250
+Utopia, 	7.250
+Uvalde, 	8.250
+Uvalde County, 	6.750
+Uvalde Estates, 	6.750
+Val Verde, 	6.750
+Val Verde County, 	6.750
+Val Verde Park, 	6.750
+Valentine, 	8.250
+Valera, 	6.250
+Valley Mills, 	7.750
+Valley Spring, 	6.250
+Valley View, 	8.250
+Van, 	8.250
+Van Alstyne, 	8.250
+Van Horn, 	8.000
+Van Raub, 	6.750
+Van Vleck, 	6.250
+Van Zandt County, 	6.250
+Vance, 	6.750
+Vancourt, 	6.750
+Vanderbilt, 	6.750
+Vanderpool, 	6.750
+Vanetia, 	6.750
+Vattman, 	6.750
+Vaughan, 	6.750
+Vega, 	7.750
+Venus, 	8.000
+Vera, 	6.250
+Verdi, 	6.750
+Verhalen, 	6.750
+Veribest, 	6.750
+Vernon, 	8.250
+Vick, 	6.750
+Victoria, 	8.250
+Victoria County, 	6.750
+Victory City, 	6.750
+Vidor, 	8.250
+Vigo Park, 	6.750
+Vilas, 	6.750
+Villa Pancho, 	6.250
+Villa Verde, 	6.250
+Villa del Sol, 	6.250
+Village Mills, 	6.250
+Village Of The Hills, 	8.250
+Vinton, 	8.250
+Violet, 	6.750
+Voca, 	7.000
+Volente, 	8.250
+Von Ormy, 	8.250
+Voss, 	6.250
+Votaw, 	6.250
+Voth, 	6.750
+Waco, 	8.250
+Wadsworth, 	6.250
+Waelder, 	7.750
+Waka, 	6.250
+Wake Village, 	8.250
+Wakefield, 	6.750
+Walburg, 	6.250
+Waldeck, 	6.750
+Waldrip, 	7.000
+Walhalla, 	6.750
+Walker County, 	6.750
+Wall, 	6.750
+Waller, 	8.250
+Waller County, 	6.250
+Wallis, 	8.250
+Wallisville, 	6.750
+Walnut Springs, 	7.750
+Ward County, 	6.250
+Warda, 	6.750
+Wards Creek, 	6.750
+Waring, 	6.750
+Warlock, 	6.750
+Warren, 	6.750
+Warren City, 	7.750
+Warrenton, 	6.750
+Washington, 	6.750
+Washington County, 	6.750
+Waskom, 	7.250
+Watauga, 	8.250
+Water Valley, 	6.750
+Waukegan, 	8.250
+Waxahachie, 	8.250
+Wayside, 	6.250
+Weatherford, 	8.250
+Weaver, 	6.750
+Webb County, 	6.750
+Webberville, 	8.250
+Webster, 	8.250
+Weches, 	6.750
+Weesatche, 	6.250
+Weimar, 	8.250
+Weinert, 	7.250
+Weir, 	7.250
+Welch, 	6.750
+Welcome, 	6.750
+Weldon, 	6.750
+Welfare, 	6.750
+Wellborn, 	6.750
+Wellington, 	8.250
+Wellman, 	6.750
+Wells, 	7.750
+Wells Branch, 	6.250
+Weslaco, 	8.250
+West, 	8.250
+West Alto Bonito Colonia, 	6.250
+West Columbia, 	8.250
+West Lake Hills, 	8.250
+West Livingston, 	6.750
+West Mineola, 	6.750
+West Mountain, 	6.750
+West Odessa, 	6.250
+West Orange, 	8.000
+West Pearsall, 	6.750
+West Point, 	6.750
+West Sharyland, 	6.250
+West Tawakoni, 	8.250
+West University Place, 	8.250
+Westbrook, 	7.750
+Westdale, 	6.750
+Westfield, 	7.250
+Westhoff, 	6.250
+Westlake, 	8.250
+Westminster, 	6.250
+Weston, 	7.250
+Weston Lakes, 	6.250
+Westover Hills, 	6.250
+Westphalia, 	6.750
+Westway, 	7.250
+Westworth Village, 	8.250
+Wetmore, 	6.750
+Whaley, 	6.750
+Wharton, 	8.250
+Wharton County, 	6.750
+Wheeler, 	8.000
+Wheeler County, 	6.250
+Wheelock, 	6.250
+White City, 	6.750
+White Deer, 	8.000
+White Oak, 	8.250
+White Settlement, 	8.250
+Whiteface, 	7.750
+Whitehall, 	6.750
+Whitehouse, 	8.250
+Whiterock, 	6.750
+Whitesboro, 	8.250
+Whitewright, 	8.250
+Whitharral, 	6.250
+Whitney, 	8.250
+Whitsett, 	6.750
+Whitson, 	6.750
+Whitt, 	6.750
+Whon, 	6.250
+Wichita County, 	6.250
+Wichita Falls, 	8.250
+Wickett, 	7.250
+Wiergate, 	6.250
+Wigginsville, 	8.250
+Wilbarger County, 	6.750
+Wild Peach Village, 	6.750
+Wilderville, 	6.750
+Wildorado, 	6.750
+Wildwood, 	6.250
+Willacy County, 	6.250
+Willamar, 	6.250
+Williams, 	6.750
+Williamson County, 	6.250
+Willis, 	8.250
+Willow City, 	6.750
+Willow Grove, 	6.750
+Willow Oak, 	6.750
+Willow Park, 	8.250
+Willow Springs, 	7.250
+Wills Point, 	8.250
+Wilmer, 	8.250
+Wilmeth, 	6.750
+Wilson, 	7.750
+Wilson County, 	6.250
+Wimberley, 	8.250
+Winchester, 	6.250
+Windcrest, 	8.250
+Windemere, 	6.250
+Windom, 	7.750
+Windthorst, 	8.250
+Winedale, 	6.750
+Winfield, 	8.000
+Wingate, 	6.750
+Wink, 	8.250
+Winkler, 	6.750
+Winkler County, 	6.750
+Winnie, 	8.125
+Winnsboro, 	8.250
+Winona, 	8.250
+Winters, 	8.250
+Wise County, 	6.750
+Wixon Valley, 	8.250
+Woden, 	7.250
+Wolfe City, 	8.250
+Wolfforth, 	8.250
+Womack, 	6.750
+Wood County, 	6.750
+Woodbine, 	6.750
+Woodbranch, 	8.250
+Woodbury, 	6.750
+Woodcreek, 	8.250
+Woodlake, 	6.250
+Woodlawn, 	6.750
+Woodloch, 	6.250
+Woodrow, 	6.750
+Woodsboro, 	7.250
+Woodson, 	7.250
+Woodville, 	8.250
+Woodway, 	8.250
+Wortham, 	8.250
+Wright City, 	6.750
+Wrightsboro, 	6.750
+Wyldwood, 	6.750
+Wylie, 	8.250
+Yancey, 	6.750
+Yantis, 	8.250
+Yard, 	6.750
+Yarrelton, 	6.750
+Yoakum, 	8.250
+Yoakum County, 	6.250
+Yorktown, 	7.500
+Young County, 	6.750
+Youngsport, 	6.750
+Yznaga, 	6.250
+Zabcikville, 	6.750
+Zapata, 	6.250
+Zapata County, 	6.250
+Zapata Ranch, 	6.250
+Zapata Ranch Colonia, 	6.250
+Zavala County, 	6.250
+Zavalla, 	8.250
+Zephyr, 	6.250
+Zipperlenville, 	6.750
+Zorn,  6.750
+Zuehl, 	6.750

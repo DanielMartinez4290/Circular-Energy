@@ -1,0 +1,553 @@
+#pdfoverview{
+		color:red;
+		}
+		#pdffront{
+		width:665px;
+		position:relative;
+		top:-100px;
+		}
+		#pdffrontpage{
+		background-image:url('../wp-content/themes/circular/images/pdfcover.jpg');
+		height:3200px;
+		width:2200px;
+		background-size:2200px 3200px;
+		}
+		#pdffrontpagecompany{
+		padding-top:130px;
+		text-align:center;
+		color:black;
+		font-family:'swisfont', sans-serif;
+		font-weight:bold;
+		font-size:30pt;
+		}
+		#pdffrontpageinstall{
+		padding-top:5px;
+		text-align:center;
+		font-family:'swisfont',sans-serif;
+		font-size:24pt;
+		}
+		#pdffrontpagepreparedfor{
+		padding-top:580px;
+		padding-left:512px;
+		font-family:'centurygothic', sans-serif;
+		font-size: 13pt;
+		}
+		#pdffrontpagecompany2{
+			padding-top: 1px;
+			padding-left: 487px;
+			font-family:'centurygothic', sans-serif;
+			font-size: 13pt;
+		}
+		#pdffrontpageaddress{
+		padding-left:478px;
+		font-family:'centurygothic', sans-serif;
+		font-size: 13pt;
+		}
+		#pdffrontpagedate{
+		padding-left:452px;
+		padding-top:0px;
+		font-family:'centurygothic', sans-serif;
+		font-size: 13pt;
+		}
+		#pdffrontpagecontact{
+		padding-top:0px;
+		padding-left:478px;
+		font-family:'centurygothic', sans-serif;
+		font-size: 13pt;
+		}
+#pdfsecondpage{
+background-image:url('../wp-content/themes/circular/images/pdfsecondpage.jpg');
+height:3200px;
+width:2200px;
+background-size:2200px 3200px;
+font-family: 'centurygothic';
+}
+#pdfspoverviewtitle{
+	padding-top:120px;
+	padding-left: 30px;
+	font-weight: bold;
+}
+#pdfspoverview{
+	padding-left: 30px;
+	padding-top: 5px;
+	width:680px;
+}
+#pdfspeconomicssummarytitle{
+	padding-left: 30px;
+	padding-top:35px;
+	font-weight: bold;	
+}
+#pdfspinvestmenttitle{
+	padding-left: 300px;
+	padding-top: 10px;
+	font-size: 10pt;
+}
+#pdfspannualsavingstitle{
+	padding-left: 421px;
+	padding-top: -19px;
+	font-size: 10pt;
+}
+#pdfspsimplepaybacktitle{
+	padding-left: 560px;
+	padding-top: -17px;
+	font-size: 10pt;
+}
+#pdfspinvestment{
+	padding-left: 305px;
+	font-weight: bold;
+}
+#pdfspannualsavings{
+	padding-left: 440px;
+	padding-top: -19px;
+	font-weight: bold;
+}
+#pdfspsimplepayback{
+	padding-left: 615px;
+	padding-top: -19px;
+	font-weight: bold;
+}
+#pdfsplifecyclesavingstitle{
+	padding-left: 70px;
+	padding-top: -10px;
+}
+#pdfsplifecyclesavings{
+	padding-left: 50px;
+	font-weight: bold;
+	font-size: 24pt;
+}
+#pdfspsirtitle{
+	padding-left: 325px;
+	padding-top: -47px;
+	font-size: 10pt;
+}
+#pdfspirrtitle{
+	padding-left: 460px;
+	padding-top: -19px;
+	font-size: 10pt;
+}
+#pdfspnpvtitle{
+	padding-top: -19px;
+	padding-left: 610px;
+	font-size: 10pt;
+}
+#pdfspsir{
+	padding-left: 325px;
+	font-weight: bold;
+}
+#pdfspirr{
+	padding-left: 450px;
+	padding-top: -19px;
+	font-weight: bold;
+}
+#pdfspnpv{
+	padding-left: 590px;
+	padding-top: -21px;
+	font-weight: bold;
+}
+#pdfsputilityescalationratetitle{
+	padding-left: 260px;
+	padding-top: 5px;
+	font-size: 9pt;
+}
+#pdfsputilityescalationrate{
+	padding-left: 393px;
+	padding-top:-16px;
+	font-size: 9pt;
+}
+#pdfspequipmentlifetitle{
+	padding-left: 441px;
+	padding-top: -17px;
+	font-size: 9pt;
+}
+#pdfspequipmentlife{
+	padding-left: 534px;
+	padding-top: -16px;
+	font-size: 9pt;
+}
+#pdfspdiscountratetitle{
+	padding-left: 588px;
+	padding-top: -16px;
+	font-size: 9pt;
+}
+#pdfspdiscountrate{
+	padding-left: 674px;
+	padding-top: -16px;
+	font-size: 9pt;
+}
+#pdfspexamplefinancingcashflowtitle{
+	padding-top: 50px;
+	padding-left: 30px;
+	font-weight: bold;
+}
+#pdfspassumesagoodcredittitle{
+	padding-top: -19px;
+	padding-left:250px;
+	font-size: 9pt;
+}
+#pdfsptermlengthtitle{
+	padding-left: 100px;
+	padding-top: 15px;
+}
+#pdfsptermlength{
+	padding-left: 195px;
+	padding-top: -20px;
+	font-weight: bold;
+}
+#pdfspannualpaymenttitle{
+	padding-left: 270px;
+	padding-top: -20px;
+}
+#pdfspannualpayment{
+	padding-left: 397px;
+	padding-top: -20px;
+	font-weight: bold;
+}
+#pdfspannualcashflowtitle{
+	padding-left: 470px;
+	padding-top: -20px;
+}
+#pdfspannualcashflow{
+	padding-left: 607px;
+	padding-top: -19px;
+	font-weight: bold;
+}
+#pdfspannualsavingssectiontitle{
+	padding-top: 310px;
+	padding-left: 50px;
+	font-weight: bold;
+}
+#pdfsputilitytypetitle{
+	padding-left: 85px;
+	padding-top: 10px;
+	font-size: 10pt;
+}
+#pdfsputilityimpacttitle{
+	padding-left: 260px;
+	padding-top: -19px;
+	font-size: 10pt;
+}
+#pdfspunitcosttitle{
+	padding-left: 450px;
+	padding-top: -19px;
+	font-size: 10pt;
+}
+#pdfspannualsavingstitle2{
+	padding-left: 600px;
+	padding-top: -17px;
+	font-size: 10pt;
+}
+#pdfspelectricitytitle{
+	padding-left: 85px;
+	padding-top: 23px;
+	font-size: 10pt;
+}
+#pdfsputilityimpact{
+	padding-left: 228px;
+	padding-top: -19px;
+}
+#pdfspunitcost{
+	padding-left: 418px;
+	padding-top: -19px;
+}
+#pdfspelectricityannual{
+	padding-left: 643px;
+	padding-top: -19px;
+}
+#pdfspmaintenancesavingstitle{
+	padding-left: 85px;
+	padding-top: 17px;
+	width:100px;
+	font-size:10pt; 
+}
+#pdfspmaintenancesavingsannual{
+	padding-left: 652px;
+	padding-top: -35px;
+}
+#pdfsptotalannualsavingstitle{
+	padding-left: 50px;
+	padding-top: 35px;
+	font-size: 12pt;
+}
+#pdfsptotalannualsavings{
+	padding-left: 620px;
+	padding-top: -23px;
+	font-weight: bold;
+	font-size: 14pt;
+}
+#pdffooteremail{
+	padding-top: 68px;
+	padding-left: 230px;
+	color:white;
+	font-family: 'swisfont';
+	font-size:11pt;
+}
+#pdffooterphone{
+	padding-top: -19px;
+	padding-left: 450px;
+	color:white;
+	font-family: 'swisfont';
+	font-size:11pt;
+}
+#pdfthirdpage{
+background-image:url('../wp-content/themes/circular/images/pdfthirdpage.jpg');
+height:3200px;
+width:2200px;
+background-size:2200px 3200px;
+}
+#pdftptitle{
+	font-family:'centurygothic',sans-serif;
+	font-size: 15pt;
+	font-weight: bold;
+	padding-top: 110px;
+	padding-left: 10px;
+}
+#pdftpline{
+	padding-top: -17px;
+	padding-left: 10px;
+}
+#pdftpdesc{
+	padding-left: 10px;
+	padding-top: 5px;
+	width:495px;
+}
+#pdftpcity{
+	padding-left: 523px;
+	padding-top: 104px;
+	color:white
+}
+#pdftplatitude{
+	padding-left: 560px;
+	padding-top: 4px;
+	color:white;
+}
+#pdftplongitude{
+	padding-left: 573px;
+	padding-top: 4px;
+	color:white;
+}
+#pdftpsize{
+	padding-left: 575px;
+	padding-top: 38px;
+	color:white;
+}
+#pdftpnumpanels{
+	padding-left: 588px;
+	padding-top: 4px;
+	color:white;
+}
+#pdftpmoduletype{
+	padding-left: 587px;
+	padding-top: 4px;
+	color:white;
+}
+#pdftpinverter{
+	padding-left:562px;
+	padding-top: 4px;
+	color:white;
+}
+#pdftpazimuth{
+	padding-left: 565px;
+	padding-top: 2px;
+	color:white;
+}
+#pdftppitch{
+	padding-left: 528px;
+	padding-top: 4px;
+	color:white;
+}
+#pdftpinstallationtype{
+	padding-left: 482px;
+	padding-top: 28px;
+	color:white;
+}
+#pdftpfooteremail{
+	padding-top: 466px;
+	padding-left: 235px;
+	color:white;
+	font-family: 'swisfont';
+	font-size:11pt;
+}
+#pdftpfooterphone{
+	padding-left: 450px;
+	padding-top: -19px;
+	font-family: 'swisfont';
+	font-size:11pt;
+	color:white;
+}
+#pdffourthpage{
+background-image:url('../wp-content/themes/circular/images/pdffourthpage.jpg');
+height:3200px;
+width:2200px;
+background-size:2200px 3200px;
+}
+#pdffokwhperyear{
+	padding-left: 280px;
+	padding-top: 125px;
+	font-size: 30pt;
+}
+#pdffojanrad{
+	padding-top: 50px;
+	padding-left: 245px;
+}
+#pdffojanacenergy{
+	padding-top: -20px;
+	padding-left: 377px;
+}
+#pdffofebrad{
+	padding-left: 245px;
+	padding-top: 8px;
+}
+#pdffofebacenergy{
+	padding-top: -20px;
+	padding-left: 377px;
+}
+#pdffomarrad{
+	padding-left: 245px;
+	padding-top: 7px;
+}
+#pdffomaracenergy{
+	padding-top: -20px;
+	padding-left: 377px;
+}
+#pdffoaprrad{
+	padding-left: 245px;
+	padding-top: 8px;
+}
+#pdffoapracenergy{
+	padding-top: -20px;
+	padding-left: 377px;
+}
+#pdffomayrad{
+	padding-left: 245px;
+	padding-top: 8px;
+}
+#pdffomayacenergy{
+	padding-top: -20px;
+	padding-left: 377px;
+}
+#pdffojunrad{
+	padding-left: 245px;
+	padding-top: 8px;
+}
+#pdffojunacenergy{
+	padding-top: -20px;
+	padding-left: 377px;
+}
+#pdffojulrad{
+	padding-left: 245px;
+	padding-top: 8px;
+}
+#pdffojulacenergy{
+	padding-top: -20px;
+	padding-left: 377px;
+}
+#pdffoaugrad{
+	padding-left: 245px;
+	padding-top: 8px;
+}
+#pdffoaugacenergy{
+	padding-top: -20px;
+	padding-left: 377px;
+}
+#pdffoseprad{
+	padding-left: 245px;
+	padding-top: 8px;
+}
+#pdffosepacenergy{
+	padding-top: -20px;
+	padding-left: 377px;
+}
+#pdffooctrad{
+	padding-left: 245px;
+	padding-top: 8px;	
+}
+#pdffooctacenergy{
+	padding-top: -20px;
+	padding-left: 377px;
+}
+#pdffonovrad{
+	padding-left: 245px;
+	padding-top: 8px;
+}
+#pdffonovacenergy{
+	padding-top: -20px;
+	padding-left: 377px;
+}
+#pdffodecrad{
+	padding-left: 245px;
+	padding-top: 8px;
+}
+#pdffodecacenergy{
+	padding-top: -20px;
+	padding-left: 377px;
+}
+#pdfforadannual{
+	padding-left: 245px;
+	padding-top: 15px;
+}
+#pdffoacenergyannual{
+	padding-left: 374px;
+	padding-top: -19px;
+}
+#pdfforequestedlocation{
+	padding-top: 63px;
+	padding-left: 290px;
+}
+#pdffoweatherdatasource{
+	padding-left: 290px;
+	padding-top:8px;
+}
+#pdffolatitude{
+	padding-left: 290px;
+	padding-top: 8px
+}
+#pdffolongitude{
+	padding-left: 290px;
+	padding-top: 8px;
+}
+#pdffodcsystemsize{
+	padding-left:290px;
+	padding-top: 42px
+}
+#pdffomoduletype{
+	padding-left: 290px;
+	padding-top: 8px;
+}
+#pdffoarraytype{
+	padding-left: 290px;
+	padding-top: 9px;
+}
+#pdffoarraytilt{
+	padding-left: 290px;
+	padding-top: 8px;
+}
+#pdffoarrayazimuth{
+	padding-left: 290px;
+	padding-top: 12px;
+}
+#pdffosystemlosses{
+	padding-left: 290px;
+	padding-top: 7px;
+}
+#pdffoinverterefficiency{
+	padding-left: 290px;
+	padding-top: 10px;
+}
+#pdffodctoacratio{
+	padding-left: 290px;
+	padding-top: 6px;
+}
+#pdffofooteremail{
+	padding-top: 42px;
+	padding-left: 232px;
+	font-family: 'swisfont';
+	font-size:11pt;
+	color:white;
+}
+#pdffofooterphone{
+	padding-left: 450px;
+	padding-top: -19px;
+	font-family: 'swisfont';
+	font-size:11pt;
+	color:white;
+}

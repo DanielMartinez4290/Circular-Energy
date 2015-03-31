@@ -1,0 +1,4947 @@
+/*
+Theme Name: Circular Energy
+Theme URI: cirucular.danmtz.me
+Author: Daniel Martinez
+Author URI: danmtz.me
+Description: Template for the Circular Energy theme
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: black, brown, orange, tan, white, yellow, light, one-column, two-columns, right-sidebar, flexible-width, custom-header, custom-menu, editor-style, featured-images, microformats, post-formats, rtl-language-support, sticky-post, translation-ready
+Text Domain: twentythirteen
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+*/
+
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+/*this template from https://www.youtube.com/watch?v=uwecNcdAUaY */
+
+/* Eric Meyer's Reset CSS v2.0 - http://cssreset.com */
+html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,b,u,i,center,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,embed,figure,figcaption,footer,header,hgroup,menu,nav,output,ruby,section,summary,time,mark,audio,video{border:0;font-size:100%;font:inherit;vertical-align:baseline;margin:0;padding:0}article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{display:block}body{line-height:1}ol,ul{list-style:none}blockquote,q{quotes:none}blockquote:before,blockquote:after,q:before,q:after{content:none}table{border-collapse:collapse;border-spacing:0}
+
+@font-face{
+	font-family:'correctfont';
+	src:url('Swis721CnBTRoman.ttf');
+}
+
+body{
+	background:white;
+	font: 16px arial, sans-serif;
+}
+h2{
+	font-size:18pt;
+}
+h3{
+	font-size: 16pt;
+}
+#fullheader{
+	position: absolute;
+	top:0px; 
+	width:100%;
+}
+#headercontainer{
+	background-color: white;
+	height:144px;
+	width:965px;
+	position: relative;
+	margin:auto;
+}
+#container{
+	position: absolute;
+	top:144px;
+	width:100%;
+}
+#homepage{
+	height:2595px;
+	width:965px;
+	margin:0 auto;
+}
+#ss-homepage{
+	position: relative;
+	height:auto;
+	width:965px;
+	margin:auto;
+}
+#rs-homepage{
+	position: relative;
+	width:965px;
+	margin:auto;
+}
+#left{
+	width:965px;
+	margin: auto;
+	min-height: 500px;
+	height:auto;
+}
+.alignleft{
+	float:left;
+}
+.alignright{
+	float:right;
+}
+.aligncenter{
+	text-align: center;
+}
+nav{
+	position: relative;
+	top:-42px;
+	font-family: "Helvetica CY";
+	font-size: 12pt;
+}
+nav ul li{
+	display:inline-block ;
+}
+nav ul li a{
+	font-size:12pt !important;
+	color:black !important;
+	text-transform:uppercase;
+}
+nav a:hover,nav a:active,nav a:focus{
+	font-weight: 700 !important;
+}
+
+nav ul li:nth-child(1) {
+    position: absolute;
+    top:0px;
+    left:28px;
+}
+nav ul li:nth-child(2) {
+    position: absolute;
+    top:0px;
+    left:114px;
+}
+nav ul li:nth-child(3) {
+    position: absolute;
+    top:0px;
+    left:201px;
+}
+nav ul li:nth-child(4) {
+    position: absolute;
+    top:0px;
+    left:312px;
+}
+#circularlogo{
+	position: relative;
+	top:-140px;
+	left:-32px;
+	width:323px;
+	height:106px;
+	float:right;
+}
+#homepic{
+	height:444px;
+	background-image:url('images/homepicbuildings.gif');
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+#picnav ul{
+	padding-left: 30px;
+}
+#picnav ul li{
+	display:inline-block ;
+	padding-left: 53px ;
+	padding-top: 5px;
+}
+#picnav ul li a{
+	text-decoration: none;
+	font-size:18pt;
+	font-family:'Bell Gothic Std',sans-serif;
+	color:white;
+}
+
+#picnav{
+	position: relative;
+	top:-432px;
+	background-color: #8a8f99;
+	opacity:.8;
+	height:35px;
+	width:965px;
+}
+#fourboxes{
+	position:relative;
+	top:-123px;
+	height:280px;
+}
+.fourboxeshtext{
+	font-family: 'correctfont',sans-serif;
+	font-size: 12pt;
+	color:#414341;
+	padding-left: 23px;
+	padding-top: 20px;
+}
+.fourboxesptext{
+	font-family: 'correctfont',sans-serif;
+	font-size: 10pt;
+	color:#6e706e;
+	padding-left: 23px;
+	width:155px;
+	position: relative;
+	top:13px;
+}
+.fourboxesmoreinfotext{
+	font-family: 'correctfont',sans-serif;
+	font-size: 9pt;
+	height:21px;
+	padding-left: 17px;
+	padding-top: 6px;
+	color:white;
+}
+#shopelectricityplans{
+	background-color: white;
+	width:201px;
+	height:322px;
+	position: relative;
+	left:57px;
+}
+.fourboxesheaders{
+	width:201px;
+	color:white;
+	padding-top:18.5px;
+	font-size: 16pt;
+	font-family: 'correctfont',sans-serif;
+	text-align: center;
+	font-weight: 700;
+	height:66px;
+}
+#septit{
+	background-color: #E05038;
+	
+}
+#septitl1 a:hover, a:visited, a:link, a:active{
+	text-decoration: none;
+}
+#seppic{
+	height:88px;
+}
+#septext{
+	height:150px;
+	width:201px;
+	background-color: #f4f6f7;
+}
+#sepmoreinfo{
+	position: relative;
+	left:90px;
+	top:-28px;
+	width:93px;
+	height:27px;
+}
+#sepmoreinfotext{
+	background-color: #E05038;
+}
+#sepmoreinfoarrow{
+	background-color: black;
+	color:white;
+	width:15px;
+	position: relative;
+	top:-27px;
+	left:88px;
+	padding-left: 7px;
+	padding-top: 5px;
+	height:22px;
+}
+#solarsolutions{
+	position: relative;
+	height:322px;
+	left:274px;
+	top:-322px;
+	width:201px;
+}
+
+#sstit{
+	background-color: #9EC02D;
+}
+#sspic{
+	height:88px;
+	width:201px;	
+}
+#sstext{
+	height:150px;
+	width:201px;
+	background-color: #f4f6f7;
+	font-family: "correctfont";
+}
+#sstext h3{
+	padding-left: 23px;
+	padding-top: 20px;
+	font-size: 9pt;
+	color:#414341;
+}
+#sstext p{
+	padding-left: 23px;
+	width:155px;
+	font-size: 8pt;
+	position: relative;
+	top:20px;
+	color:#6e706e;
+}
+#ssmoreinfo{
+	position: relative;
+	left:90px;
+	top:-28px;
+	width:93px;
+	height:27px;
+}
+#ssmoreinfotext{
+	background-color: #9EC02d;
+}
+#ssmoreinfoarrow{
+	background-color: black;
+	color:white;
+	width:15px;
+	position: relative;
+	top:-27px;
+	left:88px;
+	padding-left: 7px;
+	padding-top: 5px;
+	height:22px;
+}
+
+#homeautomation{
+	position: relative;
+	left:491px;
+	top:-645px;
+	width:201px;
+	height:322px;
+}
+#hatit{
+	background-color: #7dcefd;
+}
+#hapic{
+	height:88px;
+	max-width: 280px;
+}
+#hatext{
+	height:151px;
+	width:201px;
+	background-color: #f4f6f7;
+	font-family: 'correctfont',sans-serif;
+}
+#hamoreinfo{
+	position: relative;
+	left:90px;
+	top:-28px;
+	width:93px;
+	height:27px;
+}
+#hamoreinfotext{
+	background-color: #7dcefd;
+}
+#hamoreinfoarrow{
+	background-color: black;
+	color:white;
+	width:15px;
+	position: relative;
+	top:-27px;
+	left:88px;
+	padding-left: 7px;
+	padding-top: 5px;
+	height:22px;
+}
+#livesupport{
+	position: relative;
+	left:707px;
+	top:-966px;
+	width:201px;
+	height:323px;
+}
+#livesupport:hover{
+	cursor:pointer;
+}
+#lstit{
+	background-color: #bc00ed;
+}
+#lspic{
+	height:88px;
+}
+#lstext{
+	height:150px;
+	width:201px;
+	background-color: #f4f6f7;
+	font-family: "correctfont";
+}
+#lstext h3{
+	padding-left: 23px;
+	padding-top: 20px;
+	font-size: 9pt;
+	color:#414341;
+}
+#lstext p{
+	padding-left: 23px;
+	width:155px;
+	font-size: 8pt;
+	position: relative;
+	top:20px;
+	color:#6e706e;
+}
+#lsmoreinfo{
+	position: relative;
+	left:90px;
+	top:-28px;
+	width:93px;
+	height:27px;
+}
+#lsmoreinfotext{
+	background-color: #bc00ed;
+
+}
+#lsmoreinfoarrow{
+	background-color: black;
+	color:white;
+	width:15px;
+	position: relative;
+	top:-27px;
+	left:88px;
+	padding-left: 7px;
+	padding-top: 5px;
+	height:22px;
+}
+/*
+#dialog-2{
+	position: relative;
+	top:-2px;
+	left:-3px;
+	padding-left: 25px;
+	padding-top: 20px;
+	overflow:initial;
+}
+*/
+ .ui-button{
+ 	background-color:orange !important;
+    color: black !important;
+    font-weight: bold !important;
+    font-size: 10pt !important;
+    border:none !important;
+}
+.ui-dialog .ui-dialog-buttonpane{
+	margin:0 !important;
+	padding:0 !important;
+	width:66px !important;
+}
+.ui-button-text{
+	font-family: "correctfont" !important;
+	font-size: 12pt !important;
+}
+.ui-button-text-only .ui-button-text{
+	padding:0 !important;
+    border: none !important;
+    background-color: white !important;
+}
+.ui-dialog-title{
+	display: none !important;
+}
+.ui-draggable .ui-dialog-titlebar{
+	position: relative;
+	top:-29px !important;
+}
+.ui-widget-content{
+	border:none !important;
+}
+.ui-dialog-content{
+	height:359px !important;
+	width:596px !important;
+}
+.ui-icon-closethick{
+	position: relative;
+	left:-660px !important;
+	top: 39px !important;
+	display: block !important;
+	height:16px !important;
+	width:18px !important;
+}
+.ui-helper-clearfix{
+	position: relative;
+	left:523px !important;
+	top:-37px;
+	width:136px !important;
+}
+div.ui-dialog.ui-widget.ui-widget-content.ui-corner-all.ui-front.ui-dialog-buttons.ui-draggable.ui-resizable{
+	position: relative !important;
+	left:249px !important;
+	top:191px !important;
+	height:364px!important;
+	width:607px !important;
+	/*background-color: green !important; */
+	border: 11px solid #514a4a !important;
+}
+
+
+#formzipcodeinput{
+	position: relative;
+	top:-105px;
+	left:370px;
+	width:200px;
+}
+
+
+#formprivacypolicyinput{
+	position: relative;
+	top:-60px;
+	left:484px;
+	width:109px;
+	font-family: "correctfont";
+	font-size: 10pt;	
+}
+#privacypolicyinput{
+	position: relative;
+	top:-32px;
+	left:-48px;
+	width:50px;
+	height:22px;
+
+}
+#formnametext{
+	float:left;
+	font-family: "correctfont";
+	font-size: 12pt;
+	position: relative;
+	top:6px;
+}
+#formnamefield{
+	width:226px;
+	height:27px;
+	position: relative;
+	left:59px;
+	background-color: #f6f6f6;
+	font-size:10pt;
+}
+#formemailtext{
+	float:left;
+	font-family: "correctfont";
+	font-size: 12pt;
+	position: relative;
+	top:15px;
+}
+#formemailfield{
+	width:226px;
+	height:27px;
+	position: relative;
+	left:62px;
+	top:10px;
+	background-color: #f6f6f6;
+	font-size:10pt;
+}
+#formaddresstext{
+	float:left;
+	font-family: "correctfont";
+	font-size: 12pt;
+	position: relative;
+	top:27px;
+}
+#formaddressfield{
+	width:226px;
+	height:27px;
+	position: relative;
+	left:44px;
+	top:20px;
+	background-color: #f6f6f6;
+	font-size:10pt;
+}
+#formmaininteresttext{
+	float:left;
+	font-family: "correctfont";
+	font-size: 12pt;
+	position: relative;
+	top:35px;
+}
+#formmaininterestfield{
+	width:229px;
+	height:30px;
+	position: relative;
+	left:16px;
+	top:30px;
+	background-color: #f6f6f6;
+	font-size:10pt;
+}
+#formcommentstext{
+	float:left;
+	font-family: "correctfont";
+	font-size: 12pt;
+	position: relative;
+	top:40px;
+}
+#formcommentsfield{
+	width:226px;
+	height:111px;
+	position: relative;
+	left:29px;
+	top:40px;
+	background-color: #f6f6f6;
+	font-size:10pt;
+}
+#homepageformtext{
+	position: relative;
+	top:-76px;
+	width:500px;
+	font-size: 11pt;
+	font-family: "correctfont";
+	color:#ff9342;
+}
+#homepageformconnect{
+	position: relative;
+	left:371px;
+	top:-434px;
+	width:225px;
+}
+#formphonetext{
+	float:left;
+	font-family: "correctfont";
+	font-size: 12pt;
+	position: relative;
+	top:-206px;
+	left:371px;
+}
+#formphonefield{
+	width:138px;
+	height:27px;
+	position: relative;
+	left:394px;
+	top:-213px;
+	background-color: #f6f6f6;
+	font-size:10pt;
+}
+#formzipcodetext{
+	float:left;
+	font-family: "correctfont";
+	font-size: 12pt;
+	position: relative;
+	top:-194px;
+	left:371px;
+}
+#formzipcodefield{
+	width:138px;
+	height:27px;
+	position: relative;
+	left:379px;
+	top:-201px;
+	background-color: #f6f6f6;
+	font-size:10pt;
+}
+#homepageformphonepic{
+	position: relative;
+	top:-329px;
+	left:370px;
+	width:46px;
+}
+#homepageformphonenumber{
+	position: relative;
+	top:-366px;
+	left:425px;
+	width:150px;
+}
+#homepageformemail{
+	position: relative;
+	top:-360px;
+	left:423px;
+	width:131px;
+	font-family: "correctfont";
+	font-size: 10pt;
+}
+#formprivacypolicytext{
+	float:left;
+	font-family: "correctfont";
+	font-size: 12pt;
+	position: relative;
+	top:-103px;
+	left:406px;
+	width:162px;
+}
+#formprivacypolicyfield{
+	width:111px;
+	height:27px;
+	position: relative;
+	left:207px;
+	top:-100px;
+	background-color: #f6f6f6;
+}
+
+#formsubmitbutton{
+	position: relative;
+	left:327px;
+	top:-41px;
+}
+#circlivemid{
+	position: relative;
+	top:-20px;
+	text-align:center;
+	color:#2f547a;
+	font-family:"correctfont";
+	font-size: 24pt;
+}
+#homebox{
+	position: relative;
+	top:-17px;
+	width:100%;
+	height:318px;
+	z-index: 5;
+}
+
+.dollarcounter{
+	position: relative;
+	height:31px;
+	left:103px;
+	top:-291px;
+	width:400px !important;
+	overflow: hidden;
+
+}
+
+/*
+
+.flip-clock-wrapper ul li a div div.inn{
+	font-size: 20pt !important;
+    background-color: #323337 !important;
+}
+
+
+.flip-clock-wrapper ul:nth-child(1) {
+    position: relative;
+    left:23px;
+}
+
+.flip-clock-wrapper ul:nth-child(2) {
+    position: relative;
+    left:23px;
+}
+.flip-clock-wrapper ul:nth-child(3) {
+    position: relative;
+    left:22px;
+}
+.flip-clock-wrapper ul:nth-child(4) {
+    position: relative;
+    left:21px;
+}
+.flip-clock-wrapper ul:nth-child(5) {
+    position: relative;
+    left:21px;
+}
+.flip-clock-wrapper ul:nth-child(6) {
+    position: relative;
+    left:20px;
+}
+.flip-clock-wrapper ul:nth-child(7) {
+    position: relative;
+    left:19px;
+}
+.flip-clock-wrapper ul:nth-child(8) {
+    position: relative;
+    left:19px;
+}
+.flip-clock-wrapper ul:nth-child(9) {
+    position: relative;
+    left:18px;
+}
+.flip-clock-wrapper ul.flip.play li.flip-clock-active a div.up div.inn{
+	position: relative;
+	top:-31px;
+	height:44px;	
+}
+
+.flip-clock-wrapper ul.flip.play li.flip-clock-active a div.down div.inn{
+	position: relative;
+	top:-46px;	
+	height:57px;
+}
+.flip-clock-wrapper ul.flip.play li.flip-clock-before a div.up div.inn{
+	position: relative;
+	top:-29px;
+	height:41px;	
+}
+
+.flip-clock-wrapper ul.flip.play li.flip-clock-before a div.down div.inn{
+	position: relative;
+	top:-44px;	
+	height:60px;
+}
+ul.flip.play{
+	height: 50px;
+	width:24px;
+}
+.flip-clock-wrapper ul.flip.play li.flip-clock-active a div.down{
+	position: relative;
+	top:15px;
+}
+
+.flip-clock-wrapper ul.flip.play li.flip-clock-before a div.down{
+	position: relative;
+	top:12px;
+}
+*/
+
+#dollarcounterdollar{
+	position: relative;
+	top:-295px;
+	left:120px;
+	z-index: 5;
+	font-size: 33pt;
+}
+.dollarcounternum{
+	position: relative;
+	top:-300px;
+	font-size: 20pt;
+	background-color:black;
+	color:white;
+	padding-left:3px;
+	padding-right: 3px;
+}
+#dollarcounternum1{
+	left:120px;
+}
+#dollarcountercomma{
+	position: relative;
+	top:-293px;
+	left:120px;
+	z-index: 5;
+	font-size: 33pt;
+}
+#dollarcounternum2{
+	left:120px;
+}
+#dollarcounternum3{
+	left:120px;
+}
+
+#dollarcounternum4{
+	left:120px;
+}
+#dollarcountercomma2{
+	position: relative;
+	top:-293px;
+	left:120px;
+	z-index: 5;
+	font-size: 33pt;
+}
+#dollarcounternum5{
+	left:120px;
+}
+
+#dollarcounternum6{
+	left:120px;
+}
+
+#dollarcounternum7{
+	left:120px;
+}
+#dollarcounterperiod{
+	position: relative;
+	top:-293px;
+	left:120px;
+	font-size: 33pt;
+	z-index: 5;
+}
+#dollarcounternum8{
+	left:120px;
+}
+#dollarcounternum9{
+	left:120px;
+}
+.emissionreductioncounter{
+	position: relative;
+	left:602px;
+	top:-369px;
+	width:342px !important;
+	height:32px;
+	overflow: hidden;
+}
+/*
+.emissionreductioncounter.flip-clock-wrapper ul:nth-child(1) {
+    position: relative;
+    left:20px;
+}
+
+.emissionreductioncounter.flip-clock-wrapper ul:nth-child(2) {
+    position: relative;
+    left:19px;
+}
+.emissionreductioncounter.flip-clock-wrapper ul:nth-child(3) {
+    position: relative;
+    left:22px;
+}
+.emissionreductioncounter.flip-clock-wrapper ul:nth-child(4) {
+    position: relative;
+    left:18px;
+}
+.emissionreductioncounter.flip-clock-wrapper ul:nth-child(5) {
+    position: relative;
+    left:14px;
+}
+.emissionreductioncounter.flip-clock-wrapper ul:nth-child(6) {
+    position: relative;
+    left:17px;
+}
+.emissionreductioncounter.flip-clock-wrapper ul:nth-child(7) {
+    position: relative;
+    left:12px;
+}
+.emissionreductioncounter.flip-clock-wrapper ul:nth-child(8) {
+    position: relative;
+    left:8px;
+}
+
+.emissionreductioncounter.flip-clock-wrapper ul:nth-child(9) {
+    position: relative;
+    left:5px;
+}
+*/
+.emissionreductioncounternum{
+	position: relative;
+	top:-270px;
+	left:340px;
+	font-size: 20pt;
+	background-color:black;
+	color:white;
+	padding-left:3px;
+	padding-right: 3px;	
+}
+#emissionreductioncountercomma{
+	position: relative;
+	top:-265px;
+	left:340px;
+	z-index: 5;
+	font-size: 33pt;
+}
+#emissionreductioncountercomma2{
+	position: relative;
+	top:-265px;
+	left:340px;
+	z-index: 5;
+	font-size: 33pt;
+}
+#emissionreductioncounterperiod{
+	position: relative;
+	top:-265px;
+	left:340px;
+	z-index: 5;
+	font-size: 33pt;
+}
+.coalcounter{
+	position: relative;
+	top:-329px;
+	left:-22px;
+	height:32px;
+	overflow:hidden;
+}
+/*
+.coalcounter.flip-clock-wrapper ul:nth-child(1) {
+    position: relative;
+    left:20px;
+}
+
+.coalcounter.flip-clock-wrapper ul:nth-child(2) {
+    position: relative;
+    left:19px;
+}
+.coalcounter.flip-clock-wrapper ul:nth-child(3) {
+    position: relative;
+    left:22px;
+}
+.coalcounter.flip-clock-wrapper ul:nth-child(4) {
+    position: relative;
+    left:18px;
+}
+.coalcounter.flip-clock-wrapper ul:nth-child(5) {
+    position: relative;
+    left:14px;
+}
+.coalcounter.flip-clock-wrapper ul:nth-child(6) {
+    position: relative;
+    left:17px;
+}
+.coalcounter.flip-clock-wrapper ul:nth-child(7) {
+    position: relative;
+    left:12px;
+}
+.coalcounter.flip-clock-wrapper ul:nth-child(8) {
+    position: relative;
+    left:8px;
+}
+.coalcounter.flip-clock-wrapper ul:nth-child(9) {
+    position: relative;
+    left:5px;
+}
+*/
+
+.coalcounternum{
+	position: relative;
+	top:-160px;
+	left:25px;
+	font-size: 20pt;
+	background-color:black;
+	color:white;
+	padding-left:3px;
+	padding-right: 3px;	
+}
+#coalcountercomma{
+	position: relative;
+	top:-155px;
+	left:25px;
+	z-index: 5;
+	font-size: 33pt;
+}
+#coalcountercomma2{
+	position: relative;
+	top:-155px;
+	left:25px;
+	z-index: 5;
+	font-size: 33pt;
+}
+#coalcounterperiod{
+	position: relative;
+	top:-155px;
+	left:25px;
+	z-index: 5;
+	font-size: 33pt;
+}
+.cleancounter{
+	position: relative;
+	top:-423px;
+	left:455px;
+	height:32px;
+	width:344px !important;
+	overflow:hidden;
+}
+/*
+.cleancounter.flip-clock-wrapper ul:nth-child(1) {
+    position: relative;
+    left:20px;
+}
+
+.cleancounter.flip-clock-wrapper ul:nth-child(2) {
+    position: relative;
+    left:19px;
+}
+.cleancounter.flip-clock-wrapper ul:nth-child(3) {
+    position: relative;
+    left:22px;
+}
+.cleancounter.flip-clock-wrapper ul:nth-child(4) {
+    position: relative;
+    left:18px;
+}
+.cleancounter.flip-clock-wrapper ul:nth-child(5) {
+    position: relative;
+    left:14px;
+}
+.cleancounter.flip-clock-wrapper ul:nth-child(6) {
+    position: relative;
+    left:17px;
+}
+.cleancounter.flip-clock-wrapper ul:nth-child(7) {
+    position: relative;
+    left:12px;
+}
+.cleancounter.flip-clock-wrapper ul:nth-child(8) {
+    position: relative;
+    left:8px;
+}
+.cleancounter.flip-clock-wrapper ul:nth-child(9) {
+    position: relative;
+    left:5px;
+}
+*/
+.cleancounternum{
+	position: relative;
+	top:-160px;
+	left:210px;
+	font-size: 20pt;
+	background-color:black;
+	color:white;
+	padding-left:3px;
+	padding-right: 3px;	
+}
+#cleancountercomma{
+	position: relative;
+	top:-155px;
+	left:210px;
+	z-index: 5;
+	font-size: 33pt;
+}
+#cleancountercomma2{
+	position: relative;
+	top:-155px;
+	left:210px;
+	z-index: 5;
+	font-size: 33pt;
+}
+#cleancounterperiod{
+	position: relative;
+	top:-155px;
+	left:210px;
+	z-index: 5;
+	font-size: 33pt;
+}
+#asofsection{
+	position: relative;
+	top:-100px;
+	font-size:8pt;
+	color:gray;
+}
+#innovatinganddeliveringsection{
+	position: relative;
+	top:50px;
+}
+#ofelectricitysolutions{
+	position: relative;
+	top:-23px;
+	text-align: center;	
+	color:#2f547a;
+	font-size: 24pt;
+	font-family: "correctfont";
+}
+#homegreenbox{
+	position: relative;
+	top:49px;
+	width:393px;
+	height:235px;
+	left:0px;
+}
+#innovationtitle{
+	position: relative;
+	top:-189px;
+	left:430px;
+	color:#bbc76c;
+	font-family:"correctfont";
+	font-size: 18pt;
+	width:200px;
+}
+#homegreenboxtext{
+	position: relative;
+	top:-170px;
+	left:430px;
+	width:485px;
+	height:115px;
+	font-size: 16pt;
+	font-family: "correctfont";
+	color:#6e6e6b;
+}
+#ourclientshaveanopinionsection{
+	height:400px;
+}
+#ourclientshaveanopinion{
+	position: relative;
+	text-align: center;
+	color:#2f547a;
+	font-size: 24pt;
+	font-family: "correctfont";	
+}
+#homepagetestimonialsbox{
+	position: relative;
+	width:100%;
+	height:205px;
+	background-image: url("images/homepagetestimonialsbox.gif");
+}
+#homefirsttest{
+	padding-left: 255px;
+}
+.lSSlideOuter{
+	padding-left: 120px;
+	padding-top: 50px;
+	width:800px;
+}
+.lSPager{
+	display:none !important;
+}
+.lSPrev{
+	background-image: url("images/homepagetestimonialsleftarrow.gif") !important;
+	height:22px !important;
+	width:22px !important;
+	background-position: 0 0 !important;
+	background-repeat: no-repeat;	
+	position: relative;
+	left:70px !important;
+}
+.lSNext{
+	background-image: url("images/homepagetestimonialsrightarrow.gif") !important;
+	height:22px !important;
+	width:22px !important;
+	background-position: 0 0 !important;
+	background-repeat: no-repeat;	
+	position: relative;
+	left:675px;
+	top:22px !important;
+}
+
+#homepagetestimonialspic{
+	position: relative;
+	top:-48px;
+	left:271px;
+	width:100px;
+}
+.hometesttext{
+	font-size: 10pt;
+}
+.hometestperson{
+	padding-left: 130px;
+	font-size: 10pt;
+}
+
+#homepagetestimonial1{
+	position: relative;
+	top:-287px;
+	left:379px;
+	width:386px;
+}
+#homepagetestimonial2{
+	position: relative;
+	top:-287px;
+	left:379px;
+	width:386px;
+}
+#homepagetestimonial3{
+	position: relative;
+	top:-287px;
+	left:379px;
+	width:386px;
+}
+#homepagetestimonial4{
+	position: relative;
+	top:-287px;
+	left:379px;
+	width:386px;
+}
+#homepagetestimonial5{
+	position: relative;
+	top:-287px;
+	left:379px;
+	width:386px;
+}
+#homepagetestimonial6{
+	position: relative;
+	top:-287px;
+	left:379px;
+	width:386px;
+}
+#workingwiththecoummunitysection{
+	position: relative;
+	top:-121px;
+	height:420px;
+}
+
+#homeblog{
+	position: relative;
+	left:40px;
+	width:400px;
+	height:269px;
+}
+#homeblogpost1{
+	width:350px;
+	position: relative;
+	top:28px;
+}
+#homeblogpost1title{
+	position: relative;
+	top:-69px;
+	left:100px;
+	color:blue;
+}
+#homeblogpost1content{
+	width:300px;
+	position: relative;
+	left:100px;
+	top:-66px;
+	font-size: 8pt;
+	color:black;
+}
+#homeblogpost2{
+	position: relative;
+	top:24px;
+	width:350px;
+}
+#homeblogpost2title{
+	position: relative;
+	top:-77px;
+	left:100px;
+	color:blue;
+}
+#homeblogpost2content{
+	width:300px;
+	position: relative;
+	left:100px;
+	top:-71px;
+	font-size: 8pt;
+}
+#homeblogpost3{
+	position: relative;
+	top:24px;
+	left:1px;
+	width:350px;
+}
+#homeblogpost3title{
+	position: relative;
+	top:-76px;
+	left:100px;
+	color:blue;
+}
+#homeblogpost3content{
+	width:300px;
+	position: relative;
+	left:100px;
+	top:-71px;
+	font-size: 8pt;
+}
+.readmoretext{
+	color:green;
+}
+a.readmoretext{
+	color:blue !important;
+}
+#handsinpicture{
+	position: relative;
+	top:-240px;
+	left:514px;
+	width:356px;
+}
+#staytunedsection{
+	position: relative;
+	height:322px;
+	top:-107px;
+}
+#staytuned{
+	text-align: center;
+	color:#2f547a;
+	font-size: 24pt;
+	font-family: "correctfont";
+}
+#getconnected{
+	position: relative;
+	width:100%;
+	height:266px;	
+	top:15px;
+	overflow: hidden;
+}
+.getconnectedbackgrounds{
+	position: relative;
+	top:-355px;
+	height:267px;
+	width:965px;	
+	z-index: -1;
+}
+#getconnectedmain{
+	background-image: url("images/getconnected.gif");
+}
+#getconnectedyoutubeactive{
+	background-image: url("images/youtubeactive.gif");		
+}
+#getconnectedmailactive{
+	background-image: url("images/mailactive.gif");	
+}
+#getconnectedfacebookactive{
+	background-image: url("images/facebookactive.gif");	
+}
+#getconnectedtwitteractive{
+	background-image: url("images/twitteractive.gif");
+}
+#getconnectedlinkedinactive{
+	background-image: url("images/linkedinactive.gif");
+}
+#getconnectedgoogleplusactive{
+	background-image: url("images/googleplusactive.gif");
+}
+#getconnectedblogactive{
+	background-image: url("images/blogactive.gif");
+}
+#youtubeactive{
+	position: relative;
+	top:22px;
+	left:209px;
+	height:49px;
+	width:48px;
+	z-index: 2;
+}
+#mailactive{
+	position: relative;
+	left:108px;
+	top:2px;
+	height:38px;
+	width:40px;
+}
+#facebookactive{
+	position: relative;
+	left:152px;
+	top:-3px;
+	height:72px;
+	width:74px;
+}
+#twitteractive{
+	position: relative;
+	left:299px;
+	top:-70px;
+	height:58px;
+	width:60px;
+}
+#linkedinactive{
+	position: relative;
+	left:180px;
+	top:-49px;
+	height:48px;
+	width:50px;
+}
+#googleplusactive{
+	position: relative;
+	left:254px;
+	top:-79px;
+	height:48px;
+	width:50px;
+}
+#blogactive{
+	position: relative;
+	left:358px;
+	top:-141px;
+	height:42px;
+	width:50px;
+}
+#getconnectedsubscribe{
+	position: relative;
+	top:-50px;
+}
+footer{
+	width:965px;
+	margin:0 auto;
+	height:220px;
+	background-image: url("images/homefooter.gif");
+    background-repeat: no-repeat;
+}
+a.footertitles{
+	color:#d20421 !important;
+	font-size: 12pt;
+	font-family: "correctfont";
+}
+div#footercontacttitle.footertitles{
+	color:#d20421 !important;
+	font-size: 12pt;
+	font-family: "correctfont";
+}
+#footertop{
+	height:100px;
+	padding-left: 20px;
+	padding-top: 31px;
+}
+#footercircularenergy{
+	color:#d20421;
+	font-size: 12pt;
+	width:170px;
+	font-family: "correctfont";
+	float:left;
+}
+#footercircularenergy a:hover, a:visited, a:link, a:active{
+	color:#fbfcf9;
+	font-family: "correctfont";
+	font-size:12pt;
+}
+#footerelectricityplans{
+	float:left;
+	width:170px;
+}
+#footersolarsolutions{
+	float: left;
+	width:170px;
+}
+#footerintelligentenergy{
+	float: left;
+	width:190px;
+}
+#footerbottom{
+	padding-left:20px;
+	padding-top: 22px;
+}
+
+#footercontact{
+	font-size: 10px;
+	width:206px;
+	color:#fbfcf9;
+	float:left;
+}
+#footeraddress{
+	font-family: "correctfont";
+	font-size: 9.11pt;
+	color:#6e6e6b;
+	padding-top: 2px;
+}
+#footeremail{
+	float:left;
+	font-family: "correctfont";
+	font-size: 10.12pt;
+	color:#6e6e6b;
+	padding-top: 20px;
+}
+#footerfacebooklogo{
+	height:35px;
+	width:37px;
+	float: left;
+	padding-left: 27px;
+	padding-top: 9px;
+}
+#footertwitterlogo{
+	height:35px;
+	width:37px;
+	float: left;
+	padding-left: 6px;
+	padding-top: 9px;
+}
+#footeryoutubelogo{
+	height:35px;
+	width:37px;
+	float: left;
+	padding-left: 5px;
+	padding-top: 9px;
+}
+#footerbinglogo{
+	height:35px;
+	width:37px;
+	float: left;
+	padding-left: 6px;
+	padding-top: 9px;
+}
+#footerlinkedinlogo{
+	height:35px;
+	width:37px;
+	float: left;
+	padding-left: 6px;
+	padding-top: 9px;
+}
+#footermaillogo{
+	height:35px;
+	width:37px;
+	float: left;
+	padding-left: 6px;
+	padding-top: 9px;
+}
+
+#footercopyright{
+	color:#7e7b7b;
+	font-family: "correctfont";
+	font-size:9pt;
+	width:251px;
+	float:left;
+	padding-left: 49px;
+	padding-top: 6px;
+}
+#footerteclnumber{
+	color:#7e7b7b;
+	font-family: "correctfont";
+	font-size:8pt;
+	float:left;
+	padding-left: 857px;
+}
+#footerphone{
+	float: left;
+	font-family: "correctfont";
+	font-size: 19.82pt;
+	color:white;
+	padding-left: 131px;
+}
+#blogpage{
+	height:200px
+}
+#blogpagepic{
+	height:200px;
+}
+#blogpagetitle{
+	position: relative;
+	top:-198px;
+	left:247px;
+	width:643px;
+}
+#blogpagetitle a{
+	font-family:'correctfont', sans-serif;
+	font-size: 15pt;
+	color:blue;
+}
+#blogpagecontent{
+	width:500px;
+	height:78px;
+	position: relative;
+	top:-196px;
+	left:249px;
+}
+#singlepostsidebar{
+	width:275px;
+	height:auto;
+	float:right;
+	border:5px solid #514a4a;
+}
+#sprequestinfo{
+	text-align: center;
+	position: relative;
+	top:5px;
+	font-family: 'correctfont';
+	font-size: 15pt;
+}
+#spform{
+	position: relative;
+	top:15px;
+	min-height:423px;
+}
+#spformnametext{
+	float:left;
+	font-family: "correctfont";
+	font-size: 12pt;
+	position: relative;
+	top:6px;	
+}
+#spformnamefield{
+	width:176px;
+	height:20px;
+	position: relative;
+	left:51px;
+	top:7px;
+	background-color: #f6f6f6;
+	font-size:10pt;	
+}
+#spformemailtext{
+	float:left;
+	font-family: "correctfont";
+	font-size: 12pt;
+	position: relative;
+	top:18px;	
+}
+#spformemailfield{
+	width:176px;
+	height:20px;
+	position: relative;
+	left:53px;
+	top:15px;
+	background-color: #f6f6f6;
+	font-size:10pt;	
+}
+#spformphonetext{
+	float:left;
+	font-family: "correctfont";
+	font-size: 12pt;
+	position: relative;
+	top:25px;	
+}
+#spformphonefield{
+	width:176px;
+	height:20px;
+	position: relative;
+	left:47px;
+	top:23px;
+	background-color: #f6f6f6;
+	font-size:10pt;	
+}
+#spformaddresstext{
+	float:left;
+	font-family: "correctfont";
+	font-size: 12pt;
+	position: relative;
+	top:36px;	
+}
+#spformaddressfield{
+	width:176px;
+	height:20px;
+	position: relative;
+	left:35px;
+	top:31px;
+	background-color: #f6f6f6;
+	font-size:10pt;	
+}
+#spformzipcodetext{
+	float:left;
+	font-family: "correctfont";
+	font-size: 12pt;
+	position: relative;
+	top:42px;	
+}
+#spformzipcodefield{
+	width:176px;
+	height:20px;
+	position: relative;
+	left:32px;
+	top:38px;
+	background-color: #f6f6f6;
+	font-size:10pt;	
+}
+#spformmaininteresttext{
+	float:left;
+	font-family: "correctfont";
+	font-size: 12pt;
+	position: relative;
+	top:49px;	
+}
+#spformmaininterestfield{
+	width:180px;
+	height:26px;
+	position: relative;
+	left:6px;
+	top:47px;
+	background-color: #f6f6f6;
+	font-size:10pt;	
+}
+#spformcommentstext{
+	float:left;
+	font-family: "correctfont";
+	font-size: 12pt;
+	position: relative;
+	top:56px;	
+}
+#spformcommentsfield{
+	width:174px;
+	height:80px;
+	position: relative;
+	left:19px;
+	top:58px;
+	background-color: #f6f6f6;
+	font-size:10pt;	
+}
+#spformprivacypolicytext{
+	float:left;
+	font-family: "correctfont";
+	font-size: 12pt;
+	position: relative;
+	top:71px;
+	left:6px;
+	width:162px;
+}
+#spformprivacypolicyfield{
+	width:111px;
+	height:27px;
+	position: relative;
+	left:6px;
+	top:83px;
+	background-color: #f6f6f6;
+}
+
+#spformsubmitbutton{
+	position: relative;
+	left:35px;
+	top:98px;
+}
+#blogpostcontent{
+	width:670px;
+	overflow:hidden;
+}
+#notblogpostcontent{
+	width:965px;
+}
+#singleposttitle{
+	font-family:'correctfont', sans-serif;
+	font-size: 20pt;
+	color:blue;	
+}
+.wpcf7-not-valid-tip{
+	position: relative;
+	left:21px;
+	top:12px;
+	color:red;
+	padding-left: 50px;
+	display:none;
+}
+.screen-reader-response{
+	display:none;
+}
+.wpcf7-response-output{
+	display: none;
+}
+
+span.wpcf7-form-control-wrap.your-email span.wpcf7-not-valid-tip{
+	position: relative;
+	top:17px;
+}
+span.wpcf7-form-control-wrap.your-phone span.wpcf7-not-valid-tip{
+	position: relative;
+	top:26px;
+}
+span.wpcf7-form-control-wrap.your-address span.wpcf7-not-valid-tip{
+	position: relative;
+	top:33px;
+}
+span.wpcf7-form-control-wrap.your-zip span.wpcf7-not-valid-tip{
+	position: relative;
+	top:41px;
+}
+
+
+#newspage{
+	position: relative;
+	height:1155px;
+	width:965px;
+	margin:auto;
+	overflow:hidden;
+}
+#newspic{
+	height:444px;
+	background-image:url('images/newsmainpic.gif');
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+#newscontent{
+	background-color:#4c8abc;
+	height:646px;
+	width:825px;
+	position: relative;
+	left:70px;
+}
+#newsroomtitle{
+	color:white;
+	font-family: 'correctfont';
+	font-size: 23pt;
+	position: relative;
+	left:20px;
+	top:25px;
+}
+#newsroomdots{
+	color:#8f8b8b;
+}
+#newsroompost{
+	width:530px;
+	height:275px;
+	position: relative;
+	top:-60px;
+	left:7px;
+	background-color:white;
+	border-top: solid 15px #4c8abc;
+}
+#newsroomreadmoretext{
+	color:#8f8b8b;
+	position: relative;
+	top:8px;
+	left:10px;
+}
+#newsroompostthumb{
+	height:155px;
+	width:209px;
+	position: relative;
+	top:45px;
+	left:10px;
+}
+#newsroomposttitle{
+	position: relative;
+	top:17px;
+	left:9px;
+	color:#e5b71b;
+	font-size: 20pt;
+	font-family: 'correctfont';
+	width:510px;
+}
+#newsroompostcontent{
+	width:300px;
+	position: relative;
+	left:224px;
+	top:-110px;
+	font-size: 8pt;
+	color:black;
+}
+#newsroomconnect{
+	position: relative;
+	left:549px;
+	top:-610px;
+	background-image:url('images/newsroomconnectsection.gif');
+	width:262px;
+	height:116px;
+	z-index: 5;
+}
+#newsroomconnecttext{
+	position: relative;
+	left:549px;
+	top:33px;
+	color:white;
+	font-family: 'correctfont';
+	font-size: 20pt;
+}
+#newsroomsignupforournewslettertext{
+	position: relative;
+	top:50px;
+	left:561px;
+	color:white;
+	font-family: 'correctfont';
+	font-size: 10pt;
+	z-index: 20;
+}
+#newsroomupcomingeventstext{
+	position: relative;
+	left:549px;
+	top:150px;
+	color:white;
+	font-family: 'correctfont';
+	font-size: 20pt;
+}
+#newsroomfirstevent{
+	position: relative;
+	top:-557px;
+	left:551px;
+}
+#newsroomsecondevent{
+	position: relative;
+	top:-546px;
+	left:551px;
+}
+#companypage{
+	position: relative;
+	height:auto;
+	min-height: 1000px;
+	width:965px;
+	margin:auto;
+}
+#companypic{
+	height:444px;
+	background-image:url('images/manpointing.gif');
+	background-repeat: no-repeat;
+	background-size: 100%;
+	z-index: 1;
+}
+#companycontent{
+	position: relative;
+	left:50px;
+}
+#investorrelations{
+	height:260px;
+}
+#investorrelationstitle{
+	color:#2f547a;
+	font-size: 24pt;
+	font-family: "correctfont";	
+	position: relative;
+	width:223px;
+	left:325px;
+}
+#inquiriestitle{
+	font-family: "correctfont";
+	font-size: 24pt;
+	color:#c22e43;
+	position: relative;
+	left:41px;
+	width:150px;
+}
+#inquiriesscottsheaffer{
+	float:left;
+	padding-left:40px;
+	padding-top: 10px;
+	width:200px;
+}
+#inquiriesscottsheaffername{
+	font-family: "correctfont";
+	font-size: 12pt;
+	color:#030303;
+}
+#inquiriesscottsheaffertext{
+	font-family: "correctfont";
+	font-size: 12pt;
+	color:#b6b7b7;
+	width:215px;
+}
+#inquiriesbredhanbotkin{
+	float:left;
+	width:225px;
+	padding-top: 10px;
+	padding-left: 34px;
+}
+#inquiriesbredhanbotkinname{
+	font-family: "correctfont";
+	font-size: 12pt;
+	color:#030303;
+}
+#inquiriesbredhanbotkintext{
+	font-family: "correctfont";
+	font-size: 12pt;
+	color:#b6b7b7;
+}
+#inquiriesdrop{
+	position: relative;
+	top:-84px;
+	left:505px;
+	width:461px;
+	z-index: -1;
+}
+#inquiriessection{
+	position: relative;
+	top:-267px;
+}
+#meetourteamthatmakesithappen{
+	height:200px;
+}
+#meetourleadershipteamtitle{
+	position: relative;
+	top:30px;
+}
+#companyjimsteffes{
+	float:left;
+	width:268px;
+	position: relative;
+	left:-489px;
+	height:102px;
+}
+#companyjimsteffespic{
+	width:66px;
+}
+#companyjimsteffesdesc{
+	width:245px;
+	position: relative;
+	top:-104px;
+	left:79px;
+}
+#companyjimsteffesname{
+	font-family: "Microsoft Tai Le";
+	font-size: 11pt;
+	color:#bf2309;
+}
+#companybrendanbotkin{
+	float:left;
+	width:344px;
+	position: relative;
+	left:-188px;
+	top:-102px;
+	height:100px;
+}
+#companybrendanbotkinpic{
+	width:66px;
+}
+#companybrendhanbotkindesc{
+	width:285px;
+	position: relative;
+	top:-104px;
+	left:74px;
+}
+#companybrendanbotkinname{
+	font-family: "Microsoft Tai Le";
+	font-size: 11pt;
+	color:#bf2309;
+	width:255px;
+}
+#companystevesheaffer{
+	width:328px;
+	height:100px;
+	float:left;
+	position: relative;
+	left:644px;
+	top:-202px;
+}
+#companystevesheafferpic{
+	width:66px;
+}
+#companystevesheafferdesc{
+	width: 318px;
+	position: relative;
+	top:-104px;
+	left:74px;
+}
+#companystevesheaffername{
+	font-family: "Microsoft Tai Le";
+	font-size: 11pt;
+	color:#bf2309;
+	width:282px;
+}
+#companyquote{
+	position: relative;
+	top:41px;
+}
+#companynewslettersection{
+	background-color: #f5f5f5;
+	height:77px;
+	width:965px;
+	position: relative;
+	top:20px;
+}
+#careerspage{
+	position: relative;
+	width:965px;
+	margin:auto;
+}
+#careerspic{
+	height:444px;
+	background-image:url('images/qualifymain.gif');
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+
+#careerstopcontent{
+	position: relative;
+	top:-30px;
+	height:754px;
+	width:965px;
+	background-image:url('images/careerstopcontent.gif');
+}
+#careersshareourvisionandpassionsection{
+	width:489px;
+	position: relative;
+	top:200px;
+	left:37px;
+	font-family: 'correctfont';
+	font-size: 12pt;
+}
+#careersshareourvisionandpassiontitle{
+	font-size: 18pt;
+	font-weight: 700;
+}
+#careerscompanyculturesection{
+	position: relative;
+	top:255px;
+	left:414px;
+	width:528px;
+	font-family: 'correctfont';
+	font-size: 12pt;
+}
+#careerscompanyculturetitle{
+	font-size: 18pt;
+	font-weight: 700;
+}
+#careersemphasisondesignsection{
+	position: relative;
+	top:292px;
+	left:414px;
+	width:528px;
+	font-family: 'correctfont';
+	font-size: 12pt;
+}
+#careersemphasisondesigntitle{
+	font-size: 18pt;
+	font-weight: 700;
+}
+#careerscultureofaccountabilitysection{
+	position: relative;
+	top:328px;
+	left:414px;
+	width:528px;	
+	font-family: 'correctfont';
+	font-size: 12pt;
+}
+#careerscultureofaccountabilitytitle{
+	font-size: 18pt;
+	font-weight: 700;
+}
+#availablejobstitle{
+	position: relative;
+	top:424px;
+	left:50px;
+	font-family: 'correctfont';
+	font-size: 18pt;
+	font-weight: 700;
+}
+#careersjobsection{
+	background-color: #f6f6f6;
+	width:965px;
+}
+#careersjobs{
+	padding-top:133px;
+	padding-left:40px;
+}
+#careerspost{
+	width:415px;
+	height:278px;
+	position: relative;
+	top:-60px;
+	left:7px;
+	background-color:white;
+	display: inline-table;
+	margin-right:40px;
+	margin-top:50px;
+}
+#careersposttitle{
+	color:white;
+	background-color: #fb3536;
+	text-align: center;
+	font-family: 'correctfont';
+	font-size: 16pt;
+	height:35px;
+	padding-top: 10px;
+}
+#careerspostthumb{
+	height:137px;
+	width:97px;
+	position: relative;
+	top:45px;
+}
+#careerspostcontent{
+	width:300px;
+	height:133px;
+	position: relative;
+	left:114px;
+	top:-95px;
+	font-size: 12pt;
+	color:black;
+	font-family: 'correctfont';
+}
+#jobssinglepost{
+	border:20px solid #f6f6f6;
+}
+#jobssingleposttitle{
+	color:white;
+	background-color: red;
+	width:586px;
+	text-align: center;
+	padding-top: 8px;
+	height:33px;
+}
+#jobssinglepostthumb{
+	float:left;
+}
+#jobssinglepostcontent{
+	position: relative;
+	left:10px;
+	width:900px;
+}
+#jobssinglepostcontent a{
+	color:blue;
+}
+#ss-homepic{
+	height:444px;
+	background-image:url('images/solarsolutionshomepic.gif');
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+.sspicnavs{
+	background-color: #9dbe31;
+	opacity:.8;
+	position: relative;
+	height:35px;
+	top:-433px;
+	margin:auto;
+	width:965px;
+}
+.sspicnavs ul li a{
+	text-decoration: none;
+	font-weight:400;
+	font-size:18pt;
+	font-family:"Bell Gothic Std", sans-serif;
+	color:white;
+}
+#ss-picnav ul li{
+	display:inline-block ;
+	padding-left: 67px ;
+	padding-top: 5px;
+}
+
+#ss-residentialsolutions{
+	background-color: white;
+	width:201px;
+	height:275px;
+	position: relative;
+	left:57px;
+	top:3px;
+}
+#ss-rstit{
+	background-color: #9cc22e;
+}
+#ss-rstitl1 a:hover, a:visited, a:link, a:active{
+	text-decoration: none;
+}
+#ss-rspic{
+	height:88px;
+}
+#ss-rstext{
+	height:150px;
+	width:201px;
+	background-color: #f4f6f7;
+}
+
+#ss-rsmoreinfo{
+	position: relative;
+	left:90px;
+	top:-28px;
+	width:93px;
+}
+#ss-rsmoreinfotext{
+	background-color: #e64f34;
+	color:white;
+}
+#ss-rsmoreinfoarrow{
+	background-color: black;
+	color:white;
+	width:15px;
+	position: relative;
+	top:-27px;
+	left:88px;
+	padding-left: 7px;
+	padding-top: 5px;
+	height:22px;
+}
+#ss-commercialsolutions{
+	position: relative;
+	height:275px;
+	left:274px;
+	top:-273px;
+	width:201px;
+}
+#ss-cstit{
+	background-color: #9EC02D;
+}
+#ss-cspic{
+	height:88px;
+	width:201px;	
+}
+#ss-cstext{
+	height:150px;
+	width:201px;
+	background-color: #f4f6f7;
+}
+
+#ss-csmoreinfo{
+	position: relative;
+	left:90px;
+	top:-28px;
+	width:93px;
+}
+#ss-csmoreinfotext{
+	background-color: #83cdfe;
+	color:white;
+}
+#ss-csmoreinfoarrow{
+	background-color: black;
+	color:white;
+	width:15px;
+	position: relative;
+	top:-27px;
+	left:88px;
+	padding-left: 7px;
+	padding-top: 5px;
+	height:22px;
+}
+#ss-architectsandbuilders{
+	position: relative;
+	left:491px;
+	top:-549px;
+	width:201px;
+	height:275px;
+}
+#ss-abtit{
+	background-color: #9EC02d;
+}
+#ss-abpic{
+	height:88px;
+	max-width: 280px;
+}
+#ss-abtext{
+	height:150px;
+	width:201px;
+	background-color: #f4f6f7;
+}
+#ss-abmoreinfo{
+	position: relative;
+	left:90px;
+	top:-28px;
+	width:93px;
+}
+#ss-abmoreinfotext{
+	background-color: #9EC02d;
+	color:white;
+}
+#ss-abmoreinfoarrow{
+	background-color: black;
+	color:white;
+	width:15px;
+	position: relative;
+	top:-27px;
+	left:88px;
+	padding-left: 7px;
+	padding-top: 5px;
+	height:22px;
+}
+#ss-requestaquote{
+	position: relative;
+	left:707px;
+	top:-822px;
+	width:201px;
+	height:275px;
+}
+#ss-raqtit{
+	background-color: #bc00ed;
+}
+#ss-raqtit:hover{
+	cursor:pointer;
+}
+#ss-raqpic{
+	height:88px;
+}
+#ss-raqtext{
+	height:150px;
+	width:201px;
+	background-color: #f4f6f7
+}
+
+#ss-raqmoreinfo{
+	position: relative;
+	left:90px;
+	top:-28px;
+	width:93px;
+}
+#ss-raqmoreinfotext{
+	background-color: #bc00ed;
+	color:white;
+}
+#ss-raqmoreinfoarrow{
+	background-color: black;
+	color:white;
+	width:15px;
+	position: relative;
+	top:-27px;
+	left:88px;
+	padding-left: 7px;
+	padding-top: 5px;
+	height:22px;
+}
+#solarbasics{
+	position: relative;
+	top:-61px;
+}
+#solarbasicstitle{
+	text-align: center;
+	font-family: "correctfont";
+	font-size: 24pt;
+	color:#0c406d;
+}
+#solarbasicstext{
+	position: relative;
+	top:-331px;
+	left:510px;
+	width:456px;
+	font-family: "correctfont";
+	font-size: 11pt;
+
+}
+#ourprojects{
+	position: relative;
+	top:-351px;	
+	background-color: #f4f6f7;
+	height:445px;
+	padding-top: 4px;
+}
+#ourprojectspic{
+	padding-top: 6px;
+	text-align: center;
+	height:399px;
+	overflow: hidden;
+}
+/*
+img#GB_frame{
+	visibility: visible !important;
+	width:965px !important;
+	height:730px !important;
+}
+iframe.GB_frame{
+	width:965px !important;
+	height:600px !important;
+}
+div#GB_window.GB_Gallery{
+	position: relative;
+	left:494px !important;
+	top:1400px !important;
+}
+#GB_window .content{
+	width:965px !important;
+}
+div.content{
+	position: fixed;
+	padding-left:218px;
+	top:59px;
+	left:218px;
+}
+
+img.left{
+	position: relative;
+	top:257px;
+	left:-409px;
+}
+img.right{
+	position: relative;
+	top:257px;
+	left:441px;
+
+}
+*/
+.ourprojectsgaltext{
+	padding-top: 50px;
+	opacity:1 !important;
+}
+#ourprojectstopleft{
+	height:126px;
+	width:132px;
+	position: relative;
+	top:-387px;
+	left:280px;
+}
+#ourprojectstop{
+	height:129px;
+	width:136px;
+	position: relative;
+	top:-513px;
+	left:412px;
+}
+#ourprojectstopright{
+	height:127px;
+	width:132px;
+	position: relative;
+	top:-641px;
+	left:548px;
+}
+#ourprojectsmidleft{
+	height:130px;
+	width:133px;
+	position: relative;
+	top:-643px;
+	left:280px;
+}
+#ourprojectsmidmid{
+	height:128px;
+	width:135px;
+	position: relative;
+	top:-771px;
+	left:413px;
+}
+#ourprojectsmidright{
+	height:127px;
+	width:133px;
+	position: relative;
+	top:-899px;
+	left:548px;
+}
+#ourprojectsbottomleft{
+	height:127px;
+	width:133px;
+	position: relative;
+	top:-897px;
+	left:280px;
+}
+#ourprojectsbottommid{
+	height:127px;
+	width:137px;
+	position: relative;
+	top:-1025px;
+	left:412px;
+}
+#ourprojectsbottomright{
+	height:127px;
+	width:133px;
+	position: relative;
+	top:-1153px;
+	left:549px;
+}
+#thecirculardifferenceouter{
+	background-color: #f4f6f7;
+	height:272px;
+	position: relative;
+	top:-296px;
+}
+#thecirculardifferencetitle{
+	font-family: "correctfont";
+	font-size: 24pt;
+	color:#0c406d;
+	width:570px;
+	background-color: white;
+	position: relative;
+	left:55px;
+	padding-left: 290px;
+	top:16px;
+}
+#thecirculardifferencetext{
+	background-color: white;
+	position: relative;
+	left:53px;
+	top:12px;
+	width:688px;
+	height:186px;
+	padding-right: 77px;
+	padding-left: 95px;
+	padding-top: 17px;
+	font-family: "correctfont";
+	font-size: 12pt;
+	color:#4e4e4f;
+}
+#thecirculardifferencetextl2{
+	position: relative;
+	top:18px;
+}
+#meetourteamthatmakesitallhappen{
+	position: relative;
+	top:-242px;
+}
+#meetourteamthatmakesitallhappentext{
+	font-family: "correctfont";
+	font-size: 24pt;
+	color:#0c406d;
+	text-align: center;
+}
+#circularenergysolar{
+	position: relative;
+	top:0px;
+	text-align: center;
+}
+#ss-meettheteam{
+	padding-top: 40px;
+}
+
+#jimsteffes{
+	float:left;
+	width:196px;
+	padding-left: 30px;
+}
+#jimsteffesname{
+	font-family: "Microsoft Tai Le";
+	font-size: 11pt;
+	position: relative;
+	top:-103px;
+	left:72px;
+	color:#bf2309;
+}
+#jimsteffesjobtitle{
+	position: relative;
+	top:-103px;
+	left:71px;
+	font-family: "correctfont";
+	font-size: 12pt;
+}
+#jimsteffesphone{
+	position: relative;
+	top:-103px;
+	left:72px;
+	font-family: "correctfont";
+	font-size: 12pt;
+}
+#jimsteffesemail{
+	position: relative;
+	top:-103px;
+	left:71px;
+}
+#jcshore{
+	float:left;
+	width:196px;
+	padding-left: 135px;
+}
+#jcshorename{
+	font-family: "Microsoft Tai Le";
+	font-size: 11pt;
+	position: relative;
+	top:-103px;
+	left:72px;
+	color:#bf2309;
+}
+#jcshorejobtitle{
+	position: relative;
+	top:-103px;
+	left:71px;
+	font-family: "correctfont";
+	font-size: 12pt;
+	width:236px;
+}
+#jcshorephone{
+	position: relative;
+	top:-103px;
+	left:72px;
+	font-family: "correctfont";
+	font-size: 12pt;
+}
+#jcshoreemail{
+	position: relative;
+	top:-103px;
+	left:71px;
+}
+#jenniferlove{
+	width:196px;
+	float: left;
+	position: relative;
+	left:30px;
+}
+#jenniferlovename{
+	font-family: "Microsoft Tai Le";
+	font-size: 11pt;
+	position: relative;
+	top:-103px;
+	left:71px;
+	color:#bf2309;
+}
+#jenniferlovejobtitle{
+	position: relative;
+	top:-103px;
+	left:71px;
+	font-family: "correctfont";
+	font-size: 12pt;
+}
+#jenniferlovephone{
+	position: relative;
+	top:-103px;
+	left:72px;
+	font-family: "correctfont";
+	font-size: 12pt;
+}
+#jenniferloveemail{
+	position: relative;
+	top:-103px;
+	left:71px;
+}
+
+
+#danieldelatorre{
+	width:196px;
+	float:left;
+	position: relative;
+	left:163px;
+}
+#danieldelatorrename{
+	font-family: "Microsoft Tai Le";
+	font-size: 11pt;
+	position: relative;
+	top:-103px;
+	left:70px;
+	color:#bf2309;
+}
+#danieldelatorrejobtitle{
+	position: relative;
+	top:-103px;
+	left:71px;
+	font-family: "correctfont";
+	font-size: 12pt;
+}
+#danieldelatorrephone{
+	position: relative;
+	top:-103px;
+	left:72px;
+	font-family: "correctfont";
+	font-size: 12pt;
+}
+#danieldelatorreemail{
+	position: relative;
+	top:-103px;
+	left:71px;
+}
+
+#rogerjennings{
+	width:196px;
+	float:left;
+	padding-left: 140px;
+}
+#rogerjenningsname{
+	font-family: "Microsoft Tai Le";
+	font-size: 11pt;
+	position: relative;
+	top:-103px;
+	left:69px;
+	color:#bf2309;
+}
+#rogerjenningsjobtitle{
+	position: relative;
+	top:-103px;
+	left:71px;
+	font-family: "correctfont";
+	font-size: 12pt;
+}
+#rogerjenningsphone{
+	position: relative;
+	top:-103px;
+	left:72px;
+	font-family: "correctfont";
+	font-size: 12pt;
+}
+#rogerjenningsemail{
+	position: relative;
+	top:-103px;
+	left:71px;
+}
+#jimmygarrett{
+	float:right;
+	padding-right: 71px;
+	width:196px;
+}
+#jimmygarrettname{
+	font-family: "Microsoft Tai Le";
+	font-size: 11pt;
+	position: relative;
+	top:-103px;
+	left:70px;
+	color:#bf2309;
+}
+#jimmygarrettjobtitle{
+	position: relative;
+	top:-103px;
+	left:71px;
+	font-family: "correctfont";
+	font-size: 12pt;
+}
+#jimmygarrettphone{
+	position: relative;
+	top:-103px;
+	left:72px;
+	font-family: "correctfont";
+	font-size: 12pt;
+}
+#jimmygarrettemail{
+	position: relative;
+	top:-103px;
+	left:71px;
+}
+#locations{
+	position: relative;
+	top:-178px;
+	height:324px;
+}
+#locationstitle{
+	position: relative;
+	left:-42px;
+	top:-97px;
+}
+#ss-locationsnav{
+	background-color: #9cc22e;
+	color:black;
+	height:20px;
+	position: relative;
+	top:56px;
+	z-index: 5;
+	width:448px;
+}
+#ss-locationsnav ul li a{
+	text-decoration: none;
+	font-weight:400;
+	font-size:12pt;
+	font-family:"Bell Gothic Std";
+	color:black;
+}
+#ss-locationsnavtext{
+	position: relative;
+	left:5px;
+}
+#ss-locationsnavtext ul li{
+	display:inline;
+	padding:4px;
+}
+#ss-locationsnavtext ul li a{
+	color:black;
+	font-family: "Swiss721BT";
+	font-style:"BoldCondensed";
+	font-size: 11pt;
+}
+
+#locationspic{
+	position: relative;
+	top:-99px;
+}
+#rs-locationspic{
+	position: relative;
+	top:80px;
+}
+#rs-locations{
+	position: relative;
+	top:73px;
+}
+#rs-locationsnav{
+	background-color: #9cc22e;
+	color:black;
+	height:20px;
+	position: relative;
+	top:56px;
+	z-index: 5;
+	width:448px;
+}
+#rs-locationsnavtext{
+	position: relative;
+	left:5px;	
+}
+#rs-locationsnavtext ul li{
+	display:inline;
+	padding-left:3px;
+}
+#rs-locationsnav ul li a{
+	text-decoration: none;
+	font-weight:400;
+	font-size:12pt;
+	font-family:"Bell Gothic Std";
+	color:black;
+}
+#sliderFrame{
+	width:965px !important;
+}
+#slider div.navBulletsWrapper{
+	display:none;
+}
+#becauseyoualwaysneedtobeupdatedsection{
+	position: relative;
+	top:-180px;
+}
+#becauseyoualwaysneedtobeupdated{
+	position: relative;
+	top:3px;
+	text-align: center;
+	font-family: "correctfont";
+	font-size: 24pt;
+	color:#0c406d;
+}
+#ssblog{
+	position: relative;
+	top:24px;
+	height:194px;
+	width:965px;
+}
+#latestenergynews{
+	color:green;
+	position: relative;
+	top:-6px;
+}
+#ssblogpost1{
+	width:350px;
+	position: relative;
+	top:10px;
+}
+#ssblogpost1title{
+	position: relative;
+	top:-77px;
+	left:100px;
+	color:blue;
+	width:328px;
+}
+#ssblogpost1content{
+	width:300px;
+	position: relative;
+	left:100px;
+	top:-76px;
+	font-size: 8pt;
+}
+#ssblogpost2{
+	position: relative;
+	top:-175px;
+	left:522px;
+	width:350px;
+}
+#ssblogpost2title{
+	position: relative;
+	top:-53px;
+	left:125px;
+	color:blue;
+	width:328px;
+}
+#ssblogpost2content{
+	width:300px;
+	position: relative;
+	left:126px;
+	top:-51px;
+	font-size: 8pt;
+}
+#ssblogpost3{
+	position: relative;
+	top:-173px;
+	left:1px;
+	width:350px;
+}
+#ssblogpost3title{
+	position: relative;
+	top:-47px;
+	left:100px;
+	color:blue;
+}
+#ssblogpost3content{
+	width:310px;
+	position: relative;
+	left:100px;
+	top:-46px;
+	font-size: 8pt;
+}
+#ssblogpost4{
+	position: relative;
+	top:-315px;
+	left:524px;
+	width:350px;
+}
+#ssblogpost4title{
+	position: relative;
+	top:-66px;
+	left:123px;
+	color:blue;
+}
+#ssblogpost4content{
+	width:310px;
+	position: relative;
+	left:123px;
+	top:-66px;
+	font-size: 8pt;
+}
+#rs-homepic{
+	height:444px;
+	background-image:url('images/lightbulbpic.gif');
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+
+#rs-picnav ul li{
+	display:inline-block ;
+	padding-left: 26px ;
+	padding-top: 5px;
+}
+
+#residentialsolutions{
+	background-color: white;
+	width:201px;
+	height:275px;
+	position: relative;
+	left:57px;
+}
+#rstit{
+	background-color: #9cc22e;
+	width:201px;
+	height:65px;
+	color:white;
+	padding-top:23px;
+	font-size: 14pt;
+	font-family: "Bell Gothic Std";
+}
+#rstitl1 a:hover, a:visited, a:link, a:active{
+	text-decoration: none;
+}
+#rspic{
+	height:88px;
+}
+#rstext{
+	height:150px;
+	font-size:10px;
+	width:201px;
+	background-color: #f4f6f7
+}
+#rstext p{
+	padding-left: 23px;
+	width:155px;
+}
+#rsmoreinfo{
+	position: relative;
+	left:90px;
+	top:-28px;
+	width:93px;
+}
+#rsmoreinfotext{
+	background-color: #e64f34;
+	color:white;
+	font-family:"BellGothicStd";
+	font-size: 10px;
+	height:19px;
+	padding-left: 16px;
+	padding-top: 8px;
+}
+#rsmoreinfoarrow{
+	background-color: black;
+	color:white;
+	width:15px;
+	position: relative;
+	top:-27px;
+	left:88px;
+	padding-left: 7px;
+	padding-top: 5px;
+	height:22px;
+}
+#commercialsolutions{
+	position: relative;
+	height:275px;
+	left:274px;
+	top:-275px;
+	width:201px;
+}
+#cstit{
+	background-color: #9EC02D;
+	width:201px;
+	height:66px;
+	color:white;
+	padding-top:22px;
+	font-size: 14pt;
+	font-family: "Bell Gothic Std";
+}
+#cstitl1{
+	position: relative;
+	left:40px;
+}
+#cstitl2{
+	position: relative;
+	left:47px;
+}
+#cspic{
+	height:88px;
+	width:201px;	
+}
+#cstext{
+	height:150px;
+	font-size: 10px;
+	width:201px;
+	background-color: #f4f6f7
+}
+#cstext h3{
+	padding-left: 23px;
+	padding-top: 20px;
+}
+#cstext p{
+	padding-left: 23px;
+	width:155px;
+}
+#csmoreinfo{
+	position: relative;
+	left:90px;
+	top:-28px;
+	width:93px;
+}
+#csmoreinfotext{
+	background-color: #83cdfe;
+	color:white;
+	font-family:"BellGothicStd";
+	font-size: 10px;
+	height:19px;
+	padding-left: 16px;
+	padding-top: 8px;
+}
+#csmoreinfoarrow{
+	background-color: black;
+	color:white;
+	width:15px;
+	position: relative;
+	top:-27px;
+	left:88px;
+	padding-left: 7px;
+	padding-top: 5px;
+	height:22px;
+}
+#architectsandbuilders{
+	position: relative;
+	left:491px;
+	top:-551px;
+	width:201px;
+	height:275px;
+}
+#abtit{
+	background-color: #9EC02d;
+	width:201px;
+	height:66px;
+	color:white;
+	padding-top:23px;
+	font-size: 14pt;
+	font-family: "Bell Gothic Std";
+}
+#abtitl1{
+	position: relative;
+	left:40px;
+}
+#abtitl2{
+	position: relative;
+	left:42px;
+}
+#abpic{
+	height:88px;
+	max-width: 280px;
+}
+#abtext{
+	height:150px;
+	font-size: 10px;
+	width:201px;
+	background-color: #f4f6f7
+}
+#abtext h3{
+	padding-left: 23px;
+	padding-top: 20px;
+}
+#abtext p{
+	padding-left: 23px;
+	width:155px;
+}
+#abmoreinfo{
+	position: relative;
+	left:90px;
+	top:-28px;
+	width:93px;
+}
+#abmoreinfotext{
+	background-color: #9EC02d;
+	color:white;
+	font-family:"BellGothicStd";
+	font-size: 10px;
+	height:19px;
+	padding-left: 16px;
+	padding-top: 8px;
+}
+#abmoreinfoarrow{
+	background-color: black;
+	color:white;
+	width:15px;
+	position: relative;
+	top:-27px;
+	left:88px;
+	padding-left: 7px;
+	padding-top: 5px;
+	height:22px;
+}
+#requestaquote{
+	position: relative;
+	left:707px;
+	top:-826px;
+	width:201px;
+	height:275px;
+}
+#raqtit{
+	background-color: #bc00ed;
+}
+#raqtit:hover{
+	cursor:pointer;
+}
+#raqpic{
+	height:88px;
+}
+#raqtext{
+	height:150px;
+	width:201px;
+	background-color: #f4f6f7;
+	font-family:"correctfont";
+}
+#raqtext h3{
+	padding-left: 23px;
+	padding-top: 20px;
+	font-size: 9pt;
+	position: relative;
+	top:2px;
+}
+#raqtext p{
+	padding-left: 23px;
+	width:155px;
+	font-size: 8pt;
+	position: relative;
+	top:20px;
+}
+#raqmoreinfo{
+	position: relative;
+	left:90px;
+	top:-28px;
+	width:93px;
+}
+#raqmoreinfotext{
+	background-color: #bc00ed;
+	color:white;
+}
+#raqmoreinfoarrow{
+	background-color: black;
+	color:white;
+	width:15px;
+	position: relative;
+	top:-27px;
+	left:88px;
+	padding-left: 7px;
+	padding-top: 5px;
+	height:22px;
+}
+#doesmyhomequalify{
+	background-color: white;
+	width:201px;
+	height:275px;
+	position: relative;
+	left:57px;
+	top:2px;
+}
+#dmhqtit{
+	background-color: #9cc22e;
+
+}
+#dmhqtitl1 a:hover, a:visited, a:link, a:active{
+	text-decoration: none;
+}
+#dmhqtext{
+	height:150px;
+	width:201px;
+	background-color: #f4f6f7;
+}
+
+#dmhqmoreinfo{
+	position: relative;
+	left:88px;
+	top:-28px;
+	width:93px;
+}
+#dmhqmoreinfotext{
+	background-color: #e64f34;
+	color:white;
+}
+#dmhqmoreinfoarrow{
+	background-color: black;
+	color:white;
+	width:15px;
+	position: relative;
+	top:-27px;
+	left:88px;
+	padding-left: 7px;
+	padding-top: 5px;
+	height:22px;
+}
+#isitaffordable{
+	position: relative;
+	height:275px;
+	left:274px;
+	top:-272px;
+	width:201px;
+}
+#iiatit{
+	background-color: #9EC02D;
+}
+#iiapic{
+	height:88px;
+	width:201px;	
+}
+#iiatext{
+	height:150px;
+	font-size: 10px;
+	width:201px;
+	background-color: #f4f6f7;
+	font-family: "correctfont";
+}
+#iiamoreinfo{
+	position: relative;
+	left:88px;
+	top:-28px;
+	width:93px;
+}
+#iiamoreinfotext{
+	background-color: #83cdfe;
+	color:white;
+}
+#iiamoreinfoarrow{
+	background-color: black;
+	color:white;
+	width:15px;
+	position: relative;
+	top:-27px;
+	left:88px;
+	padding-left: 7px;
+	padding-top: 5px;
+	height:22px;
+}
+#doiqualifyforincentives{
+	position: relative;
+	left:491px;
+	top:-549px;
+	width:201px;
+	height:275px;
+}
+#diqfitit{
+	background-color: #9EC02d;
+}
+#diqfipic{
+	height:88px;
+	max-width: 280px;
+}
+#diqfitext{
+	height:150px;
+	width:201px;
+	background-color: #f4f6f7;
+	font-family: "correctfont";
+}
+#diqfimoreinfo{
+	position: relative;
+	left:88px;
+	top:-28px;
+	width:93px;
+}
+#diqfimoreinfotext{
+	background-color: #9EC02d;
+	color:white;
+}
+#diqfimoreinfoarrow{
+	background-color: black;
+	color:white;
+	width:15px;
+	position: relative;
+	top:-27px;
+	left:88px;
+	padding-left: 7px;
+	padding-top: 5px;
+	height:22px;
+}
+#rs-requestaquote{
+	position: relative;
+	left:707px;
+	top:-822px;
+	width:201px;
+	height:275px;
+}
+#howsolarworks{
+	position: relative;
+	top:-25px;
+}
+#howsolarworkstitle{
+	text-align: center;
+	font-family: "correctfont";
+	font-size: 24pt;
+	color:#0c406d;
+}
+#howsolarworksvideo{
+	height:246px;
+	width:435px;
+	background-color: green;
+	position: relative;
+	top:19px;
+}
+#howsolarworkspic{
+	position: relative;
+	left:500px;
+	top:-230px;
+	width:435px;
+}
+#thecircularenergyprocesstitle{
+	text-align: center;
+	font-family: "correctfont";
+	font-size: 24pt;
+	color:#0c406d;
+	position: relative;
+	top:-206px;
+}
+#thecircularenergyprocesspic{
+	height:208px;
+	width:100%;
+	position: relative;
+	top:-200px;
+}
+#thecircularenergyprocesstext{
+	color:blue;
+	font-size: 10pt;
+	width:763px;
+	position: relative;
+	top:-160px;
+	left:105px;
+}
+#thecircularenergyprocesssteps{
+	height:371px;
+	width:761px;
+	position: relative;
+	top:-140px;
+	left:105px;
+}
+#goingsolarhasneverbeenthisfunandeasy{
+	position: relative;
+	top:353px;
+	height:612px;
+}
+#goingsolarhasneverbeenthisfunandeasytitle{
+	text-align: center;
+	font-family: "correctfont";
+	font-size: 24pt;
+	color:#0c406d;
+}
+#testimonialstitle{
+	text-align: center;
+}
+#testimonials{
+	position: relative;
+	top:52px;
+	left:0px;
+	width:732px;
+	font-size: 10pt;
+}
+#testimonial1{
+	width:180px;
+}
+#testimonial1pic{
+	padding-left: 25px;
+}
+#testimonial2pic{
+	padding-left: 25px;
+}
+#testimonial3pic{
+	padding-left: 25px;
+}
+#testimonial4pic{
+	padding-left: 25px;
+}
+#testimonial2{
+	position: relative;
+	top:-221px;
+	left:261px;
+	width:180px;
+}
+#testimonial3{
+	position: relative;
+	top:-396px;
+	left:523px;
+	width:180px;
+}
+#testimonial4{
+	position: relative;
+	top:-586px;
+	left:783px;
+	width:200px;
+}
+#solarfaqs{
+	position: relative;
+	top:39px;
+}
+#solarfaqstitle{
+	text-align: center;
+	font-family: 'correctfont',sans-serif;
+	font-size: 24pt;
+	color:#0c406d;	
+}
+#generalquestions{
+	cursor: pointer;
+	padding-top: 5px;
+}
+#systemquestions{
+	cursor: pointer;
+	padding-top: 5px;
+}
+#solarfaqsnav{
+	background-color: #dce6f1;
+	height:26px;
+}
+#solarfaqsnav ul li{
+	display:inline-block ;
+	padding-left: 35px ;
+	padding-top: 5px;
+	color:blue;
+	cursor: pointer;
+}
+#solarfaqsquestions{
+	background-color: #dce6f1;
+	width:616px;
+	min-height:183px;
+	position: relative;
+	top:10px;
+	left:30px;	
+}
+.solarfaqques{
+	position: relative;
+	top:10px;
+}
+.solarfaqquestion{
+	font-weight: 700;
+	position: relative;
+	left:10px;
+}
+.solarfaqanswer{
+	position: relative;
+	left:10px;
+	padding-top:42px;
+	width:590px;
+	color:#615e5e;
+	font-size: 11pt;
+	font-family: "correctfont";
+}
+.justbold{
+	font-weight: 700;
+	font-size: 14pt;
+}
+.boldtext{
+	font-weight: 700;
+	color:black;
+}
+.indent{
+	position: relative;
+	left:7px;
+}
+.italicizetext{
+	font-style: italic;
+}
+.picnavgreen{
+	background-color:#9cc22e !important;
+}
+.centertext{
+	text-align: center;
+}
+.secondbox{
+	position: relative;
+	left:271px;
+	top:-123px;
+}
+.thirdbox{
+	position: relative;
+	left:486px;
+	top:-123px;
+}
+.navsectiontitle{
+	text-align: center;
+	font-family: "correctfont";
+	font-size: 24pt;
+	color:#0c406d;
+}
+#solarfaqspic{
+	position: relative;
+	top:-150px;
+	left:670px;
+	width:200px;
+}
+#dmhqpage{
+	position: relative;
+	height:1971px;
+	width:965px;
+	margin:auto;
+}
+#dmhqpic{
+	height:444px;
+	background-image:url('images/qualifymain.gif');
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+#dmhqsinglebox{
+	background-color: white;
+	width:201px;
+	height:89px;
+	position: relative;
+	left:57px;
+	top:-123px;
+}
+#dmhqsingleboxtit{
+	background-color: #9cc22e;
+	width:201px;
+	height:65px;
+	color:white;
+	padding-top:23px;
+	font-size: 14pt;
+	font-family: "Bell Gothic Std";
+}
+#dmhqsingleboxtitl1, #dmhqsingleboxtitl2{
+	text-align: center;
+}
+#dmhqsingleboxtitl1 a:hover, a:visited, a:link, a:active{
+	text-decoration: none;
+}
+#dmhqcontent{
+	position: relative;
+	top:-85px;
+}
+#dmhqtitle{
+	text-align: center;
+	color:#2f547a;
+	font-size: 24pt;
+	font-family: "correctfont";	
+}
+#iiapage{
+	position: relative;
+	height:2438px;
+	width:965px;
+	margin:auto;
+}
+#iiamainpic{
+	height:444px;
+	background-image:url('images/affordabilitymain.gif');
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+#iiasinglebox{
+	background-color: white;
+	width:201px;
+	height:89px;
+}
+#iiasingleboxtit{
+	background-color: #9cc22e;
+	width:201px;
+	height:65px;
+	padding-top:23px;
+}
+#iiasingleboxtitl1, #dmhqsingleboxtitl2{
+	text-align: center;
+}
+#iiasingleboxtitl1 a:hover, a:visited, a:link, a:active{
+	text-decoration: none;
+}
+#iia-solarcostandpowerproduction{
+	position: relative;
+	top:-80px;
+}
+#iia-solarcostandpowerproductiontitle{
+	position: relative;
+	top:-20px;
+}
+#iia-solarcostandpowerproductiontext{
+	font-family: "correctfont";
+	font-size: 12pt;
+	color:#6c6f71;
+}
+#iia-affordabilitypic{
+	width:965px;
+	height:1663px;
+	background-image:url('images/affordabilitypic.gif');
+	position: relative;
+	top:-50px;
+}
+#iia-costofsolar{
+	font-family: 'correctfont';
+	font-size: 12pt;
+	color:#6c6f71;
+}
+#iia-costofsolartitle{
+	text-align: center;
+	font-family: 'correctfont';
+	font-size: 24pt;
+	color:white;
+	position: relative;
+	top:15px;
+}
+#iia-costofsolartext1{
+	width:500px;
+	position: relative;
+	left:438px;
+	top:54px;
+}
+#iia-costofsolartext2{
+	width:500px;
+	position: relative;
+	left:438px;
+	top:87px;
+}
+#iia-costofsolartext3{
+	position: relative;
+	left:71px;
+	top:109px;
+	width:857px;
+}
+#iia-costofnotgoingsolar{
+	font-family: 'correctfont';
+	font-size: 12pt;
+	color:#6c6f71;	
+}
+#iia-costofnotgoingsolartitle{
+	position: relative;
+	top:147px;
+}
+#iia-costofnotgoingsolartext1{
+	position: relative;
+	top:176px;
+	left:70px;
+	width:500px;
+}
+#iia-costofnotgoingsolartext2{
+	position: relative;
+	top:205px;
+	left:70px;
+	width:500px;
+}
+#iia-costofnotgoingsolartext3{
+	position: relative;
+	top:230px;
+	left:70px;
+	width:500px;
+}
+#iia-costofnotgoingsolartext4{
+	position: relative;
+	top:262px;
+	left:70px;
+	width:500px;
+}
+#iia-circularenergysolarfinancingtitle{
+	position: relative;
+	top:283px;
+}
+#iia-circularenergysolarfinancingtext1{
+	position: relative;
+	top:303px;
+	left:45px;
+	color:#0e87c9;
+	width:820px;
+	font-size: 18pt;
+	font-family: 'correctfont';
+}
+#iia-circularenergysolarfinancingtext2{
+	position: relative;
+	top:339px;
+	left:278px;
+	width:647px;
+	color:white;
+	font-family: 'correctfont';
+}
+#iia-circularenergysolarfinancingtext3{
+	position: relative;
+	top:352px;
+	left:302px;
+	width:647px;
+	color:white;
+	font-family: 'correctfont';
+}
+#iia-circularenergysolarfinancingtext4{
+	position: relative;
+	top:376px;
+	left:302px;
+	width:647px;
+	color:white;
+	font-family: 'correctfont';
+}
+#iia-circularenergysolarfinancingtext5{
+	position: relative;
+	top:517px;
+	left:40px;
+	width:918px;
+	color:white;
+	font-family: 'correctfont';
+}
+#iia-circularenergysolarfinancingtext6{
+	position: relative;
+	top:590px;
+	left:40px;
+	width:918px;
+	color:white;
+	font-family: 'correctfont';
+}
+#iia-circularenergysolarfinancingtext7{
+	position: relative;
+	top:649px;
+	color:#0e87c9;
+	font-size: 17pt;
+}
+#diqfi-page{
+	position: relative;
+	height:1250px;
+	width:965px;
+	margin:auto;
+}
+#diqfi-pic{
+	height:444px;
+	background-image:url('images/incentivesmain.gif');
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+#diqfi-singlebox{
+	background-color: white;
+	width:201px;
+	height:89px;
+}
+#diqfi-singleboxtit{
+	background-color: #9cc22e;
+	width:201px;
+	height:65px;
+	color:white;
+	padding-top:23px;
+	font-size: 14pt;
+	font-family: "Bell Gothic Std";
+}
+#diqfi-singleboxtitl1, #dmhqsingleboxtitl2{
+	text-align: center;
+}
+#diqfi-singleboxtitl1 a:hover, a:visited, a:link, a:active{
+	text-decoration: none;
+}
+#diqfi-content{
+	position: relative;
+	top:-115px;
+}
+#diqfi-title{
+	text-align: center;
+	color:#2f547a;
+	font-size: 24pt;
+	font-family: "correctfont";	
+}
+#jslightbox{
+	position: relative;
+	top:-187px;
+}
+
+#commercialsolar-homepic{
+	height:444px;
+	background-image:url('images/commercialsolarmainpic.gif');
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+
+#commercialsolar-homepage{
+	position: relative;
+	width:965px;
+	margin:auto;
+	height:2018px;
+}
+#cs-picnav ul li{
+	padding-left: 75px;
+	display:inline-block;
+	padding-top: 5px;
+
+}
+#thebusinesscasefourbox{
+	background-color: white;
+	width:201px;
+	height:275px;
+	position: relative;
+	left:57px;
+	top:3px;
+}
+#thebusinesscasepicnav{
+	background-color: #8a8f99;
+	opacity:.8;
+	height:35px;
+	width:965px;	
+	position: relative;
+	top:-432px;
+}
+#thebusinesscasepicnav ul{
+	padding-left: 40px;
+}
+#thebusinesscasepicnav ul li{
+	display:inline-block ;
+	padding-left: 17px ;
+	padding-top: 5px;
+}
+#thebusinesscasepicnav ul li a{
+	text-decoration: none;
+	font-size:18pt;
+	font-family:'Bell Gothic Std',sans-serif;
+	color:white;
+}
+#tbctit{
+	background-color: #9cc22e;
+}
+#tbctitl1 a:hover, a:visited, a:link, a:active{
+	text-decoration: none;
+}
+#tbctext{
+	height:150px;
+	width:201px;
+	background-color: #f4f6f7;
+	font-family:"correctfont";
+	position: relative;
+	top:-4px;
+}
+#tbcmoreinfo{
+	position: relative;
+	left:90px;
+	top:-32px;
+	width:93px;
+}
+#tbcmoreinfotext{
+	background-color: #e64f34;
+}
+#tbcmoreinfoarrow{
+	background-color: black;
+	color:white;
+	width:15px;
+	position: relative;
+	top:-27px;
+	left:88px;
+	padding-left: 7px;
+	padding-top: 5px;
+	height:22px;
+}
+#theturnkeyprocessfourbox{
+	position: relative;
+	height:275px;
+	left:274px;
+	top:-272px;
+	width:201px;
+}
+#ttkptit{
+	background-color: #9EC02D;
+}
+#ttkppic{
+	height:88px;
+	width:201px;	
+}
+#ttkptext{
+	height:150px;
+	font-size: 10px;
+	width:201px;
+	background-color: #f4f6f7;
+	font-family: "correctfont";
+}
+
+#ttkpmoreinfo{
+	position: relative;
+	left:90px;
+	top:-28px;
+	width:93px;
+}
+#ttkpmoreinfotext{
+	background-color: #83cdfe;
+}
+#ttkpmoreinfoarrow{
+	background-color: black;
+	color:white;
+	width:15px;
+	position: relative;
+	top:-27px;
+	left:88px;
+	padding-left: 7px;
+	padding-top: 5px;
+	height:22px;
+}
+#thelifetimewarrantyfourbox{
+	position: relative;
+	left:491px;
+	top:-547px;
+	width:201px;
+	height:275px;
+}
+#tlwtit{
+	background-color: #9EC02d;
+}
+#tlwpic{
+	height:88px;
+	max-width: 280px;
+}
+#tlwtext{
+	height:150px;
+	width:201px;
+	background-color: #f4f6f7;
+	font-family: "correctfont";
+}
+#tlwmoreinfo{
+	position: relative;
+	left:90px;
+	top:-28px;
+	width:93px;
+}
+#tlwmoreinfotext{
+	background-color: #9EC02d;
+}
+#tlwmoreinfoarrow{
+	background-color: black;
+	color:white;
+	width:15px;
+	position: relative;
+	top:-27px;
+	left:88px;
+	padding-left: 7px;
+	padding-top: 5px;
+	height:22px;
+}
+
+#compes-page{
+	position: relative;
+	height:933px;
+	width:965px;
+	margin:auto;
+}
+#compes-pic{
+	height:444px;
+	background-image:url('images/comprehensiveenergysolutionmain.gif');
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+#compes-singlebox{
+	background-color: white;
+	width:201px;
+	height:89px;
+}
+#compes-singleboxtit{
+	background-color: #9cc22e;
+	width:201px;
+	height:65px;
+	color:white;
+	padding-top:23px;
+	font-size: 14pt;
+	font-family: "Bell Gothic Std";
+}
+#compes-singleboxtitl1, #dmhqsingleboxtitl2{
+	text-align: center;
+}
+#compes-singleboxtitl1 a:hover, a:visited, a:link, a:active{
+	text-decoration: none;
+}
+#compes-content{
+	position: relative;
+	top:-115px;
+}
+#compes-title{
+	text-align: center;
+	color:#2f547a;
+	font-size: 24pt;
+	font-family: "correctfont";	
+}
+
+#contactusnowfourbox{
+	position: relative;
+	left:707px;
+	top:-822px;
+	width:201px;
+	height:275px;
+}
+#cuntit{
+	background-color: #bc00ed;
+}
+#cuntit:hover{
+	cursor:pointer;
+}
+#cunpic{
+	height:88px;
+}
+#cuntext{
+	height:150px;
+	width:201px;
+	background-color: #f4f6f7;
+	font-family:"correctfont";
+}
+#cuntext h3{
+	padding-left: 23px;
+	padding-top: 20px;
+	font-size: 9pt;
+	position: relative;
+	top:2px;
+}
+#cuntext p{
+	padding-left: 23px;
+	width:155px;
+	font-size: 8pt;
+	position: relative;
+	top:20px;
+}
+#cunmoreinfo{
+	position: relative;
+	left:90px;
+	top:-28px;
+	width:93px;
+}
+#cunmoreinfotext{
+	background-color: #bc00ed;
+}
+#cunmoreinfoarrow{
+	background-color: black;
+	color:white;
+	width:15px;
+	position: relative;
+	top:-27px;
+	left:88px;
+	padding-left: 7px;
+	padding-top: 5px;
+	height:22px;
+}
+#cs-ourprojects{
+	background-color: #f2f2f2;
+	height:450px;
+	z-index:0;
+}
+#cs-ourprojectstitle{
+	position: relative;
+	top:3px;
+}
+#cs-ourprojectspic{
+	position: relative;
+	top:11px;
+}
+#commercialsolarourproj{
+	position: relative;
+	top:45px;
+}
+#cs-ourprojectsgreenline{
+	background-color: #9cc22e;
+	height:50px;
+	position: relative;
+	top:63px;
+	z-index: 1;
+}
+#cs-ourprojectsmultifampic{
+	position: relative;
+	top:-10px;
+	left:50px;
+}
+#cs-ourprojectsmultifamtext{
+	position: relative;
+	left:-18px;
+	top:15px;
+}
+
+#cs-ourprojectscardealershippic{
+	position: relative;
+	top:-10px;
+	left:60px;
+}
+#cs-ourprojectscardealershiptext{
+	position: relative;
+	left:-30px;
+	top:15px;
+}
+#cs-ourprojectsindustrialpic{
+	position: relative;
+	top:-10px;
+	left:0px;
+}
+#cs-ourprojectsindustrialtext{
+	position: relative;
+	left:-50px;
+	top:15px;
+}
+#cs-ourprojectsofficespacepic{
+	position: relative;
+	top:-10px;
+	left:0px;
+}
+#cs-ourprojectsofficespacetext{
+	position: relative;
+	left:-80px;
+	top:15px;
+}
+#cs-ourprojectsschoolspic{
+	position: relative;
+	top:-10px;
+	left:-20px;
+}
+#cs-ourprojectsschoolstext{
+	position: relative;
+	left:-90px;
+	top:15px;
+}
+#cs-ourprojectsrestaurantspic{
+	position: relative;
+	top:-10px;
+	left:-20px;
+}
+#cs-ourprojectsrestaurantstext{
+	position: relative;
+	left:-90px;
+	top:15px;
+}
+#cs-ourprojectssolarcarportspic{
+	position: relative;
+	top:-10px;
+	left:-50px;
+}
+#cs-ourprojectssolarcarportstext{
+	position: relative;
+	left:837px;
+	top:-3px;
+}
+#cs-thecirculardifference{
+	position: relative;
+	top:50px;
+	height:271px;
+	background-color: #f2f2f2;
+}
+#cs-thecirculardifferencetitle{
+	background-color: white;
+	position: relative;
+	top:12px;
+	width:855px;
+	margin: auto
+}
+#cs-thecirculardifferencetext{
+	position:relative;
+	margin:auto;
+	width:803px;
+	background-color: white;
+	padding-left: 26px;
+	padding-right: 26px;
+	top:12px;
+	padding-top: 20px;
+	font-family: "correctfont";
+	font-size: 12pt;
+	font-style: "Roman";
+	color:#8a8a8f;
+	height:185px;
+}
+#cs-goingsolar{
+	position: relative;
+	top:100px;
+	height:348px;
+}
+#cs-goingsolarvideo{
+	width:435px;
+	height:244px;
+	position: relative;
+	top:15px;
+}
+#cs-goingsolartestimonials{
+	position: relative;
+	left:553px;
+	top:-230px;
+	width:280px;
+	text-align: center;
+}
+#cs-goingsolartest1{
+	position: relative;
+	top:6px;
+	left:-100px;
+}
+#cs-goingsolartest2{
+	position: relative;
+	top:-215px;
+	left:150px;
+}
+#cs-goingsolartest1text{
+	position: relative;
+	top:15px;
+	font-size: 10pt;
+	text-align: left;
+	width:232px;
+	left:36px;
+}
+#cs-goingsolartest2text{
+	position: relative;
+	top:15px;
+	font-size: 10pt;
+	text-align: left;
+	width:232px;
+	left:36px;
+}
+#cs-goingsolargreenline{
+	height:56px;
+	background-color: #9cc22e;
+	position: relative;
+	top:-355px;
+}
+#cs-goingsolargreenlinetext{
+	position: relative;
+	top:15px;
+	left:50px;
+	color:white;
+	font-family: "correctfont";
+	font-style: "Roman";
+	font-size: 18pt;
+}
+#cs-meetourteam{
+	position: relative;
+	top:-100px;
+	height:181px;
+}
+#cs-jimsteffes{
+	position: relative;
+	top:21px;
+	left:61px;
+	width:196px;
+}
+#cs-jimsteffesname{
+	font-family: "Microsoft Tai Le";
+	font-size: 11pt;
+	position: relative;
+	top:-37px;
+	left:47px;
+	color:#bf2309;
+}
+#cs-jimsteffesjobtitle{
+	position: relative;
+	top:-37px;
+	left:50px;
+	font-size: 8pt;
+	font-weight: 700;
+}
+#cs-jimsteffesdesc{
+	position: relative;
+	top:-36px;
+	left:50px;
+	font-size: 6pt;
+	color:#cccccc;
+	width:139px;
+}
+#cs-stevesheaffer{
+	position: relative;
+	top:-77px;
+	left:280px;
+	width:196px;
+}
+#cs-stevesheaffername{
+	font-family: "Microsoft Tai Le";
+	font-size: 11pt;
+	position: relative;
+	top:-37px;
+	left:47px;
+	color:#bf2309;
+}
+#cs-stevesheafferjobtitle{
+	position: relative;
+	top:-37px;
+	left:50px;
+	font-size: 8pt;
+	font-weight: 700;
+}
+#cs-stevesheafferdesc{
+	position: relative;
+	top:-36px;
+	left:50px;
+	font-size: 6pt;
+	color:#cccccc;
+	width:139px;
+}
+#cs-jcshore{
+	position: relative;
+	top:-174px;
+	left:494px;
+	width:196px;
+}
+#cs-jcshorename{
+	font-family: "Microsoft Tai Le";
+	font-size: 11pt;
+	position: relative;
+	top:-37px;
+	left:47px;
+	color:#bf2309;
+}
+#cs-jcshorejobtitle{
+	position: relative;
+	top:-37px;
+	left:50px;
+	font-size: 8pt;
+	font-weight: 700;
+}
+#cs-jcshoredesc{
+	position: relative;
+	top:-36px;
+	left:50px;
+	font-size: 6pt;
+	color:#cccccc;
+	width:139px;
+}
+#cs-rogerjennings{
+	position: relative;
+	top:-274px;
+	left:722px;
+	width:196px;
+}
+#cs-rogerjenningsname{
+	font-family: "Microsoft Tai Le";
+	font-size: 11pt;
+	position: relative;
+	top:-37px;
+	left:47px;
+	color:#bf2309;
+}
+#cs-rogerjenningsjobtitle{
+	position: relative;
+	top:-37px;
+	left:50px;
+	font-size: 8pt;
+	font-weight: 700;
+}
+#cs-rogerjenningsdesc{
+	position: relative;
+	top:-36px;
+	left:50px;
+	font-size: 6pt;
+	color:#cccccc;
+	width:139px;
+}
+#tbc-page{
+	position: relative;
+	height:1971px;
+	width:965px;
+	margin:auto;
+}
+#tbc-pic{
+	height:444px;
+	background-image:url('images/thebusinesscasemain.gif');
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+#tbc-singlebox{
+	background-color: white;
+	width:201px;
+	height:89px;
+	position: relative;
+	left:57px;
+	top:-123px;
+}
+#tbc-singleboxtit{
+	background-color: #9cc22e;
+	width:201px;
+	height:65px;
+	color:white;
+	padding-top:23px;
+	font-size: 14pt;
+	font-family: "Bell Gothic Std";
+}
+#tbc-singleboxtitl1, #tbc-singleboxtitl2{
+	text-align: center;
+}
+#tbc-singleboxtitl1 a:hover, a:visited, a:link, a:active{
+	text-decoration: none;
+}
+#tbc-content{
+	position: relative;
+	top:-105px;
+}
+#tbc-title{
+	text-align: center;
+	color:#2f547a;
+	font-size: 24pt;
+	font-family: "correctfont";	
+}
+#ttkp-page{
+	position: relative;
+	height:1777px;
+	width:965px;
+	margin:auto;
+}
+#ttkp-pic{
+	height:444px;
+	background-image:url('images/theturnkeyprocessmain.gif');
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+#ttkp-singlebox{
+	background-color: white;
+	width:201px;
+	height:89px;
+}
+#ttkp-singleboxtit{
+	background-color: #9cc22e;
+	width:201px;
+	height:65px;
+	color:white;
+	padding-top:23px;
+	font-size: 14pt;
+	font-family: "Bell Gothic Std";
+}
+#ttkp-singleboxtitl1, #ttkp-singleboxtitl2{
+	text-align: center;
+}
+#ttkp-singleboxtitl1 a:hover, a:visited, a:link, a:active{
+	text-decoration: none;
+}
+#ttkp-content{
+	position: relative;
+	top:-105px;
+}
+#ttkp-title{
+	text-align: center;
+	color:#2f547a;
+	font-size: 24pt;
+	font-family: "correctfont";	
+}
+
+
+#austinlocationsheaderimage{
+	float: left;
+	position: relative;
+	left:11px;
+	top:-6px;
+	cursor:pointer;
+}
+#austinpagepicnav{
+	background-color: #84858d;
+	position: relative;
+	top:-437px;
+	height:37px;
+
+}
+#austinpagepicnav ul{
+	padding-top: 5px;
+}
+#austinpagepicnav ul li{
+	display: inline;
+	padding-left: 35px;
+}
+#austinpagepicnav ul li a{
+	color:white;
+	font-family: "Bell Gothic Std";
+	font-style: "Bold";
+	font-size: 18pt;
+}
+#austin-content{
+	position: relative;
+	top:-13px;
+	height: 500px;
+}
+#dallas-page{
+	position: relative;
+	height:1865px;
+	width:965px;
+	margin:auto;
+}
+#dallas-pic{
+	height:444px;
+	background-image:url('images/dallasmain.gif');
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+#dallaspagepicnav{
+	background-color: #84858d;
+	position: relative;
+	top:-437px;
+	height:37px;
+
+}
+#dallaspagepicnav ul{
+	padding-top: 5px;
+}
+#dallaspagepicnav ul li{
+	display: inline;
+	padding-left: 35px;
+}
+#dallaspagepicnav ul li a{
+	color:white;
+	font-family: "Bell Gothic Std";
+	font-style: "Bold";
+	font-size: 18pt;
+}
+#dallas-content{
+	position: relative;
+	top:-55px;
+}
+#sanantonio-page{
+	position: relative;
+	height:1867px;
+	width:965px;
+	margin:auto;
+}
+#sanantonio-pic{
+	height:444px;
+	background-image:url('images/sanantoniomain.gif');
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+#sanantoniopagepicnav{
+	background-color: #84858d;
+	position: relative;
+	top:-437px;
+	height:37px;
+
+}
+#sanantoniopagepicnav ul{
+	padding-top: 5px;
+}
+#sanantoniopagepicnav ul li{
+	display: inline;
+	padding-left: 35px;
+}
+#sanantoniopagepicnav ul li a{
+	color:white;
+	font-family: "Bell Gothic Std";
+	font-style: "Bold";
+	font-size: 18pt;
+}
+#sanantonio-content{
+	position: relative;
+	top:-55px;
+}
+#houston-page{
+	position: relative;
+	height:1867px;
+	width:965px;
+	margin:auto;
+}
+#houston-pic{
+	height:444px;
+	background-image:url('images/houstonmain.gif');
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+#houstonpagepicnav{
+	background-color: #84858d;
+	position: relative;
+	top:-437px;
+	height:37px;
+
+}
+#houstonpagepicnav ul{
+	padding-top: 5px;
+}
+#houstonpagepicnav ul li{
+	display: inline;
+	padding-left: 35px;
+}
+#houstonpagepicnav ul li a{
+	color:white;
+	font-family: "Bell Gothic Std";
+	font-style: "Bold";
+	font-size: 18pt;
+}
+#houston-content{
+	position: relative;
+	top:-55px;
+}
+#louisiana-page{
+	position: relative;
+	height:1857px;
+	width:965px;
+	margin:auto;
+}
+#louisiana-pic{
+	height:444px;
+	background-image:url('images/louisianamain.gif');
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+#louisianapagepicnav{
+	background-color: #84858d;
+	position: relative;
+	top:-437px;
+	height:37px;
+
+}
+#louisianapagepicnav ul{
+	padding-top: 5px;
+}
+#louisianapagepicnav ul li{
+	display: inline;
+	padding-left: 35px;
+}
+#louisianapagepicnav ul li a{
+	color:white;
+	font-family: "Bell Gothic Std";
+	font-style: "Bold";
+	font-size: 18pt;
+}
+#louisiana-content{
+	position: relative;
+	top:-65px;
+}
+/***** Locations Template **********/
+
+#locations-page{
+	position: relative;
+	height:1980px;
+	width:965px;
+	margin:auto;
+}
+#locations-pic{
+	height:444px;
+}
+#secondfeaturedimage{
+	position: relative;
+	top:-120px;
+	left:490px;
+	width:476px;
+	height:445px;
+	z-index:0;
+}
+#redcontactbox{
+	background-image:url('images/redbox.gif'); 
+	width:526px;
+	height:103px;
+	position: relative;
+	left:30px;
+	top:-10px;
+	z-index: 1;
+}
+#redboxaddress{
+	position: relative;
+	top:-555px;
+	left:41px;
+	font-family: "Swiss721BT Cn BT";
+	font-size: 19pt;
+	width:244px;
+	height:60px;
+	z-index: 20;
+}
+#redboxcitystate{
+	position: relative;
+	top:-555px;
+	left:41px;
+	font-family: "Swiss721BT Cn BT";
+	font-size: 19pt;
+	width:350px;
+	z-index: 20;
+}
+#redboxemail{
+	position: relative;
+	top:-567px;
+	left:324px;
+	width:350px;
+	z-index: 20;
+}
+#redboxphone{
+	position: relative;
+	top:-632px;
+	left:360px;
+	width:350px;
+	z-index: 20;
+	color:white;
+	font-family: 'Swiss721 Cn BT',sans-serif;
+	font-size: 19pt;
+}
+#needasolarinstallersection{
+	width:526px;
+	position: relative;
+	top:-510px;
+	left:30px;
+	font-family: "correctfont";
+}
+#needasolarinstallertitle{
+	font-size: 20pt;
+	font-weight: 700;
+}
+#serviceareasection{
+	width:480px;
+	position: relative;
+	top:-624px;
+	left:400px;
+	font-family: "correctfont";
+	height:127px;
+}
+#serviceareatitle{
+	font-weight: 700;
+	font-size: 20pt;
+}
+#googlemapssection{
+	width:320px;
+	height:221px;
+	position: relative;
+	top:-458px;
+	left:32px;
+	border: 11px solid #f9c340;
+}
+#ourprojectsandtestimonials{
+	background-image:url('images/ourprojectsandtestimonials.gif');
+	width:965px;
+	height:549px;
+	position: absolute;
+	top:664px;
+}
+#locationstestimonialsection{
+	z-index: 20;
+	position: relative;
+	top:-469px;
+	left:576px;
+	width: 334px;
+}
+#locationstestimonialtitle{
+	font-weight: 700;
+	font-size: 16pt;
+}
+#locationstestimonialtext{
+	position: relative;
+	top:48px;
+	height: 228px;
+}
+#casestudiestitle{
+	position: relative;
+	top:-533px;
+	left:35px;
+	z-index: 20;
+	font-family: "correctfont";
+	font-size: 18pt;
+	font-weight: 700;
+}
+#locationsgallerypic{
+	position: relative;
+	top:-709px;
+	left:89px;
+	z-index: 20;
+}
+#locationstopleft{
+	width:126px;
+	height:127px;
+	position: absolute;
+	top:0px;
+	left:0px;
+	z-index: 20;
+	cursor:pointer;
+}
+.locationsgallerytext{
+	position: relative;
+	top:56px;
+	z-index: 20;
+	color:white;
+	text-align: center;
+}
+#locationstopmid{
+	width:129px;
+	height:127px;
+	position: absolute;
+	top:0px;
+	left:126px;
+	z-index: 20;
+	cursor:pointer;
+}
+#locationstopright{
+	width:126px;
+	height:127px;
+	position: absolute;
+	top:0px;
+	left:255px;
+	z-index: 20;
+	cursor:pointer;
+}
+#locationsmidleft{
+	width:126px;
+	height:128px;
+	position: absolute;
+	top:127px;
+	left:0px;
+	z-index: 20;
+	cursor:pointer;
+}
+#locationsmidmid{
+	width:129px;
+	height:127px;
+	position: absolute;
+	top:127px;
+	left:126px;
+	z-index: 20;
+	cursor:pointer;
+}
+#locationsmidright{
+	width:126px;
+	height:128px;
+	position: absolute;
+	top:127px;
+	left:255px;
+	z-index: 20;
+	cursor:pointer;
+}
+#locationsbotleft{
+	width:126px;
+	height:126px;
+	position: absolute;
+	top:254px;
+	left:0px;
+	z-index: 20;
+	cursor:pointer;
+}
+#locationsbotmid{
+	width:129px;
+	height:126px;
+	position: absolute;
+	top:254px;
+	left:126px;
+	z-index: 20;
+	cursor:pointer;
+}
+#locationsbotright{
+	width:126px;
+	height:128px;
+	position: absolute;
+	top:254px;
+	left:255px;
+	z-index: 20;
+	cursor:pointer;
+}
+#locationsaffiliations{
+	background-image:url('images/locationsaffiliations.gif');
+	width:965px;
+	height:260px;
+	position: absolute;
+	top:1252px;
+}
+#thankyou-page{
+	position: relative;
+	height:1434px;
+	width:965px;
+	margin:auto;
+}
+#thankyou-pic{
+	height:444px;
+	background-image:url('images/thankyoumain.gif');
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+#thankyoupagepicnav{
+	background-color: #6a933d;
+	position: relative;
+	top:-437px;
+	height:37px;
+}
+#thankyoupagepicnav ul{
+	padding-top: 5px;
+}
+#thankyoupagepicnav ul li{
+	display: inline;
+	padding-left: 35px;
+}
+#thankyoupagepicnav ul li a{
+	color:white;
+	font-family: "Bell Gothic Std",sans-serif;
+	font-style: "Bold";
+	font-size: 18pt;
+}
+#thankyou-content{
+	position: relative;
+	top:-43px;
+}
+#architectsandbuilders-page{
+	position: relative;
+	height:1434px;
+	width:965px;
+	margin:auto;
+}
+#architectsandbuilders-pic{
+	height:444px;
+	background-image:url('images/architectsandbuildersmain.gif');
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+#architectsandbuilderspagepicnav{
+	background-color: #9EC02D;
+	position: relative;
+	top:-437px;
+	height:37px;
+}
+#architectsandbuilderspagepicnav ul{
+	padding-top: 5px;
+}
+#architectsandbuilderspagepicnav ul li{
+	display: inline;
+	padding-left: 35px;
+}
+#architectsandbuilderspagepicnav ul li a{
+	color:white;
+	font-family: "Bell Gothic Std",sans-serif;
+	font-style: "Bold";
+	font-size: 18pt;
+}
+#architectsandbuilders-content{
+	position: relative;
+	top:-43px;
+}
+#privacypolicy-page{
+	position: relative;
+	height:1434px;
+	width:965px;
+	margin:auto;
+}

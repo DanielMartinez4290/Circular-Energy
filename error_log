@@ -1,0 +1,39 @@
+[23-Jan-2015 02:22:25] PHP Fatal error:  Call to undefined function  get_header() in /home1/circula6/public_html/wp-content/themes/circular/index.php on line 1
+[23-Jan-2015 07:42:14] PHP Fatal error:  Call to undefined function  get_header() in /home1/circula6/public_html/wp-content/themes/circular/index.php on line 1
+[23-Jan-2015 13:47:22] PHP Fatal error:  Call to undefined function  get_header() in /home1/circula6/public_html/wp-content/themes/circular/index.php on line 1
+[23-Jan-2015 19:47:57] PHP Fatal error:  Call to undefined function  get_header() in /home1/circula6/public_html/wp-content/themes/circular/index.php on line 1
+[24-Jan-2015 01:55:53] PHP Fatal error:  Call to undefined function  get_header() in /home1/circula6/public_html/wp-content/themes/circular/index.php on line 1
+[29-Jan-2015 02:44:50] PHP Fatal error:  Call to undefined function  get_header() in /home1/circula6/public_html/wp-content/themes/circular/index.php on line 1
+[31-Jan-2015 18:47:01] PHP Fatal error:  Call to undefined function  get_header() in /home1/circula6/public_html/wp-content/themes/circular/index.php on line 1
+[02-Feb-2015 08:59:12] PHP Fatal error:  Call to undefined function  get_header() in /home1/circula6/public_html/wp-content/themes/circular/index.php on line 1
+[03-Feb-2015 09:21:18] PHP Fatal error:  Call to undefined function  get_header() in /home1/circula6/public_html/wp-content/themes/circular/index.php on line 1
+[03-Feb-2015 09:21:19] PHP Fatal error:  Call to undefined function  get_header() in /home1/circula6/public_html/wp-content/themes/circular/index.php on line 1
+[03-Feb-2015 09:21:19] PHP Fatal error:  Call to undefined function  get_header() in /home1/circula6/public_html/wp-content/themes/circular/index.php on line 1
+[03-Feb-2015 09:21:19] PHP Fatal error:  Call to undefined function  get_header() in /home1/circula6/public_html/wp-content/themes/circular/index.php on line 1
+[03-Feb-2015 09:21:20] PHP Fatal error:  Call to undefined function  get_header() in /home1/circula6/public_html/wp-content/themes/circular/index.php on line 1
+[04-Feb-2015 05:03:07] PHP Fatal error:  Call to undefined function  get_header() in /home1/circula6/public_html/wp-content/themes/circular/index.php on line 1
+[04-Feb-2015 10:36:04] PHP Fatal error:  Call to undefined function  get_header() in /home1/circula6/public_html/wp-content/themes/circular/index.php on line 1
+[04-Feb-2015 13:41:29] PHP Fatal error:  Call to undefined function  get_header() in /home1/circula6/public_html/wp-content/themes/circular/index.php on line 1
+[12-Feb-2015 16:40:54] PHP Fatal error:  Call to undefined function  get_header() in /home1/circula6/public_html/wp-content/themes/circular/index.php on line 1
+[13-Feb-2015 03:46:24] PHP Fatal error:  Call to undefined function  get_header() in /home1/circula6/public_html/wp-content/themes/circular/index.php on line 1
+[13-Feb-2015 03:47:49] PHP Fatal error:  Call to undefined function  get_header() in /home1/circula6/public_html/wp-content/themes/circular/index.php on line 1
+[13-Feb-2015 03:47:59] PHP Fatal error:  Call to undefined function  get_header() in /home1/circula6/public_html/wp-content/themes/circular/index.php on line 1
+[13-Feb-2015 03:48:02] PHP Fatal error:  Call to undefined function  get_header() in /home1/circula6/public_html/wp-content/themes/circular/index.php on line 1
+[13-Feb-2015 03:49:47] PHP Fatal error:  Call to undefined function  get_header() in /home1/circula6/public_html/wp-content/themes/circular/index.php on line 1
+[13-Feb-2015 03:50:15] PHP Fatal error:  Call to undefined function  get_header() in /home1/circula6/public_html/wp-content/themes/circular/index.php on line 1
+[13-Feb-2015 03:50:46] PHP Fatal error:  Call to undefined function  get_header() in /home1/circula6/public_html/wp-content/themes/circular/index.php on line 1
+[24-Feb-2015 10:25:37 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home1/circula6/public_html/wp-content/themes/circular/index.php on line 1
+[24-Feb-2015 16:21:05 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home1/circula6/public_html/wp-content/themes/circular/index.php on line 1
+[24-Feb-2015 20:12:11 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home1/circula6/public_html/wp-content/themes/circular/index.php on line 1
+[24-Feb-2015 22:17:10 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home1/circula6/public_html/wp-content/themes/circular/index.php on line 1
+[25-Feb-2015 03:50:58 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home1/circula6/public_html/wp-content/themes/circular/index.php on line 1
+[25-Feb-2015 03:51:07 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home1/circula6/public_html/wp-content/themes/circular/index.php on line 1
+[25-Feb-2015 09:42:58 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home1/circula6/public_html/wp-content/themes/circular/index.php on line 1
+[25-Feb-2015 09:43:13 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home1/circula6/public_html/wp-content/themes/circular/index.php on line 1
+[25-Feb-2015 16:36:47 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home1/circula6/public_html/wp-content/themes/circular/index.php on line 1
+[26-Feb-2015 16:30:06 America/Denver] PHP Warning:  include(../wp-content/themes/circular/mpdf/mpdf.php): failed to open stream: No such file or directory in /home1/circula6/public_html/wp-content/themes/circular/contractform.php on line 3
+[26-Feb-2015 16:30:06 America/Denver] PHP Warning:  include(): Failed opening '../wp-content/themes/circular/mpdf/mpdf.php' for inclusion (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home1/circula6/public_html/wp-content/themes/circular/contractform.php on line 3
+[26-Feb-2015 16:30:06 America/Denver] PHP Fatal error:  Class 'mPDF' not found in /home1/circula6/public_html/wp-content/themes/circular/contractform.php on line 5
+[26-Feb-2015 16:30:07 America/Denver] PHP Warning:  include(../wp-content/themes/circular/mpdf/mpdf.php): failed to open stream: No such file or directory in /home1/circula6/public_html/wp-content/themes/circular/contractform.php on line 3
+[26-Feb-2015 16:30:07 America/Denver] PHP Warning:  include(): Failed opening '../wp-content/themes/circular/mpdf/mpdf.php' for inclusion (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home1/circula6/public_html/wp-content/themes/circular/contractform.php on line 3
+[26-Feb-2015 16:30:07 America/Denver] PHP Fatal error:  Class 'mPDF' not found in /home1/circula6/public_html/wp-content/themes/circular/contractform.php on line 5
